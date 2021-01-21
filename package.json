@@ -1,0 +1,37 @@
+{
+  "name": "sFuture_Service",
+  "version": "0.0.1",
+  "description": "Helping students future",
+  "dependencies": {
+    "async": "2.3.0",
+    "body-parser": "1.15.2",
+    "crypto-js": "3.1.9-1",
+    "express": "^4.16.3",
+    "gridfs-stream": "^1.1.1",
+    "https": "1.0.0",
+    "jsonwebtoken": "8.2.1",
+    "jwt-simple": "0.5.1",
+    "lodash": "4.17.2",
+    "mathjs": "3.9.2",
+    "moment": "2.18.1",
+    "mongoose": "4.12.4",
+    "mongoose-auto-number": "1.0.2",
+    "mongoose-rest-query": "0.1.7",
+    "mongoose-sanitize-json": "1.0.1",
+    "morgan": "1.7.0",
+    "multiparty": "^4.2.1",
+    "nodemailer": "^6.4.2",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suyash Fowdar",
+  "license": "ISC",
+  "main": "src/app.js",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab/krishnzzz/sFuture_Service.git"
+  }
+}
