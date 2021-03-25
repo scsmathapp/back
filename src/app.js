@@ -1,14 +1,14 @@
 var express = require('express'),
 	bodyparser = require('body-parser'),
-	// mongoose = require('mongoose'),
-	// mrq = require('mongoose-rest-query'),
+	mongoose = require('mongoose'),
+	mrq = require('mongoose-rest-query'),
 	app = express(),
 	http = require('http').Server(app);
 
 var middleware = require('./middleware');
 var config = require('./app.config');
 
-// mongoose.Promise = global.Promise;
+mongoose.Promise = global.Promise;
 
 app.use(require('morgan')('tiny'));
 
@@ -32,7 +32,12 @@ app.use(express.static('public'));
 //router require
 
 //API list
-app.post('/ctrl/addcity', require('./controller/city.controller'));
+// app.use('/schema/users', restify('UserSchema'));
+app.post('/ctrl/register', require('./controller/login.controller').register);
+app.post('/ctrl/login', require('./controller/login.controller').login);
+
+// app.post('/ctrl/addcity', require('./controller/city.controller'));
+app.post('/ctrl/city/:id', require('./controller/city.controller'));
 
 app.get('/', function(req, res) {
 	console.log('Here we go!');
