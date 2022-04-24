@@ -1,7 +1,9 @@
-var http = require('http-request');
-var async = require('async');
-var cities = require('../../../front/src/assets/js/cities');
-var fs = require('fs');
+const https = require('https');
+const async = require('async');
+const cities = require('../assets/cities');
+const fs = require('fs');
+const _ = require('lodash');
+const { finished } = require('stream');
 
 module.exports = addcity;
 
@@ -10,14 +12,30 @@ function addcity(req, res) {
     async.waterfall([
 			function(callback) {
 				console.log('Fetching ' + cities[req.params.id].slug);
-				http.get(`https://vaishnavacalendar.org/json/${cities[req.params.id].slug}/${req.body.gaurabda}/en`, function(err, response) {
-					if (err) {
-						callback(null, { error: true, details: err });
-					} else {
+				https.get(`https://vaishnavacalendar.org/json/${cities[req.params.id].slug}/${req.body.gaurabda}/en`, function(res) {
+					let data = '';
+
+					// A chunk of data has been received.
+					res.on('data', (chunk) => {
+						data += chunk;
+					});
+
+					// The whole response has been received. Print out the result.
+					res.on('end', () => {
+						let obj;
 						console.log('Fetched ' + cities[req.params.id].slug);
-						callback(null, JSON.parse(response.buffer));
-					}
-				})
+						try {
+							obj = JSON.parse(data);
+							callback(null, obj);
+						} catch(e) {
+							console.log('Error ' + cities[req.params.id].slug);
+							callback(e);
+						}
+					});
+				}).on("error", (err) => {
+					console.log("Error: " + err.message);
+					callback(err);
+				});
 			},
 			function(events, callback) {
 				console.log('Casting ' + cities[req.params.id].slug);
@@ -47,6 +65,37 @@ function addcity(req, res) {
 					callback(events.error);
 				}
 			},
+			// Add Acharya Maharaj Disappearance
+			// function(callback) {
+			// 	fs.readFile('/home/suyash/Documents/Projects/Math/front/src/assets/cal-data/location-' + cities[req.params.id].city_id + '.js', 'utf8', function(err, location) {
+			// 		if (err) {
+			// 			callback(err);
+			// 		} else {
+			// 			callback(null, JSON.parse(location.split('export default ')[1]));
+			// 		}
+			// 	})
+			// },
+			// function(location, callback) {
+			// 	if (location['2022-04-29'] && location['2022-04-29'].events) {
+			// 		location['2022-04-29'].events.push({
+			// 			name: 'Disappearance festival of Sri Chaitanya Saraswat Math Acharya and Sevaite Srila Bhakti Nirmal Acharya Maharaj.'
+			// 		});
+			// 	} else {
+			// 		location['2022-04-29'] = {
+			// 			'lunar-day': 'Madhusudan Krishna Chaturdashi',
+			// 			events: [{
+			// 				name: 'Disappearance festival of Sri Chaitanya Saraswat Math Acharya and Sevaite Srila Bhakti Nirmal Acharya Maharaj.'
+			// 			}]
+			// 		}
+			// 	}
+			// 	for (let i in location) {
+			// 		if (location[i]['lunar-day'] === 'Madhusudan Krishna Ekadashi' && !location[i].special && !location[i].ekadashi) {
+			// 			location[i].ekadashi = 'Varuthini Ekadashi. Fast';
+			// 			// console.log(location[i]);
+			// 		}
+			// 	}
+			// 	callback(null, location);
+			// },
 			function(location, callback) {
 				console.log('Writing server ' + cities[req.params.id].slug);
 				location = JSON.stringify(location);
@@ -128,8 +177,8 @@ function addcity(req, res) {
 					}
 					result[i].name = result[i].name.replace(/(\<\/a\>)|(\<\/a)/g, '');
 					for(let j in eventImages) {
-						if (result[i].name.includes(eventImages[i])) {
-							result[i].img = i;
+						if (result[i].name.includes(eventImages[j])) {
+							result[i].img = j;
 						}
 					}
 				}
