@@ -1,5 +1,1 @@
-module.exports = function() {
-	return {
-		cors: require('./cors')
-	};
-}();
+export { default as cors } from './cors.js';

@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 
     //secret key used to encode token
     secretKey: 'x$snetsecret#%',

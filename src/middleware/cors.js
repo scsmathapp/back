@@ -1,4 +1,4 @@
-function cors(req, res, next) {
+export default (req, res, next) => {
 
 	res.header("Access-Control-Allow-Origin", "*");
 	//res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, x-client-id, x-auth-token, x-pos-id");
@@ -10,5 +10,3 @@ function cors(req, res, next) {
 	} else
 		next();
 };
-
-module.exports = cors;

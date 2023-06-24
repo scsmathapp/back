@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     "id": 172,
     "city_id": 1,
@@ -306,7 +306,7 @@ module.exports = [
     "timezone": "Africa/Johannesburg",
     "longitude": "28°03'E",
     "latitude": "26°12'S ",
-    "slug": "johanesburg",
+    "slug": "johannesburg",
     "DST_starts": "",
     "DST_ends": "",
     "au": 0,

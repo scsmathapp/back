@@ -1,7 +1,8 @@
 {
-  "name": "sFuture_Service",
+  "name": "SCSMath App Server Side",
   "version": "0.0.1",
-  "description": "Helping students future",
+  "description": "Helper for SCSMath App",
+  "type": "module",
   "dependencies": {
     "async": "2.3.0",
     "body-parser": "^1.19.0",
