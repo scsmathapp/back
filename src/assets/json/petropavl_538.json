@@ -1177,16 +1177,6 @@
     "ru-masa-title": "Кешава маса",
     "ru-tithi-title": "Кришна Шаштхи"
   },
-  "2023-12-06": {
-    "en-date-info": "<b>6</b>. (Wed) ",
-    "en-line": "Appearance of Tridandi Swami Srimad Bhakti Kamal Madhusudan Maharaj.",
-    "en-masa-title": "Keshava",
-    "en-tithi-title": "Krishna Navami",
-    "ru-date-info": "<b>6</b>. (Среда) ",
-    "ru-line": "День явления Триданди Свами Шримад Бхакти Камала Мадхусудана Махараджа.",
-    "ru-masa-title": "Кешава маса",
-    "ru-tithi-title": "Кришна Навами"
-  },
   "2023-12-08": {
     "en-date-info": "<b>8</b>. (Fri) ",
     "en-line": "<b>Utpanna Ekadashi</b>. <b>Fast</b>. Disappearance of Sriyukta Dhananjay Das Prabhu.",
@@ -1236,6 +1226,16 @@
     "ru-line": "День ухода Шрилы Мадхусудана даса Бабаджи Махараджа.",
     "ru-masa-title": "Кешава маса",
     "ru-tithi-title": "Гаура Аштами"
+  },
+  "2023-12-21": {
+    "en-date-info": "<b>21</b>. (Thu) ",
+    "en-line": "Appearance of Tridandi Swami Srimad Bhakti Kamal Madhusudan Maharaj.",
+    "en-masa-title": "Keshava",
+    "en-tithi-title": "Gaura Navami",
+    "ru-date-info": "<b>21</b>. (Четверг) ",
+    "ru-line": "День явления Триданди Свами Шримад Бхакти Камала Мадхусудана Махараджа.",
+    "ru-masa-title": "Кешава маса",
+    "ru-tithi-title": "Гаура Навами"
   },
   "2023-12-22": {
     "en-date-info": "<b>22</b>. (Fri) ",
@@ -1846,5 +1846,65 @@
     "ru-line": "<b>Паран 06:42 — 07:53.</b> Фестиваль в честь дня прибытия Шримана Махапрабху в Вараханагар. День ухода Шрилы Говинды Гхоша Тхакура. День ухода Шрипада Сатьендрачандры Бхаттачарьи Маходоя.",
     "ru-masa-title": "Вишну маса",
     "ru-tithi-title": "Кришна Двадаши"
+  },
+  "2024-04-13": {
+    "en-date-info": "<b>13</b>. (Sat) ",
+    "en-line": "<a href=\"http://scsmath.com/events/calendar_events/03_Ramanujacharya.html\">Appearance of Sripad Ramanuja Acharya</a> and <a href=\"http://scsmath.com/events/calendar_events/07_BonMaharaj.html\">Tridandi Swami Srimad Bhakti Hriday Bon Maharaj.</a>",
+    "en-masa-title": "Vishnu",
+    "en-tithi-title": "Gaura Panchami",
+    "ru-date-info": "<b>13</b>. (Суббота) ",
+    "ru-line": "День явления Шрипада Рамануджи Ачарьи и Триданди Свами Шримад Бхакти Хридой Бон Махараджа.",
+    "ru-masa-title": "Вишну маса",
+    "ru-tithi-title": "Гаура Панчами"
+  },
+  "2024-04-15": {
+    "en-date-info": "<b>15</b>. (Mon) ",
+    "en-line": "Appearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.",
+    "en-masa-title": "Vishnu",
+    "en-tithi-title": "Gaura Saptamī",
+    "ru-date-info": "<b>15</b>. (Понедельник) ",
+    "ru-line": "День явления Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.",
+    "ru-masa-title": "Вишну маса",
+    "ru-tithi-title": "Гаура Саптами"
+  },
+  "2024-04-17": {
+    "en-date-info": "<b>17</b>. (Wed) ",
+    "en-line": "<a href=\"http://scsmath.com/events/calendar_events/04_Rama-navami.html\"><b>Sri Rama Navami.</b></a><b> Fast until noon.</b> Appearance at noon of Sri Ramachandra.",
+    "en-masa-title": "Vishnu",
+    "en-tithi-title": "Gaura Navami",
+    "ru-date-info": "<b>17</b>. (Среда) ",
+    "ru-line": "<b>Шри Рама Навами</b>.<b> Пост до полудня</b>. Явление Шри Рамачандры в полдень.",
+    "ru-masa-title": "Вишну маса",
+    "ru-tithi-title": "Гаура Навами"
+  },
+  "2024-04-19": {
+    "en-date-info": "<b>19</b>. (Fri) ",
+    "en-line": "<b>Kamada Ekadashi</b>. <b>Fast</b>.",
+    "en-masa-title": "Vishnu",
+    "en-tithi-title": "Gaura Ekadashi",
+    "ru-date-info": "<b>19</b>. (Пятница) ",
+    "ru-line": "<b>Камада экадаши</b>. <b>Пост.</b>",
+    "ru-masa-title": "Вишну маса",
+    "ru-tithi-title": "Гаура Экадаши"
+  },
+  "2024-04-20": {
+    "en-date-info": "<b>20</b>. (Sat) ",
+    "en-line": "Paran between 06:08 and 10:57. <a href=\"http://scsmath.com/events/calendar_events/04_SrilaGovindaMaharaj-disap.html\"><b>Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.</b></a>",
+    "en-masa-title": "Vishnu",
+    "en-tithi-title": "Gaura Dvadashi",
+    "ru-date-info": "<b>20</b>. (Суббота) ",
+    "ru-line": "<b>Паран 06:08 — 10:57.</b> <b>Фестиваль в честь дня ухода Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-шри Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа.</b>",
+    "ru-masa-title": "Вишну маса",
+    "ru-tithi-title": "Гаура Двадаши"
+  },
+  "2024-04-23": {
+    "en-date-info": "<b>23</b>. (Tue) ",
+    "en-line": "Vasanta Rasa of Sri Krishna. Rasa Yatra of Sri Balaram. Appearance of Srila Vamshi Vadanananda Thakur and <a href=\"http://scsmath.com/events/calendar_events/06_ShyamanandaPrabhu.html\">Srila Shyamananda Prabhu</a>.",
+    "en-masa-title": "Vishnu",
+    "en-tithi-title": "Purnima",
+    "ru-date-info": "<b>23</b>. (Вторник) ",
+    "ru-line": "Васанта Раса Шри Кришны. Раса Ятра Шри Баларамы. День явления Шрилы Вамшивадананды Тхакура. День явления Шрилы Шьямананды Прабху.",
+    "ru-masa-title": "Вишну маса",
+    "ru-tithi-title": "Пурнима"
   }
 }
