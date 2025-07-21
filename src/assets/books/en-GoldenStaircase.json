@@ -1,0 +1,893 @@
+{
+  "title": "Golden Staircase",
+  "code": "en-GoldenStaircase",
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        {
+          "class": "b34",
+          "text": "\r"
+        },
+        {
+          "class": "b35",
+          "text": " All glory to Śrī Guru and Śrī Gaurāṅga"
+        },
+        {
+          "class": "b36",
+          "text": " Golden Staircase"
+        },
+        {
+          "class": "b87",
+          "text": " Practical steps on <br />the path of devotional service-life fulfilment"
+        },
+        {
+          "class": "b37",
+          "text": " Compiled from informal discourses given between<br />1981 and 1985 by"
+        },
+        {
+          "class": "b66",
+          "text": " Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj"
+        },
+        {
+          "class": "b42",
+          "text": " Founder-Āchārya of Śrī Chaitanya Sāraswat Maṭh, <br />Nabadwīp, India"
+        },
+        {
+          "class": "b37",
+          "text": " Published under the auspices of the President-Āchārya"
+        },
+        {
+          "class": "b73",
+          "text": " Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj"
+        },
+        {
+          "class": "b37",
+          "text": " Transcribed and Presented by"
+        },
+        {
+          "class": "b73",
+          "text": " Śrīpād B.S. Tridaṇḍī Mahārāj"
+        },
+        {
+          "class": "b38",
+          "text": " Sri Chaitanya Saraswat Math"
+        },
+        {
+          "class": "b76",
+          "text": " © Copyright 1994 Sri Chaitanya Saraswat Math"
+        },
+        {
+          "class": "b39",
+          "text": " All rights reserved by"
+        },
+        {
+          "class": "b40",
+          "text": " The Sevaite-President-Acharya<br />Sri Chaitanya Saraswat Math, Nabadwip<br />www.scsmath.com"
+        },
+        {
+          "class": "b39",
+          "text": " Published by"
+        },
+        {
+          "class": "b40",
+          "text": " Ananta Printing & Publishing<br />2827 S. Rodeo Gulch Rd. #3, Soquel, CA 95073, U.S.A."
+        },
+        {
+          "class": "b39",
+          "text": " Published for:"
+        },
+        {
+          "class": "b41",
+          "text": " Sri Chaitanya Saraswat Sanga<br />60 Glengarriff Parade, Phibsborough, Dublin 7, Eire"
+        },
+        {
+          "class": "b55",
+          "text": " The editors would like to express their sincere appreciation and gratitude to the following devotees for their help with production of this publication and with the necessary funds: Jñānānanda Prabhu, Vinod Bihārī Prabhu, Śrī Ṛṣabhadev Prabhu, Śrī Alwarnāth Vanachārī, Śrī Narahari Dās, Śrī Vidyānanda Prabhu, Śrī Chidānanda Prabhu, Śrī Mathurānāth Prabhu, Śrī Adhīrendra Prabhu, Śrī Braja Bihārī Prabhu, Śrī Bhakta Bandhu Prabhu, Śrī Jagadānanda Prabhu, Śrīmatī Devamayī Devī Dāsi, Śrīmatī Dikṣāvatī Devī Dāsī, Śrīmatī Śrī Lekhā Devī Dāsī, Śrīmatī Tilak Devī Dāsī. We would also like to give special thanks to Śrīpād B.A. Sāgar Mahārāj for his invaluable help with the final revision and editing of <span class=\"e3\">The Golden Staircase</span>."
+        }
+      ]
+    },
+    {
+      "title": " Contents",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b47",
+          "text": " Contents"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Foreword</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Chapter One</span>"
+        },
+        {
+          "class": "b57",
+          "text": " <span class=\"e1\">The Conscious Sky</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Chapter Two</span>"
+        },
+        {
+          "class": "b57",
+          "text": " <span class=\"e1\">The Eye to See Śrī Guru</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Chapter Three</span>"
+        },
+        {
+          "class": "b57",
+          "text": " <span class=\"e1\">Seeing with the Eye of the Soul</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Chapter Four</span>"
+        },
+        {
+          "class": "b74",
+          "text": " <span class=\"e1\">Test, Taste, and Triumph</span>"
+        }
+      ]
+    },
+    {
+      "title": " Foreword",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b47",
+          "text": " Foreword"
+        },
+        {
+          "class": "b43",
+          "text": " I feel very fortunate to have the opportunity to present these gems from the treasure house of devotional service to the Supreme Godhead which emanated from the divine lotus mouth of Om Viṣṇupād Paramahaṁsa Śrīla B.R. Śrīdhar Dev-Goswāmī Mahārāj between 1981 and 1985. Known affectionately to his disciples simply as Śrīla Guru Mahārāj, His Divine Grace personified the life of eternality, supramundane knowledge, and divine happiness, and he planted the nectar-seeds of Kṛṣṇa-prema—the supreme goal of life—in the hearts of the fortunate souls. He extinguished the burning fire of separation we felt in our hearts following the disappearance from this world of the great ambassador of Kṛṣṇa consciousness to the West, His Divine Grace Śrīla A.C. Bhaktivedānta Swāmī Prabhupād, simultaneously fulfilling our cherished desires for spiritual nourishment and inspiring within us an ever greater thirst for spiritual perfection."
+        },
+        {
+          "class": "b44",
+          "text": " The topics presented here have been selected to illustrate the proper and practical way for a sincere sādhaka (aspirant) to progress on the path of pure devotional service to the Supreme Lord Śrī Kṛṣṇa, especially in His form as Śrī Chaitanya Mahāprabhu. Śrīla Guru Mahārāj repeatedly emphasised that the path should be followed carefully, step by step, without omitting anything, lest one fall into the traps of either sahajiyāism (imitationism) or māyāvād (impersonalism). He taught that by always keeping sādhu-saṅga (association of good devotees)—either personally or through their śikṣā (instructions), by chanting the Holy Names of the Lord with sincerity and faith, and by rendering loving service to Śrī Guru and the Vaiṣṇavas, one could steadily progress on the path back to Godhead."
+        },
+        {
+          "class": "b44",
+          "text": " This progress continues and accelerates by our acceptance of ever higher conceptions and elimination of lower ones, and such progress is infinite, going beyond the taṭastha region of Virajā (nirvāṇa), the goal of the Buddhists, the brahma-jyoti, the goal of the yogīs, and onward through Śivaloka to the spiritual abodes of Vaikuṇṭha, Ayodhyā, Dvārakā, Mathurā, and finally Goloka Vṛndāvan. There, the Supreme is worshipped as Śrī Śrī Rādhā-Govinda in Vraja Dhām or as Their combined form as Śrī Chaitanya Mahāprabhu in Nabadwīp Dhām, and it is by Their own grace that one may ultimately attain the inconceivably high position of service to the servants of the servants of Śrīmatī Rādhārāṇi Herself, which is the ultimate goal of the Gauḍīya Vaiṣṇavas."
+        },
+        {
+          "class": "b44",
+          "text": " Preliminary instructions regarding the process for controlling the mind and senses and the principles of devotional behaviour have been given in books such as <span class=\"e3\">Śrī Upadeśāmṛta</span> by Śrīla Rūpa Goswāmī, and carefully following this advice in a properly-adjusted way will ensure genuine progress on the path of bhakti. Śrīla Śrīdhar Mahārāj spoke at length on all these topics, but he always emphasised that it is one’s sincere internal hankering for the Lord’s service and the genuine feeling of one’s own incapacity which are the real keys to realising śaraṇāgati, the pure soul’s surrender."
+        },
+        {
+          "class": "b44",
+          "text": " Ultimately, when genuine divine love awakens within the soul, that love will itself direct the soul to his or her best serving location within a particular serving group (<span class=\"e3\">svarūpeṇa vyavasthitiḥ</span>) imbued with one of the predominant serving mellows of either servitorship (dāsya), friendship (sakhya), guardianship (vātsalya), or the all-inclusive mellow of amorous love (madhura-rasa). Śrīla Guru Mahārāj explained that within these rasas there are divisions and subdivisions, heads of groups and their followers, right-wing and left-wing parties—so much gradation, all of which is ultimately arranged by the Supreme Lord’s own yogamāyā potency to provide a dynamic interplay of ‘variety-in-oneness’ by which the Lord’s Pastimes (līlā) are supported, nurtured, and enhanced."
+        },
+        {
+          "class": "b44",
+          "text": " The Infinite is not static (nirviśeṣ) but dynamic, and that dynamism generates sweetness in service through both union and separation. Śrīla Śrīdhar Mahārāj’s explanations of these finer points and his revelations of the inner meaning of the ślokas of <span class=\"e3\">Śrīmad Bhagavad-gītā</span> and <span class=\"e3\">Śrīmad Bhāgavatam</span> and the gāyatrī and other mantras give such new dimensions of depth to one’s consciousness and nourishment to one’s devotional creeper (bhakti-latā) that they are impossible for the truly fortunate souls to ignore."
+        },
+        {
+          "class": "b44",
+          "text": " The devotees who were introduced to the teachings of pure devotional theism by the unparalleled preceptor and śaktyāveś-avatār Śrīla A.C. Bhaktivedānta Swāmī Prabhupād will find in this book a very sweet and glorious illumination of his teachings. The ‘matchless gift’ of Kṛṣṇa consciousness which Śrīla Prabhupād gave to the West must be carefully accepted in the heart and preserved and nurtured there. That is only possible by the supporting strength of the devotional illumination given by great beacon lights of the spiritual world such as Śrīla Śrīdhar Mahārāj, whom Śrīla Prabhupād loved and revered as his own Śikṣā-guru in spiritual matters. The fortunate and awakened soul must see the value of this spiritual interchange as a cause of growth if he is to really progress towards the all-harmonising Truth beyond all material sectarian concerns."
+        },
+        {
+          "class": "b44",
+          "text": " It is also my heartfelt feeling that the legacy of both Śrīla Prabhupād and Śrīla Śrīdhar Mahārāj is being carefully preserved, practised, and preached by Śrīla Guru Mahārāj’s successor, Śrīla Bhakti Sundar Govinda Mahārāj, and that in the unbearable fire of separation from those two great souls, our hearts may be given hope once again."
+        },
+        {
+          "class": "b44",
+          "text": " The Lord mercifully comes as the Āchārya to deliver Himself to the souls of this world. All glories to Bhagavān Śrī Kṛṣṇa and Śrī Chaitanya Mahāprabhu! I offer my sincere daṇḍavat praṇāms to all the holy Vaiṣṇavas through whom we may have the benediction of divine faith’s revelation."
+        },
+        {
+          "class": "b56",
+          "text": " Humbly,"
+        },
+        {
+          "class": "b56",
+          "text": " Swāmī B.S. Tridaṇḍī"
+        },
+        {
+          "class": "b56",
+          "text": " Disappearance day of Śrīla Śrīnivās Āchārya"
+        },
+        {
+          "class": "b45",
+          "text": " 21 November 1993"
+        }
+      ]
+    },
+    {
+      "title": " The Conscious Sky",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b58",
+          "text": " Chapter One"
+        },
+        {
+          "class": "b47",
+          "text": " The Conscious Sky"
+        },
+        {
+          "class": "b43",
+          "text": " The original substance is spirit, is soul, is consciousness, and matter forms a part of that conscious portion, that conscious substance. It is not that matter has produced consciousness, but it is in one part of consciousness. Consciousness is infinite, and everything is in that ocean. Somewhere there is ice, somewhere moss, somewhere iron—they are all in that ocean, these different conceptions. But consciousness is all-in-all, and everything has its shelter there. Just as you find patches of clouds in the sky or so many specks of dust in the air, so the material conception is there in the sky of consciousness. It is a sky—the conscious sky—and somewhere there are patches of clouds or dust. You can’t see the air, but the dust is in the air! You can’t see the sky—the actual ether—but the clouds are in the sky! So, the background is consciousness, and therein we find somewhere is dust, somewhere is a cloud."
+        },
+        {
+          "class": "b69",
+          "text": " Darwin and others have proposed that consciousness was originally generated from material elements, but my response to that is, “Fossil fatherism? Crush it and establish a spiritual infinite!” It is all spiritual. The ‘fossil conception’ is a part of so many conceptions in the spiritual plane. Consciousness is in the background, and there are developed positions, gradations, within consciousness—Bhū, Bhuva, Sva, Maha, Jana, Tapa, Satya, Brahmaloka—and when service is added, it is enhanced. A sweet structure begins from the point when service is added to consciousness. Service can construct a beautiful capital, a beautiful country. It is there, and you have only to feel it, enter, and take up your appointed service. You will think, “This is my home! This appointment feels very friendly to me. Now I have come home.” This is the innate capacity or substance, innate nature—svarūp—which is presently covered by ignorance, by misconception."
+        },
+        {
+          "class": "b70",
+          "text": " Madness and malengagement"
+        },
+        {
+          "class": "b71",
+          "text": " A madman, leaving his own sweet home, wanders in the street and thinks that it is imperative for him to collect pieces of paper or cloth, as if that were his ‘business’. It is absurd. His brain is focussed in such a direction that he thinks, “It is my duty to collect these pieces of paper and pebbles.” In this way he is going on, but what is the real, innate wealth of his heart? If he could only remember his home: his father, mother, other family members—his sweet, sweet home. But due to his madness, his consciousness is forcibly focussed on some malengagement. Similarly, the position of so many persons—including philosophers, scientists, political leaders, and many more—is that their consciousness is focussed toward the external direction, and there they are all busy ‘collecting’. Some are collecting more pebbles, some more pieces of cloth or pieces of paper, but in this way they are going on. Swāmī Mahārāj (Śrīla A.C. Bhaktivedānta Swāmī Prabhupād) said that, “The United Nations, UNESCO—all such world committees and barking dogs are both equal. Actually, they are more dangerous because they are capturing the more intellectually-minded people, but they are of the same value. They are casting their own attention toward the material substance based on illusion and misconception, and posing in a very grand way, they are giving so much importance to that thing just as many dogs also bark to have possession of a particular thing. It is not more than that.” With great courage, Swāmī Mahārāj boldly refuted them, and this sort of conception is leading us to our higher prospect."
+        },
+        {
+          "class": "b70",
+          "text": " Seeing beyond the perception of the senses"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Now the weather is starting to become hot!"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> We should not pay much attention to that. It will come and go, come and go."
+        },
+        {
+          "class": "b59",
+          "text": " mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ<br />āgamāpāyino ’nityās tāṁs titikṣasva bhārata"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhagavad-gītā: 2.14)"
+        },
+        {
+          "class": "b43",
+          "text": " “O son of Kunti, only the engagement of the senses with their objects gives rise to the sensations of cold, heat, pleasure, and pain. But these effects are temporary; they come and go. Therefore, O Bhārata, you are to endure them.”"
+        },
+        {
+          "class": "b44",
+          "text": " Regarding this verse of the <span class=\"e3\">Bhagavad-gītā</span>, one scholar, a Mr. Chatterjee, has explained this Sanskrit word <span class=\"e3\">mātrā</span> to mean “what is measured by our senses, the result of our senses’ measurement.” In this way, the word <span class=\"e3\">mātrā</span> comes near to the word <span class=\"e3\">matter</span>. It comes to mean matter or the world of material comfort. There are so many different views of the world. An ordinary man’s estimation of the world and a scientist’s estimation are different. An astronomer’s estimation of the world is of another type, the politician’s view is something else, the socialist’s, the humanist’s, the humanitarian’s views—they are all different. But if we can come to the plane of the soul—even the lowest conception of what is the real inner self—that will help us, and there will be a revolutionary change in our lives. All the things of this world will then seem to be trash, of no value, empty."
+        },
+        {
+          "class": "b69",
+          "text": " Presently, the soul is captivated by a great many things which produce mean consciousness, but the solution is given in <span class=\"e3\">Bhagavad-gītā</span> how we can achieve control of our senses and gain control over the impulses of our mind. It is recommended there that step by step we try to rise up to the soul’s plane, eliminating the lower planes: first the field of experience of the senses; then the mental field, the impulse which works through the senses; then the intellect, that which drives the mental tendency; and crossing those, that we try to find that point of light which is the soul. If in any way, by the soul’s introspection you can perceive the soul, then whatever value you had assigned to this whole material manifestation will turn into ashes. You will see, “My real identification is here within! It is so wonderful, and valuable, and independent of all the hallucinations I was suffering from by coming in contact with the external world. The inner domain is so high, and my consciousness was focussed so low, on such nasty things.” That is the highest way to control one’s senses, one’s charm for the world, for wealth, women, and popularity."
+        },
+        {
+          "class": "b70",
+          "text": " The astonishing soul"
+        },
+        {
+          "class": "b50",
+          "text": " Kanak, kāminī, and pratiṣṭhā—collection of energy for sense pleasure, sense pleasure, and popularity seeking—these three things try to keep us down from consciousness of the self. So, rise up step by step: from the world to the senses to the mind, the receiver of the sense-experience, to the guide of the sense-experience, and finally to the light which makes all these possible. That point of light is near and dear, and the others are like foreign agents who have come to capture me and focus me, that light, towards the rubbish and dung-like things of this world. If after having been focussed here through our senses we become more attentive and see some nasty things, then some realisation will come into our mind causing us to feel that such things are actually foreign to our real self, and only by connecting with them through our senses do we feel disturbed. On the whole, it is like that. Then, upon rising up from the sense-plane, you will find that there is another wonderful land of experience; the ātmā is such a wonderful thing."
+        },
+        {
+          "class": "b59",
+          "text": " āścharyavat paśyati kaśchid enam<br />āścharyavad vadati tathaiva chānyaḥ<br />āścharyavach chainam anyaḥ śṛṇoti<br />śrutvāpy enaṁ veda na chaiva kaśchit"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhagavad-gītā: 2.29)"
+        },
+        {
+          "class": "b43",
+          "text": " “Some see the soul as astonishing, some describe him as astonishing, and some hear of him as astonishing while others, even after hearing about him, cannot understand him at all.”"
+        },
+        {
+          "class": "b69",
+          "text": " Even after giving attention to all these things, still it is very difficult to understand the soul properly. But our inner wealth is so valuable, and our present engagement is so nasty. On the whole, we must honestly admit that our condition is nasty. Our true selves are good, but our present situation is very nasty. But somehow we must get out of the intoxication of these nasty things, because to hanker after and obtain and mix closely with and relish these nasty things is improper for the soul. Whereas upon rising up to the Supersoul area, we find that the greatest fulfilment of our life is in that soil. Whatever we presently consider to be ‘concrete things’, to be real, are nasty. We are told to ‘be realistic’, but that is to become unrealistic!"
+        },
+        {
+          "class": "b70",
+          "text": " Withdraw from knowledge"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e3\">Śrīmad Bhāgavatam</span> (1.1.2) says, <span class=\"e3\">vedyaṁ vāstavam atra vastu śivadaṁ tāpa-trayonmūlanam</span>: reality is <span class=\"e3\">vāstava vastu</span>, the real substance above all of the unreal, imaginary things of this world. All the accumulated knowledge in relation to this world is a wholesale concoction. It is the result of misreading the environment and is full of misinterpretation and misconception. The whole thing—the vocabulary, the history, the epics, the whole thing­—whatever has been collected—is all a misrepresentation of the truth, and we are in the midst of that. We are captivated within that, but at the same time we have the capacity to enter the plane of real life because we are a particle of that higher world. So, we must go back to God, back to home. Home is there. What charm can there be for us here where there is death, and then birth again, and where everything is stale and produces dissipation and suffering? Mortality, suffering, and death—and even then it is not finished, but we must continuously come here again and again and follow the same course of life!"
+        },
+        {
+          "class": "b44",
+          "text": " So, try to obtain real relief, and help others also to take up their proper life away from this undesirable atmosphere. We must go back to Godhead, where everything is wonderful. What is that Godhead? Our home is there! Our home, sweet, sweet home. We are a child of that soil, and the scriptures urge us: “You have got this human life, this chance, so always try, by all means—by thinking, by meditation, by talking, by hearing—to cultivate your own true identity, your noble identity, in your homeland where the soul lives. Always, always, always engage yourself in that. Try to avoid this plane of misconception by any means and enter into that land.”"
+        },
+        {
+          "class": "b69",
+          "text": " Going back to Godhead means going back to our own soil, our real home. What is night to us now—that we will make our day! Where there is presently darkness to us, we are to find light there, and what is so apparently plain and expressively clear, that must be neglected. In our earnest calculation, the entire world of exploitation and self-interest should be kicked into the darkness, and we should withdraw wholesale from that ‘knowledge’. And what is dark to us now, we should try to make light by always giving our attention, thoughtful consideration, and adherence to achieving residence in the higher soil: the land of wonders where everything is wonderful."
+        },
+        {
+          "class": "b70",
+          "text": " Shadow, substance, and sound"
+        },
+        {
+          "class": "b50",
+          "text": " The spiritual plane is substantial. And why are things as they are here? This is the reflection of that plane, a perverted reflection. So, that nature is also to be found here, but the substance is there, and this is like a shadow. The shadow is unsubstantial, without real existence. The substance is itself real existence. The difference is great. The Upaniṣads say:"
+        },
+        {
+          "class": "b60",
+          "text": " yasmin vijñāte sarvam evam vijñātam bhavati<br />yasmin prāpte sarvam idaṁ prāptaṁ bhavati"
+        },
+        {
+          "class": "b43",
+          "text": " “By knowing that (spiritual domain), everything is known; by attaining that, everything is attained.”"
+        },
+        {
+          "class": "b44",
+          "text": " We have been told this in a general way, but that does not mean that with this consciousness you will arrive in that plane and everything will then be in your fist. No. More and more you will continue to have an intense hankering to approach, to advance, and the more satisfaction you get, the more earnestness you will have to go forward, to go on. It is not to be finished. Here also in the shadow, we do not find any ‘finish’, and this is the reflection, so it is a dynamic affair. Go onward, go onward—more. But substance and shadow—that is the difference. That world cannot be eliminated. It is constant, eternal. There the soul is finding real substance, but still he is not satisfied: “I want more.” That is the nature of real substance, and sound will reveal it."
+        },
+        {
+          "class": "b44",
+          "text": " Here, sound is the most subtle thing, but there it is just the opposite. There, sound is a ‘gross’ thing. That is what reflection means, and it is perverted. So, the right hand in the reflection is the left hand, and in the reflection of a tree, the top of the tree is in the bottom position. So, in the plane of substance, sound is the most concrete thing. The subtlemost plane here—the nearest, innermost plane, that of sound—can cross over the many coverings of this world and come in connection with the nature of that existence, where the cover of that world is comprised of sound. So, through sound we can go inside there."
+        },
+        {
+          "class": "b51",
+          "text": " Śrī Jīva Goswāmī says:"
+        },
+        {
+          "class": "b53",
+          "text": " prathamaṁ nāmnaḥ śravaṇam antaḥkaraṇa-śuddhy-artham apekṣyam; śuddhe chāntaḥkaraṇe rūpa-śravaṇena tad udaya-yogyatā bhavati; samyag udite cha rūpe guṇānāṁ sphuraṇaṁ sampadyate<br />tatas teṣu nāma-rūpa-guṇeṣu tat-parikareṣu cha samyak sphuriteṣv eva līlānāṁ sphuraṇaṁ suṣṭhu bhavatīty abhipretya sādhana-kramo likhitaḥ<br />evaṁ kīrtana-smaraṇayor jñeyam"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrī Bhakti-sandarbha: 256)"
+        },
+        {
+          "class": "b43",
+          "text": " First, listen to the Holy Name and cultivate that sound divine. Then gradually, if we do it properly, we can find that next there is colour and figure—not drawn from this mundane world, but that sound has got its own figure and colour and will show itself."
+        },
+        {
+          "class": "b44",
+          "text": " Although we are presently far away from our original consciousness, when our mind is purified and we are free from worldly, mundane thinking, then like lightning that Divine Name will reveal itself to us, producing some colour and figure within us, within our conception, and that form will be of another type, not like the colour and figure of this world."
+        },
+        {
+          "class": "b44",
+          "text": " From the relativity of that sound will first come the colour and figure and next the quality. In this way, one will spring from the other. Such sound must have such colour and figure, and such figure automatically must have such quality. It will come forth from within."
+        },
+        {
+          "class": "b44",
+          "text": " Then again, that quality is classified according to different intensities relative to the paraphernalia. From the quality, after the quality will come the association. And it will all come from the other plane and enter within the soul’s conception. Then, from the Name, Form, Quality, and associates will come their mutual transactions, the interaction between all these things, the waves and vibrations of different types—that is Pastimes, līlā."
+        },
+        {
+          "class": "b55",
+          "text": " And then the soul will find that his purest, finest ego, who he really is, also has a part to play in such a position. He will see his own soul in a particular place, a particular location there. He will see, “In this exact spot, I am there; my self is there.” In this way, the infinite wave will come."
+        }
+      ]
+    },
+    {
+      "title": " The Eye to See Śrī Guru",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b58",
+          "text": " Chapter Two"
+        },
+        {
+          "class": "b47",
+          "text": " The Eye to See Śrī Guru"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> We are often told regarding the Guru and the śiṣya (disciple) that if the śiṣya is not successful in becoming a completely pure devotee in this life, then the Guru will return by taking another birth. But does the Guru personally take another birth?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> The relationship must continue. Whether that particular soul who was delegated as the Guru in the previous life will personally come—whether he will again be sent or not—there is no guarantee, but in any case the disciple will maintain his awareness of that higher connection. He will recognise it just as it was in former stages, although it may be in a different form. It will not be unknown to him. And he will also perceive that “I am not unknown to my master.” But the Guru’s external form may not be similar."
+        },
+        {
+          "class": "b51",
+          "text": " Suppose a disciple takes his next birth in a particular country or a particular sect. The Guru may also appear in a particular country or a particular sect, but that the disciple will again come exactly in the same position as before—that may not be. And that the Guru will also come as he did previously, in that fixed position—that also may not be. But they will be able to recognise one another. The Guru will know about the disciple’s previous life, and the disciple will also think, “He knows everything about me.” With such broadness of vision, we are to look at our Guru Mahārāj. So Guru-tattva means it is <span class=\"e3\">sākṣād Dharitvena</span>: not only the person, but the person plus something more. And that arrangement is made by the Lord or His svarūp-śakti. But whatever the external circumstance, there will be no disturbance regarding the path for the disciple."
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> I don’t know if this is correct, but I have heard it said that if the disciple is not spiritually successful, then the Guru may not return back to Godhead but may remain in this brahmāṇḍa (universe). He may not return to Kṛṣṇa until the disciple can also go."
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> If that is the case, then no Guru can ever return to Kṛṣṇa at any time because the continuation of the disciples will go on, so he will have no final result at any time in his life. But we cannot think that it is so. Sometimes he may be deputed himself, or others also may be deputed in that case. But the inner instruction and inner feeling and paraphernalia will be such that in any case the disciples will have no trouble. The officer may change, but the function will go on smoothly. So, the Guru may return—the Nām-guru, mantra-guru, sannyās-guru—they are all Gurus, but we must recognise something similar in them, and hence we are given the statement about the ontological aspect of Guru <span class=\"e3\">sākṣād Dharitvena samasta</span>: “I Myself appear as the Guru, who is simultaneously and inconceivably one with and different from Myself.”"
+        },
+        {
+          "class": "b69",
+          "text": " Kṛṣṇa says <span class=\"e3\">Āchāryaṁ Māṁ vijānīyān</span>: “You should look there for Me. I am there. I am your Guru. With My different types of śakti, by the jīvas’ recruitment or by any other way, it is My function to take you up to a different place. In every case, I am there. I am there in My madhura-rasa śakti, sakhya-rasa śakti, vātsalya-rasa śakti, or dāsya-rasa śakti, and in a general way also.” Sometimes, one may be recruited by the Rāmānuja sampradāya and then be converted to join the Kṛṣṇa sampradāya, the Gauḍīya sampradāya. That is also possible. We are to remember the eternal link."
+        },
+        {
+          "class": "b70",
+          "text": " Divine unfoldment"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> So, if someone says that the Guru himself will personally come back, that is a mundane conception, a wrong conception?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> Yes. The main thread is there, but it will not always appear in the same form. Although to the beginners one may say that “he will come back”, ultimately we find that a disciple may even be transferred into another section and then another section so that he may gradually reach his destination. According to the unfolding of his inner necessity, the departmental change may occur. And he will always perceive his own Guru in newer and newer ways. At first sight, he perceived his Guru to be of one type. Then again with progress, he will see the same Guru in another way, and thereafter another new characteristic will be found in his Gurudev. The disciple will feel, “I could not detect so much in my Guru in the beginning. I saw him in one particular way, but now I find that he is something more, and then he is still more.” In this way, there is divine unfoldment."
+        },
+        {
+          "class": "b44",
+          "text": " In this world, there is unfoldment, and in the higher domain also there is unfoldment. So āveś, the Guru is something like śaktyāveś. There is the ‘chance contingency’ śaktyāveś who is deputed according to a particular time, place, or circumstance, and there is also the permanent śaktyāveś, but in all cases, according to the necessity of the situation and by the divine dispensation of the Lord, the disciple will be connected, and he won’t feel any distrust; it is the presence within. He will quench the thirst for the full progress of his heart, there will be divine unfoldment within his heart, and again he will begin a new thirst. And that new thirst will be quenched by whom? His Guru. It will be quenched by his Guru, and he won’t have any feeling of unscrupulousness or anything else. As his internal thirst is being satisfied, he will feel, “There is my Gurudev.”"
+        },
+        {
+          "class": "b44",
+          "text": " Wherever there is unfoldment—gradual unfoldment and full attention given to that—then we can understand that from the upper side there is Guru. Gurudev is my guide, and as I progress, guidance of different types will be necessary for me. Always new guidance, and my progress will take me into different places, and there a new type of guidance, a new life, will again come. In this way, dynamic life is going on, and the main thread is there: <span class=\"e3\">raso vai Saḥ</span>—the pure rasa, pure ecstasy. And my inner heart will approve, “Yes, I want this. This is my fate. This is my fortune.” Otherwise, if any madhyam-adhikārī is appointed as Guru and has so many disciples, and if he is to come back again and again, then he could never enter into nitya-līlā. But that cannot be so. In any case, whoever is connected with a genuine Guru will be satisfied because the Lord is present there."
+        },
+        {
+          "class": "b51",
+          "text": " So <span class=\"e3\">Āchāryaṁ Māṁ vijānīyān</span> is not in name only; it has a very specific purpose:"
+        },
+        {
+          "class": "b59",
+          "text": " āchāryaṁ māṁ vijānīyān nāvamanyeta karhichit<br />na martya-buddhyāsūyeta sarva-deva-mayo guruḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 11.17.27)"
+        },
+        {
+          "class": "b43",
+          "text": " Kṛṣṇa says, “Don’t try to limit the Āchārya! You may have come up to a high position, but will you then think that you have surpassed that Āchārya through whom you received your initial instruction in spiritual life? No, <span class=\"e3\">nāvamanyeta</span>: don’t think that there is less in him, don’t consider him to be of lower position. <span class=\"e3\">Nāvamanyeta</span>: I Myself was there! I was there in your primary teacher, in your ‘college-level’ teacher, and I am there in your ‘post-graduate professor’ also! So, <span class=\"e3\">nāvamanyeta</span>: don’t look at only the outside. I Myself am your guide in different forms. It is I.”"
+        },
+        {
+          "class": "b69",
+          "text": " <span class=\"e3\">Sarva-deva-mayo Guruḥ</span>: the Āchārya has got more spacious characteristics than that of the ordinary, general Vaiṣṇava. Kṛṣṇa says, “For you, I am there. And <span class=\"e3\">mayānukūlena nabhasvateritaṁ</span>: I am backing so many Āchāryas. There are so many Āchāryas, and I am working through them. The Āchāryas are like helmsmen in so many different boats, and I am the favourable wind helping those boats to make progress. So, don’t limit the Āchārya—try to see him on the same level as Me.”"
+        },
+        {
+          "class": "b70",
+          "text": " Universal mind, absolute backing"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> In his purport to <span class=\"e3\">Śrīmad Bhāgavatam</span> 4.12.33, Śrīla Bhaktivedānta Swāmī Prabhupād wrote something in connection with the story of Dhruva Mahārāj. He said that Dhruva Mahārāj was a very powerful devotee and could take his mother back to Godhead, and then he wrote, “If one of my disciples becomes as strong as Dhruva Mahārāj, then he can take me back to Godhead.” This statement seems very mysterious."
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> Dhruva’s mother was his Guru, his vartma-pradarśaka-guru, his first guide, just as Chintāmaṇi was in the case of Bilvamaṅgal Ṭhākur. Through Chintāmaṇi, that Kṛṣṇa-function as Āchārya came as vartma-pradarśaka, and in a similar way Dhruva was initially inspired by his mother; his first spiritual instruction was from her. Next, he received guidance from Nārad, and then by dint of his bhajan he attained the next stage, and then again he went further. But his vartma-pradarśaka-guru was his mother, and yet she was to be apparently left behind."
+        },
+        {
+          "class": "b44",
+          "text": " The vartma-pradarśaka-guru is the one who first gets the kaniṣṭha-adhikārī bhakta started on the progressive spiritual path. But we have to consider the past lives of Dhruva and his mother. In his past life, Dhruva had made more progress, but then in that life it was arranged by the Lord that his mother would get him started in the proper direction, and thereafter he adopted the path of bhajan. Both of them had previous lives of progress in the proper direction, but sometimes a primary teacher may have a student who is an extraordinary scholar."
+        },
+        {
+          "class": "b51",
+          "text": " In my school days, I remember there was a case we had to read about in history class in connection with the famous statesman Edmund Burke and the taxation laws passed by Parliament at the time of the American Revolutionary War. It happened that his service was so much appreciated that he had the title of ‘lord’ conferred upon him, and to make him a lord, his father and then his grandfather were also awarded the title of ‘lord’. The title of ‘lord’ comes from up to down, but in that case, it went from down to up! The grandson was first given the recognition of lord, and then the father, and then the grandfather. The grandson received the title first by dint of his capacity. So, it may be that because of previous arrangements, a less qualified person may give a push to a more qualified person in the beginning, and in return the more qualified person may later help him. Thus, the Guru will instruct God-consciousness to different people in different places. From different directions one may receive help."
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> And when Śrīla Narottam Dās Ṭhākur says <span class=\"e3\">chakṣu-dāna dila yei janme janme prabhu sei</span> (he who has given me the gift of transcendental vision is my lord birth after birth)?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> Whenever there is any difference in the spiritual advice we may receive from different directions, we are to see the common thread. However, the absolute position will warrant a higher consideration than the relative one. Both the absolute and relative considerations must continue, because without that, no progress is possible. Absolute and relative—both considerations must go side by side. But the absolute has the primary position, and the relative, the temporary, shall be evaluated according to what is suitable to the particular time, place, person, and purpose. So, in this, the longest journey of our lives, and for our greatest interest, we are given the truth, the connection of the Absolute, always, and there is unity."
+        },
+        {
+          "class": "b44",
+          "text": " Even in the case of an ordinary Guru of lower type, the śāstra has also maintained that link: <span class=\"e3\">parokṣa-vāda vedo ’yam</span>. If a certain standard of self-discipline such as no meat or fish-eating, etc. is demanded of those who are very much conditioned by lower propensities, then they won’t come into the fold, but the policy is that they must come. So, some allowances are given. For a particular type of disciple, there will be a corresponding Guru and a similar śāstra, but it is with the hope that they will take up the path of progress. The śāstras are so generous in going to the lowest section, and the corresponding Guru will also be there. Similar Guru, similar śāstra, and similar sādhu—all are extended to the lowest plane to elevate the conditioned souls by a gradual process."
+        },
+        {
+          "class": "b44",
+          "text": " And the śāstra has got in its mind that in this gradual process some provision must be given; otherwise, a great many will give it up. That universal mind is there, and that sort of consciousness is in the minds of the ṛṣis who have prepared those śāstras and in the corresponding Gurus as well. The sādhus and śāstras are going to the extremity of the sinful area because otherwise there would be no chance for anyone to rise from that level. But generally the disciples, the sādhakas, will take up spiritual practices from their own plane—their own level of realisation or inner evolution. They’ll go up from there, and along the way also they will find the appropriate Guru and śāstra."
+        },
+        {
+          "class": "b44",
+          "text": " It is just like this: our sight is within a particular spectrum. We can’t see very intense light or very meagre light either. The same with sound: we can’t hear very high frequency sound or very low. So, we are working in the relative position. But we are told to stick to the absolute thread continually in order to properly understand the whole. Therefore, don’t undermine the Āchārya. Although you may be seeing some ordinary characteristics there—eating, sleeping— don’t undermine him! Otherwise, you’ll be the loser. Just as in the Ganges water, we are not to take notice of the stones, the wood, the foam. Ganges water can purify everything. What is it that can purify? Its water aspect? No. There is another aspect, and if that is analysed, ultimately we will see the order of the Lord. It is His order that Ganges water will purify. So, the purifying power comes from His will; His will is backing that. We shall try to find the absolute backing everywhere, and if we can’t sacrifice the relative position, then we’ll have to go to the plane of nirviśeṣ (the undifferentiated aspect of the Absolute in which service is absent)."
+        },
+        {
+          "class": "b69",
+          "text": " There is a complete system which comprises Kṛṣṇa and His associates of different types, and we want to have our connection with both Śakti (the potency) and Śaktimān (the possessor of potency). We can never sacrifice either of Them, especially Śakti. For example, when Raghunāth Dās Goswāmī says, “I do not want Kṛṣṇa if Rādhārāṇī is not there; rather, I want Rādhārāṇī”, then who is Rādhārāṇī? Who is She? She is the one who is full of Kṛṣṇa to the greatest degree, so Dās Goswamī says, “I want Rādhārāṇī.” Kṛṣṇa is there, and in different relative positions He comes to each particular person as sweet, sweeter, sweetest. In this way, we find such relativity."
+        },
+        {
+          "class": "b70",
+          "text": " Harmonising instructions of the upper house"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> It is said there are five principles for bhakti—associating with devotees, chanting Hari-nām, hearing <span class=\"e3\">Śrīmad Bhāgavatam</span>, worshipping Tulasī, and residing in the holy Dhām. In regard to residing in the Dhām, is that for the general devotees or just especially fortunate or more advanced devotees?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> Generally, it means for madhyam-adhikārī devotees, those who can discriminate. Kaniṣṭha-adhikārīs cannot differentiate between the various positions of different personalities—who is advanced, who is neutral, or who is envious. But, “Religion means proper adjustment.” Our Guru Mahārāj used to say this now and then, and that proper adjustment requires sambandha-jñān, knowing what is what. Then, one’s service will come accordingly, and one’s necessity, one’s destination, will be established from that. Sanātan Goswāmī is the Āchārya of sambandha-jñān. “Who am I? Where am I? What am I?” All these questions—“Why am I troubled? What is the real purpose of my life?”—are answered when there is proper adjustment with the Absolute and the relative. Nothing can be sacrificed."
+        },
+        {
+          "class": "b44",
+          "text": " And one thing we must always keep in mind is that we can’t investigate all of the subtle, higher knowledge as a subjective researcher. Rather, according to the degree of our śaraṇāgati, our surrender, the Truth will come down to make Himself known to us. We must always remember this; otherwise, some spirit of imitation will be created in us. Knowledge of the higher domain is not under the jurisdiction of the intellect, and to think so is very dangerous. Intellectualism is dangerous. It will cause us to think that we have ‘caught the Infinite’. It will be negligence of the infinite characteristic, the infinite aspect, of the Lord. He is Adhokṣaja, beyond the grasp of academic research."
+        },
+        {
+          "class": "b69",
+          "text": " One time, I asked Prabhupād (Śrīla Bhakti Siddhānta Saraswatī Ṭhākur), “Śrīla Rūpa Goswāmī gives his explanation of Lord Balarām’s Rāsa-līlā in one way, and Śrīla Sanātan Goswāmī gives his explanation in another way, but both get their instruction from Mahāprabhu, so why is there this difference?” My Guru Mahārāj said, “Why has Kṛṣṇa been called Adhokṣaja? Adhokṣaja cannot be harmonised within our intellect. It is achintya-bhedābheda, inconceivably and simultaneously one and different. Both explanations may be true simultaneously. It is achintya, inconceivable. The Āchāryas have explained that when Baladev is performing Rāsa-līlā, He is actually conducting Rāsa for Kṛṣṇa in His heart. Externally, Baladev is seen to be participating in Pastimes with the gopīs directly, but internally He is making Kṛṣṇa enjoy that Rāsa. Baladev is not the enjoyer Himself.” These are the harmonising instructions of the upper house, and in this way we shall harmonise things."
+        },
+        {
+          "class": "b70",
+          "text": " Full satisfaction, absolute realisation"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Mahārāj, the different animals, insects, and trees in the Dhām—how shall we view them?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> They are wholesale chinmaya. They are not under bondage but are posing in different ways. There are different types of service, and they have their fullest satisfaction in their own plane of service. They imbibe the most blissful internal feeling thereby and do not want any other. In their relative position, they are fully satisfied there. In other rasas also, sakhya or vātsalya—<span class=\"e3\">yā̐ra yei rasa, sei sarvottama</span>—each person feels, “What I have is the best. I have got the best position, and I do not care to go to any other.” Śānta-rasa is also like that. The trees and creepers, the sands, and so many animals and birds are there, but still there is a qualitative difference between them. Uddhava, the highest devotee in Dvārakā, aspires to take birth as a creeper in Vṛndāvan. So, there are qualitative differences within śānta-rasa. In Dvārakā also, there is śānta-rasa, but he who has the highest type of sakhya-rasa in Dvārakā aspires after the śānta-rasa service in Vṛndāvan once he has gotten a little peep into the atmosphere of the type of service rendered there. This shows that even the highest thing in a particular place still has its relative position in the absolute consideration. Though the relative position is satisfied there, the absolute always surpasses it; otherwise, the unity, the connection with the whole, would ultimately be dislocated and disorganised."
+        },
+        {
+          "class": "b44",
+          "text": " So, the absolute consideration is possible from any position. Although all servitors are fully satisfied where they are in their own position, they realise the supremacy of Vṛndāvan. Taṭastha-vichār (impartial consideration) is always there, and between the relative and the absolute, the absolute always takes the upper hand. <span class=\"e3\">Sarva-dharmān parityajya</span>: the absolute or ‘revolutionary’ consideration is firmly established above the relative or ‘constitutional’ one when Śrī Kṛṣṇa says in <span class=\"e3\">Bhagavad-gītā</span> (18.66), “Just abandon all dharmas, all considerations of social and religious duties—even the ones that I Myself have established in the various scriptures and described here in My previous instructions to you—and just surrender wholeheartedly to Me.”"
+        },
+        {
+          "class": "b55",
+          "text": " Everywhere, the absolute consideration prevails. In connection with Guru, Narottam Dās Ṭhākur has his Gurudev Lokanāth, but still he aspires, “When will the day come when Lokanāth will take me by my hand and guide me to Śrīla Rūpa Goswāmī? When will he surrender me to Śrīla Rūpa Goswāmī and give me some engagement there in that camp?” In this high type of expression, the absolute consideration is also there underground."
+        }
+      ]
+    },
+    {
+      "title": " Seeing with the Eye of the Soul",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b58",
+          "text": " Chapter Three"
+        },
+        {
+          "class": "b47",
+          "text": " Seeing with the Eye of the Soul"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Guru Mahārāj, I have one question about Tulasī Devī. The devotees here at this Maṭh say that even if their japa-mālā is not made from real tulasī, when you chant on their beads at the time of their initiation, you turn those beads into a tulasī-mālā. So, is it important to have japa-mālā made of tulasī or not?"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> There is a higher spiritual consideration."
+        },
+        {
+          "class": "b60",
+          "text": " yasyātma-buddhiḥ kuṇape tri-dhātuke<br />sva-dhīḥ kalatrādiṣu bhauma ijyadhīḥ"
+        },
+        {
+          "class": "b43",
+          "text": " There is <span class=\"e3\">bhauma</span> (mundane), and there is <span class=\"e3\">ijyadhīḥ</span> (that which we consider worshipable). What I really want to revere, if I consider that to be of mundane nature, that will be an offence. It is an offence. <span class=\"e3\">Archye Viṣṇau śilā-dhīḥ</span>: if I think that what I am to worship is simply stone, or <span class=\"e3\">Guruṣu nara-matiḥ</span>, if I consider Gurudev to be an ordinary man, or <span class=\"e3\">Vaiṣṇave jāti-buddhiḥ</span>, if I see a Vaiṣṇava as a brāhmaṇ, a śūdra, etc., or <span class=\"e3\">Viṣṇor vā Vaiṣṇavānāṁ kali-mala-mathane pāda-tīrthe ’mbu-buddhiḥ</span>, if we think that the water that washes the lotus feet of Lord Viṣṇu or the Vaiṣṇava, charaṇāmṛta, is just plain water, or <span class=\"e3\">Viṣṇau Sarveśvareśe tad-itara-sama-dhīḥ</span>, if we think that the Master of all, the Lord of all, Viṣṇu, is merely one of many gods, then, <span class=\"e3\">yasya vā nārakī saḥ</span>—we shall have to go straight to hell. This is stated in the <span class=\"e3\">Padma-purāṇa</span>."
+        },
+        {
+          "class": "b69",
+          "text": " And in <span class=\"e3\">Śrīmad Bhāgavatam</span>, we find <span class=\"e3\">yasyātma-buddhiḥ kuṇape tri-dhātuke</span>: that soul who identifies himself with the body, or thinks that the wife and children are my own, or thinks that our worshipful object is something material, or thinks that it is the material element of water at these pilgrimage sites which is purifying, then <span class=\"e3\">sa eva go-kharaḥ</span>: he may be considered to be a donkey which can be used to carry the food of the cows! <span class=\"e3\">Khara</span> means the donkey which carries a burden, so <span class=\"e3\">go-khara</span> means that beast of burden which cannot even be utilised for the purposes of the human section, but only for the beasts; a very low, beast-conception. So, we are to remove ourselves from the platform of identifying the spiritual with the material. The spiritual is necessary, not the material, and it is imperative that we understand the real position."
+        },
+        {
+          "class": "b70",
+          "text": " Rāvaṇa deceived"
+        },
+        {
+          "class": "b43",
+          "text": " Once, Śrī Chaitanya Mahāprabhu was the guest of a devotee of the primary class belonging to the Rāmānuja school who was very much shocked to hear about the abduction of Sītā Devī by Rāvaṇa. At that time, the devotee managed to give some food to the Lord, but he himself was observing fasting and was always wailing and lamenting. Mahāprabhu asked, “Why are you not taking anything to eat?” He replied, “I want to die. I heard that my beloved Mother Jānakī, Sītā Devī, was abducted by a demon! If I have to hear that—if that should even enter my ear, then I want to die; I don’t want to live any longer.”"
+        },
+        {
+          "class": "b44",
+          "text": " Then, Mahāprabhu consoled him: “No, no, don’t think like that. Sītā Devī is Lakṣmī Devī herself. She is chinmaya, consciousness personified, not having a body composed of any material elements. Sītā Devī’s body is not made of flesh and blood, so what to speak of forcibly carrying Her away, Rāvaṇa could not possibly touch Her; he cannot even see Her. Sītā Devī’s form is composed of such substance that Rāvaṇa can neither see nor touch Her! This is the fact. So, don’t disturb your mind. This is the truth, I say, so you take prasādam.” Then, that devotee took prasādam."
+        },
+        {
+          "class": "b44",
+          "text": " Later, Mahāprabhu went further south, and in one place He found that the devotees there were reading the <span class=\"e3\">Kūrma-purāṇa</span>, wherein it is mentioned that when Rāvaṇa came to steal away Sītā, She took shelter by entering into fire, and the fire-god Agni gave some imitation Sītā to Rāvaṇa, and Rāvaṇa took that ‘māyā Sītā’ away. Then, after killing Rāvaṇa and attaining victory, before taking Sītā from Laṅkā, Rāmachandra said, “To prove Her chastity, She must enter into blazing fire, and if She can pass through that test, then I shall accept Her. For one whole year She was living with the demon family, and therefore I cannot immediately trust Her chastity.” Then, so many devotees began to weep, but by the order of Rāmachandra the fire was prepared, and Sītā Devī had to enter. When the fire receded, Sītā Devī came out with a smiling face, and the devotees began to cry out, “Jay! Sītā Devī ki jay!”"
+        },
+        {
+          "class": "b69",
+          "text": " This was written in that <span class=\"e3\">Kūrma-purāṇa</span>, and Mahāprabhu asked the reader, “Please give Me that original page and insert a newly-written copy in there. I met a brāhmaṇ who is extremely troubled, thinking that Sītā Devī was actually abducted by Rāvaṇa. I want to show him this old page of this book to convince him that I was not just consoling him, but it is written in the śāstra that Rāvaṇa could not touch the real Sītā Devī because She is consciousness personified—not matter, not any flesh or blood or bone or any such things.”"
+        },
+        {
+          "class": "b70",
+          "text": " The soul has its own body"
+        },
+        {
+          "class": "b43",
+          "text": " If a ghost can show his form or a yogī can show his form, then is not God able to show His form? He can do so by His will. “Let there be water”, there was water, and when He said “Let there be light”, there was light. His will is law. Whatever He wants to do, at once it is done. So will He have to have a permanent flesh and blood body? At His will, He can show anything as He likes, and it is all spiritual with no touch of the contamination of any mundane substance. But the eye in the higher domain of reality is not like the fleshy eye here. Everything is there—the eye, the ear—but they are not the same as here. Just as in dreams, our fleshy eyes do not work, these ears do not work, yet within our dream we see, feel, walk, eat, and drink. The mind is only ‘half material’, and if even in the mental plane all these activities are possible, then transcending that also is the pure spiritual world, and there is the spiritual eye, the spiritual ear, the spiritual mind—everything is spiritual. It is possible."
+        },
+        {
+          "class": "b44",
+          "text": " On the battlefield, when two tanks come to fight, the men within the tanks may think, “The tanks are moving like two demons pushing one another!” The tanks are crashing together, but the man is within. Similarly, the soul within this body has its own body, its own plane of living, its own food—everything of its own in the spiritual realm—and this world is the perverted reflection of that realm. We must purely aspire after a life in that spiritual realm, and purity depends on love, and love means sacrifice: “Die to live.” We have to die wholesale in regard to our interest in life here, and then another sort of interest will awaken within us, and we shall live there in that place. That is our aspiration, and for that we have left all our ‘concrete’ things—our house, our property, our friends, our father, mother, children, and other relatives. So many things we have left, and we have gone out in the quest of other things. We have no more charm for mundane possessions; we are seeking something which is supramundane."
+        },
+        {
+          "class": "b69",
+          "text": " ‘Mundane’ means under the jurisdiction of mortality; at every second, it is dying. Everything on which we depend for the maintenance of this body is dying at every second. Everything. So, we want to be out of this dying land, and if it is possible, we want to live in a land where there is no death. That is amṛta—that which is without death—and that is sweet. It is Vaikuṇṭha; it is Goloka. Vaikuṇṭha means in the consideration of the infinite perspective—that conception. <span class=\"e3\">Kuṇṭha</span> means limitation, and <span class=\"e3\">Vaikuṇṭha</span> means unlimited. To live in Vaikuṇṭha means to live in the relativity of the infinite whole."
+        },
+        {
+          "class": "b70",
+          "text": " The purest prayer"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Mahārāj, also regarding Tulasī Devī—I noticed that at this Maṭh, while circumambulating Tulasī during her āratī here, the devotees don’t like to chant the mantra <span class=\"e3\">yāni kāni cha pāpāni brahma-hatyādikāni cha, tāni tāni praṇaśyanti pradakṣiṇah pade pade</span> (“Those who circumambulate Śrīmatī Tulasī Devī step by step destroy whatever sins they have committed, even the killing of a brāhmaṇ”). Why is this?"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> A devotee of higher order must not have any prayer to “absolve me from sin.” The first-class devotee will pray, “Whatever I have done wrong, I am ready to suffer for that, to the farthing. But my prayer is only that I may get a drop of the nectar of the favour of Kṛṣṇa.” That should be the prayer of a real devotee."
+        },
+        {
+          "class": "b60",
+          "text": " paśu-pakṣī haye thāki’ svarge vā niraye<br />tava bhakti rahu bhakti-vinoda-hṛdaye"
+        },
+        {
+          "class": "b43",
+          "text": " According to my karma, I may be a bird, I may be a beast, I may be a worm or an insect, I may be in heaven or in hell—I don’t care about that. According to my own karma, let me suffer accordingly. But my only prayer is, “Let me not be devoid of the favour of Kṛṣṇa; let me get that. I want His grace. I want devotion for Him, only devotion—that is all I want. Whether I have to enjoy the result of my good works in heaven, or I have to suffer for the misdeeds of my previous life and go to hell, I don’t care to get out of that. As a result of my karma, I shall have to suffer or enjoy, but I don’t care about that. My prayer is not to remove the reactions to my sins, to take away any good merit or bad result, but only that I may obtain pure devotion independent of these two."
+        },
+        {
+          "class": "b44",
+          "text": " “I do not want release from either happiness or suffering; let it be, according to my previous karma. Rather, what I want from this moment on is that I will never try to waste the favour of Kṛṣṇa by only praying to be able to face any eventuality, and that whatever I shall acquire from now on, however small, even a drop, that must be nectar of the highest order, and the lower delegation can deal with the question of heaven and hell.”"
+        },
+        {
+          "class": "b69",
+          "text": " For removing our reactions or delivering us from hell or heaven, many lower agents are required; they can do that. But we shall only pray for Kṛṣṇa’s favour as a positive attainment and never try to minimise our previous karma: the result of bad activities performed due to misconception. I don’t care about the ‘passport’; I want the ‘visa’. If I get the visa, no passport trouble will be able to disturb me. It is something like that. So, to merely do away with māyā, misconception, is nothing. The positive attainment in the domain of Kṛṣṇa is a much higher thing. By passing māyā, we can attain Virajā, Brahmaloka. We can get mukti (liberation), the marginal position. But why should I waste my energy only to acquire a position in the marginal plane? All my attempts must be focussed toward the prayer for a position in Goloka, and that will be a gain of the very highest order. I shall pray only for that, and automatically everything else will be accomplished."
+        },
+        {
+          "class": "b70",
+          "text": " Sāvitrī’s encounter with Yamarāj"
+        },
+        {
+          "class": "b43",
+          "text": " There is a story from the Purāṇas which illustrates this principle, the story of Sāvitrī and Satyavān. Sāvitrī was a chaste lady who had acquired special capabilities through the performance of certain penances, and one day she went to the forest with her husband Satyavān, knowing that this day was the day of his death. She knew that this was the day of her husband’s death, but he did not. While cutting wood in the forest, Satyavān said, “I have a headache. I need to take a nap.” Sāvitrī was prepared, and Satyavān put his head on her lap and slept. In his sleep, he died of heart failure, and Yamarāj came to take him. First, Yamarāj’s agents came, but finding that Satyavān’s body was on the lap of his very pure and chaste wife, they could not venture to take him."
+        },
+        {
+          "class": "b44",
+          "text": " Then, Yamarāj himself came and told Sāvitrī, “You leave him; he’s dead. Leave his body.” Sāvitrī said, “Yes, you may take him.” Yamarāj took Satyavān’s soul, but then he saw that Sāvitrī, by dint of her penances, was closely following him in pursuance of her husband. Yamarāj said, “Oh, why are you coming? I am taking him. You must go back.”"
+        },
+        {
+          "class": "b44",
+          "text": " Sāvitrī replied, “No, I can’t. I shall go also.”"
+        },
+        {
+          "class": "b44",
+          "text": " Yamarāj said, “No, you must not come. Why are you disturbing my duty? This is the arrangement of the creator, Lord Brahmā, and you must obey that.”"
+        },
+        {
+          "class": "b44",
+          "text": " Sāvitrī replied, “It is better to die than to live without my husband.”"
+        },
+        {
+          "class": "b44",
+          "text": " Then, Yamarāj said, “All right, I will give you a boon. Accept that and be satisfied.” Sāvitrī asked that her father-in-law and mother-in-law, who were blind, would regain their sight. Yamarāj said, “Yes, they will regain their sight.” But Sāvitrī continued to follow him, saying, “I am not yet satisfied completely.”"
+        },
+        {
+          "class": "b44",
+          "text": " “Then take another boon.”"
+        },
+        {
+          "class": "b44",
+          "text": " “Well, if you are pleased to offer another boon, my father-in-law and mother-in-law have also lost their kingdom, so now please arrange for them to be reinstalled in their own kingdom.”"
+        },
+        {
+          "class": "b44",
+          "text": " “Yes, I say they will get back their kingdom.” But again Sāvitrī began following him."
+        },
+        {
+          "class": "b44",
+          "text": " “Again you are coming?”"
+        },
+        {
+          "class": "b44",
+          "text": " “Yes, I can’t live without the company of my husband.”"
+        },
+        {
+          "class": "b44",
+          "text": " “Take another boon.”"
+        },
+        {
+          "class": "b44",
+          "text": " “Yes.”"
+        },
+        {
+          "class": "b44",
+          "text": " “What is that?”"
+        },
+        {
+          "class": "b44",
+          "text": " “I want one hundred sons.”"
+        },
+        {
+          "class": "b44",
+          "text": " “Yes, you shall have one hundred sons.” Still, Sāvitrī kept following behind Yamarāj. “Now why are you coming? I told you that you would have one hundred sons.” She replied, “If you are taking my husband, then how can I get any sons?”"
+        },
+        {
+          "class": "b44",
+          "text": " Then, Yamarāj was perplexed: “Yes, that’s true. What can I do?” So, he appealed to the higher force. Sāvitrī’s boon was sanctioned, and she got her husband back. Yamarāj had already committed himself—“You will get a hundred sons”—so Sāvitrī asserted, “You have clearly sanctioned that I will get a hundred sons; therefore, you certainly can’t take my husband!”"
+        },
+        {
+          "class": "b44",
+          "text": " The general idea is that if we get some backing from the higher sphere, that will overrule all mandates imposed by the plane of mortality. If we are given a place in Goloka, we cannot be detained in this mundane world. When Tulasī Devī can give us a place there, then why should we waste our prayer to her by asking, “Please clear away the dirt on which I am standing”? That is self-deception. So, we shall always pray to the higher servitors for the higher service of the Lord. We won’t care about where we might be; that problem will automatically be solved. If we get some higher appointment in the divine realm, then automatically we can’t be detained here. Therefore, a śuddha bhakta, a pure devotee, from the core of his heart will never pray for anything else, for that would be a waste of energy. Only, “Pure inclination toward the service of my eternal Lord—that I want. I know nothing else but that, and I do not want anything else.”"
+        },
+        {
+          "class": "b44",
+          "text": " A pure devotee won’t pray for anything but for the higher service of the Lord of his heart. He can’t even imagine asking for anything for his or her own interest. In Christianity, such self-sacrifice is also present. And greater than that is self-forgetfulness. The self is there, but the servitor is forgetful of that and is cent-per-cent absorbed in attending to the pleasure of the Lord. No self-interest, wholesale self-forgetfulness—they are unconscious of their own particular interest because it has become merged in the interest of the Lord, the Absolute Whole."
+        },
+        {
+          "class": "b52",
+          "text": " So, one who is aspiring to become a pure devotee should never desire anything else but to purely serve and give joy to the Lord of his heart. When one is unconscious of everything else—“Let it be, whatever He may like”—that is pure devotion for Tulasī, or whomever we are praying to. If one has got that higher sukṛti, that śuddha-bhakti, the seed of prema-bhakti, then he won’t be able to think of anything else but Kṛṣṇa’s pleasure. He’ll think only of the pleasure of his Lord, cent per cent, forgetting his own body, mind—everything. That is the purest type of prayer."
+        }
+      ]
+    },
+    {
+      "title": " Test, Taste, and Triumph",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b58",
+          "text": " Chapter Four"
+        },
+        {
+          "class": "b47",
+          "text": " Test, Taste, and Triumph"
+        },
+        {
+          "class": "b43",
+          "text": " According to one’s sukṛti, inner adaptability, and grace from above, the soul within will experience awakenment, emerge with some taste, and according to that taste, he will adjust himself with the environment. According to his internal taste, he’ll find, “These friends, this type of service, this company—these seem to be my own! This is tasteful, very, very tasteful.” According to his taste, he will take some particular type of ‘food’. Just as when animals are let loose, they will take food according to their own choice, so the awakened soul will be able to select a proper environment for himself. His inner taste will guide him: “This is very charming; this is attracting my heart. I feel helpless—I can’t control myself. So much attraction do I feel for this particular thing.” In that way, he will be guided. Intuition will direct him. In this world, we find intuition, and in the plane of divine life also there is intuition—the undiscovered tendency in the self—and that will perform the function of selection, elimination, and new acceptance. As we go on with our sādhana, with the process of realisation, elimination, and new selection will come gradually. Gradually, it will take us up."
+        },
+        {
+          "class": "b44",
+          "text": " Why have all of you from the Western countries come to Kṛṣṇa consciousness? You were students of Christianity, mostly, so why has Kṛṣṇa consciousness attracted your soul, your inner heart? You had some sort of religious conception, but why did you leave that, leaving so many traditional formalities and so many friends within that circle? Why have you left them to bring yourself here, in Kṛṣṇa consciousness? For what have you come, taking such risk? The country, the society, the religious conception—you have left them all and come forward for Kṛṣṇa consciousness and moreover as active preachers. That tendency will again push you into the selection of different departments of service in Kṛṣṇa consciousness."
+        },
+        {
+          "class": "b69",
+          "text": " Our inner tendency, inner liking or hankering, will guide us. “This particular sort of service is very pleasing to me; I cannot but associate myself with this sort of service.” That will be the guide; cooperation with the Chaittya-guru, the Guru inside, the ‘dictator’ within. The Guru is outside and inside. When we cannot catch the dictation of the inner dictator Guru, then we must have some guidance from the Mahānta-guru outside and from scripture. We always want guidance along the path, and when we reach a certain stage, from there our ruchi may guide us. Our inner dictating tendency may guide us like intuition, just as birds and beasts are guided by intuition."
+        },
+        {
+          "class": "b70",
+          "text": " Weeds curtailing the bhakti creeper"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Then, Mahārāj, in this connection, why is it that there are so many practitioners of Kṛṣṇa consciousness who, for whatever reasons, have given up their previous devotional association?"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> From a general perspective, the life of wholesale dedication is not a very easy thing to swallow. So many difficulties are in the way: previous tendencies, and also the possibility of offences in the choice of thought, speech, and behaviour due to our free will. The defect is there; it is not a perfect thing. Our free will is very weak and limited. Sādhana means elimination and new acceptance, and within that also so many difficulties and disturbances may come from our past tendencies which do not allow us to progress smoothly. Though I know that what I see is a higher form of service, my previous tendencies won’t allow me to accept that and to undergo the austerities and challenges that are necessary for that service. There are so many difficulties, like weeds. This is described in <span class=\"e3\">Śrī Chaitanya-charitāmṛta</span>:"
+        },
+        {
+          "class": "b59",
+          "text": " brahmāṇḍa bhramite kona bhāgyavān jīva<br />guru-kṛṣṇa-prasāde pāya bhakti-latā-bīja<br />kintu yadi latāra saṅge uṭhe ‘upaśākhā’<br />bhukti-mukti-vāñchhā, yata asaṅkhya tāra lekhā<br />‘niṣiddhāchāra’, ‘kuṭīnāṭī’, ‘jīva-hiṁsana’<br />‘lābha’, ‘pūjā’, ‘pratiṣṭhādi’ yata upaśākhā-gaṇa<br />seka-jala pāñā upaśākhā bāḍi’ yāya<br />stabdha hañā mūla-śākhā bāḍite nā pāya"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrī Chaitanya-charitāmṛta: Madhya-līlā, 19.151, 158-60)"
+        },
+        {
+          "class": "b43",
+          "text": " “According to their karma, all living entities are wandering throughout the entire universe. Some are being elevated to the upper planetary systems, and some are going down into the lower planetary systems. Out of many millions of wandering living entities, one who is very fortunate gets the opportunity to associate with a bona fide spiritual master by the grace of Kṛṣṇa. By the mercy of both Kṛṣṇa and the spiritual master, such a person receives the seed of the creeper of devotional service."
+        },
+        {
+          "class": "b44",
+          "text": " “Unwanted weeds growing with the bhakti creeper are forbidden acts, violence, duplicity, mundane profiteering, adoration and popularity, etc. All these are weeds. If one does not distinguish between the bhakti-latā creeper and the weeds, then the sprinkling of water in the form of devotional practices such as hearing and chanting is misused because the weeds are nourished while the bhakti-latā creeper is curtailed.”"
+        },
+        {
+          "class": "b44",
+          "text": " The creeper of devotion becomes a sprout and gradually grows. Śrīla Kṛṣṇadās Kavirāj Goswāmī says here that along with the main creeper of devotion there are also many weeds, and when the creeper receives watering and nourishing, those weeds also grow up as well. <span class=\"e3\">Lābha</span> means gain—the apparent gain of something, mainly position. But that position and pūjā—appreciation—which the sādhaka receives may then create so many other enemies within him. From the previous tendencies, new enemies come; maybe the desire to accumulate money for self-interested purposes or the desire to get the love of women, and then there is hankering for pratiṣṭhā—fame and popularity. So many things may come. When one is ‘going up’, so many difficulties come on the way to check him, but we must consciously shun those things. So many difficulties come on the way, and we must save ourselves from all of the many internal enemies to our aspiration with the help of Guru, sādhu, scripture, and our own sincerity. Then, gradually we shall grow."
+        },
+        {
+          "class": "b69",
+          "text": " And at each new stage that we advance to, there also we shall find some other difficulty. So the path of inner evolution is not strewn with roses; it is a difficult path to walk. As we get nearer to the goal we become more and more free, but in the beginning various difficulties do come to check us. Our previous karma-phala, the ‘fruits’ of our previous actions, will return to be tasted by us, and tendencies of different types will chase us to try to keep us within their jurisdiction. But upon meeting those difficulties and surpassing them—conquering them—we shall progress higher and higher, and the difficulties will lessen. Still something may remain, especially pratiṣṭhā."
+        },
+        {
+          "class": "b70",
+          "text": " More humility: less opposition"
+        },
+        {
+          "class": "b59",
+          "text": " tṛṇād api sunīchena taror iva sahiṣṇunā<br />amāninā mānadena kīrtanīyaḥ sadā hariḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śikṣāṣṭakam: 3)"
+        },
+        {
+          "class": "b43",
+          "text": " While treading the path to bhakti, if we are well-equipped with this helpful mood, then we shall certainly meet less opposition. <span class=\"e3\">Tṛṇād api sunīchena</span>: humbler than a blade of grass. I won’t allow myself to be the cause of any friction with the environment. This will be our first mood and the foremost guideline for our conduct. Second, <span class=\"e3\">taror iva sahiṣṇunā</span>: Still, if any attack does come from the environment, then I shall try to bear it silently, without giving any opposition. And third, <span class=\"e3\">amāninā mānadena</span>: I won’t try to gain any popularity, any good name or fame—I won’t hanker for that—but at the same time I shall give proper respect to the environment and to everyone who is in the environment. I shall offer respect, but I won’t desire any respect from others. The more we try to go on our way with this mood and corresponding behaviour, the less difficulty we shall have to face."
+        },
+        {
+          "class": "b44",
+          "text": " Also, those who are in a mission and under the guidance of a higher realised soul can face many dangers. When we go out to preach, we shall have to face many difficulties, but with the help of the higher guidance, we can fight those who are propagating misconception, and we can either subdue them or invite them to meet with the higher leader. In this way, we can give opposition to the forces of māyā and counterattack. At that time, we shall not adopt the policy that we shall give no opposition to the environment. No. When we are engaged in preaching as ‘soldiers’, we shall approach and face the opposition, and we shall try to ‘disarm’ him. And if we can’t, then we shall invite him to our Guru to be disarmed."
+        },
+        {
+          "class": "b44",
+          "text": " In this way, I shall go on, carrying out the orders of the Vaiṣṇava. And if in some way I am ‘wounded’ by the local environment in that attempt, then my spiritual stamina will increase as a result of following the order of the higher agent—Vaiṣṇava-sevā, and I shall be more greatly benefitted thereby."
+        },
+        {
+          "class": "b69",
+          "text": " I want Vaiṣṇavī-pratiṣṭhā. I won’t want any popularity from the ordinary public—they are almost insane—but I want a position in the eye of my master, my Gurudev, that, “Yes, he is a promising boy. He will spiritually prosper.” When my higher guardians look upon me with some affectionate encouragement, that will be my capital. Their goodwill and liking for me will be my capital on my passage toward the higher realm. When we are alone in a solitary place and going on with chanting the Holy Name, then of course this <span class=\"e3\">tṛṇād api sunīchena</span> must be strictly observed at all times. But when fighting under a ‘general’ in a preaching campaign, then our external demeanour should be a little different, more towards carrying out the order of that higher spiritual general. That will be more gainful."
+        },
+        {
+          "class": "b70",
+          "text": " The meaning of sannyās for the Vaiṣṇava"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Since the general order to go out and preach has been very broadly given to all devotees by Lord Chaitanya Mahāprabhu, what is the special utility of the sannyās order in our sampradāya when Mahāprabhu has said that it is forbidden in this Age of Kali?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> The answer is explained in <span class=\"e3\">Śrī Chaitanya-charitāmṛta</span>. This is a general question not only for the Gauḍīya sampradāya, but also for the followers of Rāmānuja, Madhva Āchārya, and even Śaṅkar Āchārya. The Buddhists may not care for the directions of the Purāṇas, but the Śaṅkar school and the Vaiṣṇava schools accept sannyās. Śaṅkar was a sannyāsī, and for the most part his successors were all sannyāsīs as well. This is true of Rāmānuja also, Madhva Āchārya, and the Viṣṇu Swāmī sampradāya also."
+        },
+        {
+          "class": "b44",
+          "text": " The interpretation is this: in Kali-yuga, sannyās in the strict sense of karma-sannyās is forbidden. Karma-sannyās means that you leave everything, and that type of sannyās is not possible in Kali-yuga. It is described in the śāstras that in Satya-yuga, as long as a man’s bones exist, that is how long he will live. Along with the longevity of the bones, the life will be there. In Tretā-yuga, life may be maintained by the nervous system, but it is stated that in Kali-yuga, <span class=\"e3\">kalāv annagatāḥ prāṇāḥ</span>: one’s longevity depends on food. Therefore, sannyās in the strict sense is not possible in Kali-yuga."
+        },
+        {
+          "class": "b44",
+          "text": " Previously, Vālmīki was engaged in tapasya for so many years that the insects captured his whole body and reduced the flesh into earth, yet he remained present within his bones. Then later, by the help of some spiritual miracle, his whole body was restored. But in Kali-yuga, without food it is not possible to live. All penances have been especially adjusted for Kali-yuga, and the only continuous fast allowed in Kali-yuga is for twenty-four hours, not more than that. In other ages, at least twelve days fasting was generally done. If a person had done anything wrong, then according to the smṛti śāstra, twelve days fasting was the standard punishment for any sins. But in Kali-yuga, twenty-four hour fasting is the maximum because without food a man cannot survive."
+        },
+        {
+          "class": "b44",
+          "text": " If he were to take karma-sannyās while being so extremely dependent on material giving and taking, then he wouldn’t be able to maintain his existence. But the life of Vaiṣṇava tridaṇḍa-sannyāsī, which is not very extreme—take prasādam, do service—is a sort of modified form based on <span class=\"e3\">yuktāhāra-vihāraś cha</span>, and one living according to this principle can take sannyās."
+        },
+        {
+          "class": "b51",
+          "text": " Mahāprabhu took sannyās, Śaṅkar Āchārya, Rāmānuja—all the pioneers of the different sampradāyas took sannyās. That has been interpreted as karma-sannyās, but still, sannyās is of several kinds. There is also vidvat-sannyās, which is considered by the salvationist section to be the highest. Their idea is that when one has fully realised that his connection with this material realm is a negative one, he will finish his material encasement and enter into the spiritual sphere. When he is fully established in this firm consciousness that “my connection with the material world will be injurious to me”, he will then relinquish his body and go away to the spiritual sky. That is vidvat-sannyās. There is also narottam-sannyās:"
+        },
+        {
+          "class": "b59",
+          "text": " yaḥ svakāt parato veha jāta-nirveda ātmavān<br />hṛdi kṛtvā hariṁ gehāt pravrajet sa narottamaḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 1.13.27)"
+        },
+        {
+          "class": "b43",
+          "text": " In the narottam system of sannyās, one has realised the presence or existence of God within his heart, and thinking of Him, he leaves his present engagement and duties of the household and remains outside, anywhere and everywhere—under a tree or in a cave or wherever—careless of his physical needs. He does not immediately relinquish his body, but he takes whatever food he gets, and when he does not get any food, he fasts, and in this way he goes on. He leaves the household for good. That is narottam-sannyās."
+        },
+        {
+          "class": "b44",
+          "text": " And there are also different stages of sannyās mentioned in the śāstra: kuṭīchaka, bahūdaka, haṁsa, and paramahaṁsa, progressively. But tridaṇḍa-sannyās is when the sannyāsī engages himself fully in the service of Godhead by spreading His messages and doing some good to the public, and that characteristic is different. It is categorically different. The tridaṇḍi-sannyāsī is not adopting an attitude or tactic of leaving all of the engagements of this world as a result of becoming disgusted with its many temptations. Rather, he is engaging himself in the higher duty of the upper world through an agent, so his body has got utility. Remaining here, maintaining connection here, he is drawing some higher thing from above and distributing that in the environment. That is another conception of sannyās, and it has positive value."
+        },
+        {
+          "class": "b69",
+          "text": " This is a similar engagement to that performed by the Lord’s closest associates. When an incarnation of God comes down, His favourite pārṣadas, His friends and servitors, are also sent by Him to come down to do some service to help Him. There are also sub-agents who have received some engagement from the higher agent, and by moving within this world in that capacity, they can earn more spiritual wealth than those who are very eager to disconnect completely from this material plane. They want to try to utilise their connection with this mundane plane to earn some substantial wealth of the upper house. So, like the Lord’s pārṣadas, the tridaṇḍi-sannyāsīs want to work as God’s agents."
+        },
+        {
+          "class": "b70",
+          "text": " The glory of the divine feminine nature"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Devotee:</span> Mahārāj, we know the injunctions forbidding sannyāsīs and brahmachārīs specifically from mixing with ladies, but what should be the general overall vision of the male section of devotees as we are serving Mahāprabhu’s mission together with our godsisters?"
+        },
+        {
+          "class": "b43",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> According to the varṇāśram system, generally the śūdras (labouring class) and ladies are not allowed direct participation in the higher religious functions. Only indirect participation is allowed for them, and they also do not get the sacred thread. Yet a brāhmaṇ boy can be found touching the feet of his mother! The mother will not touch the Deity of Nārāyaṇ, but her son who is worshipping Nārāyaṇ is touching her feet and taking her feet-dust. Such a position is there in the varṇāśram system. Women are generally considered unfit or below the standard of engaging in direct service to the Lord, but in the Vaiṣṇava conception there is no such strictness about that."
+        },
+        {
+          "class": "b44",
+          "text": " In my youth, some sort of disregard grew in my mind about the lady section: “I must keep far away from them. They are untouchable.” But that notion was amended by my aunt in this way: she noted my nature, my conduct, and once affectionately remarked to me, “Oh, don’t you know that ladies represent Lakṣmī Devī? They belong to the same section, and in them the qualities of sacrifice and submission are very clearly visible, so they should be respected. They should be respected, and the aggressive male nature is to be viewed unfavourably. The feminine ego-conception is an ideal of a very noble type wherein sacrifice, the devotional aspect, is very prominent. Ladies are not aggressors; they are sacrifice personified. Whereas the male nature, that is aggressive.”"
+        },
+        {
+          "class": "b44",
+          "text": " Gradually that idea came to me, and I learned to appreciate Sītā, Draupadī, and so many others, especially the supreme example shown by the gopīs. The standard established by the gopīs has shown that self-forgetfulness, self-sacrifice, and self-surrendering reaches its zenith, its highest conception, in the lady-aspect. The passive aspect holds the highest position. That viewpoint came gradually and caused a turnabout within my mind."
+        },
+        {
+          "class": "b44",
+          "text": " Madhura-rasa, consorthood, is the highest position, and within Śrīmatī Rādhārāṇī we find the greatest degree of sacrifice and affection. The males are the aggressors; they are responsible for all the difficulties and troubles, not the ladies. That we possess the aggressive nature of a male is the disease in us. Gradually, that perception developed from inside, and ultimately I found that when the female nature is pure and in connection with the supreme līlā of vātsalya-rasa and madhura-rasa, it holds the highest position in the topmost realm. And our aspiration is for engagement in the service of Śrīmatī Rādhārāṇī."
+        },
+        {
+          "class": "b51",
+          "text": " The position of Śrī Rādhā is that of the highest service to Kṛṣṇa, and Rādhā-dāsyam has been considered by Mahāprabhu to be the highest attainment. Vāsudev Ghoṣ says:"
+        },
+        {
+          "class": "b93",
+          "text": " yadi gaura nā hata,<span class=\"e10\">\ttabe ki ha-ita</span><br /><span class=\"e11\">\tkemane dharitām de<br /></span>rādhāra mahimā<span class=\"e10\">\tprema-rasa-sīmā</span><br /><span class=\"e11\">\tjagate jānāta ke?</span>"
+        },
+        {
+          "class": "b55",
+          "text": " “Who could disclose this holy, divine fact if Śrī Gaurāṅga did not personally appear on this earth? Who could let us know, who could inform us, that the highest servitor is Rādhārāṇī?” But Gaurāṅga did come, and He clearly showed that the highest conception of service is to be engaged in the service of that highest, negative potency."
+        }
+      ]
+    }
+  ]
+}

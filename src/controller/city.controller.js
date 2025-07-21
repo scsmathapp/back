@@ -7,7 +7,7 @@ import cities from '../assets/cities.js';
 
 _.each(cities, city => {
     console.log('Reading city ' + city.name);
-    fs.readFile('D:/Dev/Webstorm/SCSMath/back/src/assets/json/' + city.slug + '_539.json', 'utf8', (err, location) => {
+    fs.readFile('D:/Dev/Webstorm/SCSMath/back/src/assets/json/' + city.slug + '_540.json', 'utf8', (err, location) => {
         if (err) {
             console.log(err);
         } else {
@@ -16,24 +16,6 @@ _.each(cities, city => {
         }
     })
 });
-
-// export default function (req, res) {
-//     fetch('https://vaishnavacalendar.org/ics/new_york_539_en.txt')
-//         .then(res => res.text())
-//         .then(txt => {
-//             const icalEvents = txt.split('BEGIN:VEVENT');
-//             const dateMap = {};
-//             let splitTxt = '';
-//
-//             _.each(icalEvents, function (icalEvent) {
-//                 icalEvent = icalEvent.split('DTSTART;VALUE=DATE:')[1];
-//                 splitTxt = icalEvent.split('\\r\\nSUMMARY:');
-//                 dateMap[splitTxt[0]] = splitTxt[splitTxt.length - 1];
-//             });
-//
-//             res.send();
-//         });
-// }
 
 const standardizeData = (calDates) => {
     let newCountry = {};
@@ -56,7 +38,7 @@ const standardizeData = (calDates) => {
 
 const writeClient = (city, data) => {
     console.log('Writing client ' + city.name);
-    fs.writeFile('D:/Dev/Webstorm/SCSMath/client/public/assets/cal/location-' + city.city_id + '.js', data, (err) => {
+    fs.writeFile('D:/Dev/Webstorm/SCSMath/front/src/assets/cal-data/location-' + city.city_id + '.js', data, (err) => {
         if (err) {
             console.log(err);
         }
@@ -64,6 +46,7 @@ const writeClient = (city, data) => {
 }
 
 const castEvents = (day, date) => {
+    let eventStr = date['en-line'];
     let eventImages = {
         AcharyaMhj: 'Nirmal Acharya',
         GovindaMhj: 'Sundar Govinda',
@@ -78,7 +61,7 @@ const castEvents = (day, date) => {
         SriRadha: 'Radhashtami',
         SriGaura: 'Gaura Purnima',
         SriNitai: 'Sri Nityananda Prabhu'
-    }, eventStr = date['en-line'];
+    };
 
     if (eventStr) {
         eventStr = eventStr.replace(/(\. )/g, '---');
@@ -87,41 +70,25 @@ const castEvents = (day, date) => {
         let splitEvents = eventStr.split('---');
 
         _.eachRight(splitEvents, (ev, evIndex) => {
-            let newEvent = {};
             if (ev) {
+                const newEvent = removeChar(ev, day);
+
                 if (ev.includes('Ekadashi') || ev.includes('Mahadvadashi')) {
-                    day.ekadashi = ev;
+                    day.ekadashi = newEvent;
                     splitEvents.splice(evIndex, 1);
                     return false;
                 }
 
                 if (ev.includes('No fast') || ev.toLowerCase().includes('paran')) {
-                    day.special = ev;
+                    day.special = newEvent;
                     splitEvents.splice(evIndex, 1);
                     return false;
                 }
 
-                if (ev.includes('<a href="')) {
-                    let array = ev.split('<a href="');
-                    let array2 = array[1].split('\"');
-
-                    if (array2[1]) {
-                        array2[1] = array2[1].split('>')[1];
-                        newEvent.name = array[0] + array2[1];
-                    } else {
-                        newEvent.name = array[0];
-                    }
-
-                    newEvent.link = array2[0];
-                } else {
-                    newEvent.name = ev;
-                }
-
-                newEvent.name = newEvent.name.replace(/(\<i\>)|(\<\/i\>)|(\<\/a\>)|(\<\/a)/g, '');
-
                 _.each(eventImages, (lord, img) => {
                     if (newEvent.name.includes(lord)) {
-                        newEvent.url = 'url(../assets/img/' + img + '.jpg)';
+                        newEvent.img = img;
+                        day.img = img;
                     }
                 });
 
@@ -131,5 +98,36 @@ const castEvents = (day, date) => {
             }
         });
     }
+}
 
+function removeChar(ev, day) {
+    const newEvent = {};
+
+    if (ev.includes('<a href="') || ev.includes('<a href= "')) {
+        let str;
+
+        if (ev.includes('<a href="')) {
+            str = '<a href="';
+        } else if (ev.includes('<a href= "')) {
+            str = '<a href= "';
+        }
+
+        let array = ev.split(str);
+        let array2 = array[1].split('\"');
+        
+        if (array2[1]) {
+            array2[1] = array2[1].split('>')[1];
+            newEvent.name = array[0] + array2[1];
+        } else {
+            newEvent.name = array[0];
+        }
+
+        newEvent.link = array2[0];
+    } else {
+        newEvent.name = ev;
+    }
+
+    newEvent.name = newEvent.name.replace(/(\<i\>)|(\<\/i\>)|(\<\/a\>)|(\<\/a)/g, '');
+    
+    return newEvent;
 }

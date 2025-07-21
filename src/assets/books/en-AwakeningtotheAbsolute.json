@@ -1,0 +1,629 @@
+{
+  "title": "Awakening to the Absolute",
+  "code": "en-AwakeningtotheAbsolute",
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        {
+          "class": "b34",
+          "text": "\r"
+        },
+        {
+          "class": "b35",
+          "text": " All glory to Śrī Guru and Śrī Gaurāṅga"
+        },
+        {
+          "class": "b36",
+          "text": " Awakening to the Absolute"
+        },
+        {
+          "class": "b37",
+          "text": " by<br />His Divine Grace"
+        },
+        {
+          "class": "b38",
+          "text": " Śrīla B.R. Śrīdhar Dev-Goswāmī Mahārāj"
+        }
+      ]
+    },
+    {
+      "title": " Contents",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b47",
+          "text": " Contents"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Dedication</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Introduction</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Part One: Waking from the Dream</span>"
+        },
+        {
+          "class": "b48",
+          "text": " <span class=\"e1\">Part Two: The Path of the Heart</span>"
+        },
+        {
+          "class": "b49",
+          "text": " <span class=\"e1\">Epilogue</span>"
+        }
+      ]
+    },
+    {
+      "title": " Dedication",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b47",
+          "text": " Dedication"
+        },
+        {
+          "class": "b43",
+          "text": " With eternal loving gratitude to His Divine Grace Śrīla A.C. Bhaktivedānta Swāmī Prabhupād, grand ambassador of Lord Chaitanya and the Holy Name to the Western world, and our ‘Śikṣā-guru’."
+        },
+        {
+          "class": "b51",
+          "text": " Dedicated as an offering to Śrī Āchāryadev His Divine Grace Śrī Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj through whom the disciples and followers of Śrī Chaitanya Sāraswat lineage continue to receive inspiration, strength, and nourishment in their aspiration towards the noble ideals shown by the great preceptor and founder of Śrī Chaitanya Sāraswat Maṭh, His Divine Grace Om Viṣṇupād Śrī Śrīmad B.R. Śrīdhar Dev-Goswāmī Mahārāj"
+        },
+        {
+          "class": "b59",
+          "text": " kāmasya nendriya-prītir lābho jīveta yāvatā<br />jīvasya tattva-jijñāsā nārtho yaś cheha karmabhiḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 1.2.10)"
+        },
+        {
+          "class": "b55",
+          "text": " “Life’s desires should never be directed toward sense gratification. One should desire only a healthy life, or self preservation, since a human being is meant for enquiry about the Absolute Truth. Nothing else should be the goal of one’s works.”"
+        }
+      ]
+    },
+    {
+      "title": " Introduction",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b47",
+          "text": " Introduction"
+        },
+        {
+          "class": "b43",
+          "text": " It is my great pleasure and fortune to be able to present this short talk by His Divine Grace Śrīla B.R. Śrīdhar Dev-Goswāmī Mahārāj in written form."
+        },
+        {
+          "class": "b44",
+          "text": " For the sincere student of the teachings of Kṛṣṇa consciousness as delivered by the Supreme Lord Himself, Śrī Chaitanya Mahāprabhu, Śrīla B.R. Śrīdhar Dev-Goswāmī Mahārāj requires little introduction. Disciple of the great pioneer of the teachings of pure devotional theism in the present age, Śrīla Bhakti Siddhānta Saraswatī Ṭhākur Prabhupād (1874-1937), Śrīla Śrīdhar Mahārāj was named by his Gurudev as the ‘guardian of devotion’, and his life and teachings—his immense scriptural knowledge, oral and written contributions, and depth of realisation—have touched innumerable hearts of godbrothers and disciples alike."
+        },
+        {
+          "class": "b44",
+          "text": " Following the departure from the world of his beloved godbrother, Śrīla A.C. Bhaktivedānta Swāmī Prabhupād (1896-1977), the great ambassador of Kṛṣṇa consciousness to the Western world, Śrīla Śrīdhar Mahārāj’s very presence in the world brought new life, light, and hope to many of Śrīla Swāmī Prabhupād’s disciples. Though Śrīla Śrīdhar Mahārāj himself disappeared from mortal vision in 1988, after having appointed his most beloved disciple Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj as his successor, that presence continues to shine brightly both in the hearts of his disciples, grand-disciples, and followers all over the world, and at his place of bhajan (worship), the beautiful Śrī Chaitanya Sāraswat Maṭh at Nabadwīp."
+        },
+        {
+          "class": "b44",
+          "text": " <span class=\"e3\">Awakening to the Absolute</span> is an extract from a talk which was delivered in 1982 during the first months of that year when devotees, seeking guidance and nourishment for their spiritual lives amidst turbulent times, were visiting Śrīla Śrīdhar Mahārāj at Śrī Chaitanya Sāraswat Maṭh. Actually, we had known about this wonderful gem for a long time and had intended to publish it much earlier but were unable to locate the tape recording. During a visit to Norway in 1997, a video film of Śrīla Śrīdhar Mahārāj was being shown in one devotees’ home, and lo! We were blessed. Subsequently, we were given an audio copy of the same from which the present offering was transcribed."
+        },
+        {
+          "class": "b44",
+          "text": " Previously, two booklets also containing excerpts from Śrīla Śrīdhar Mahārāj’s talks, entitled <span class=\"e3\">Home Comfort</span> and <span class=\"e3\">Inner Fulfilment</span>, were published. Although intended as introductions to the spiritual life of devotion and suitable for public distribution, these also contained conceptions of much greater depth and were in fact of great value and much loved by practising devotees all over the world."
+        },
+        {
+          "class": "b44",
+          "text": " <span class=\"e3\">Awakening to the Absolute</span> may perhaps be seen as completing this trilogy of booklets. Herein is shown how the Absolute Truth in its fully revealed aspect is Kṛṣṇa, and therefore Kṛṣṇa consciousness is the summum bonum of all spiritual search. Taking the basic theme of those previous books—the search innate in every living being for fulfilment which can be finally realised in the human form—the development of this search in a progressively specified form, blessing the soul with greater and greater fulfilment in the life of divine service, is shown."
+        },
+        {
+          "class": "b44",
+          "text": " Though it is certainly true that sincere faith (śraddhā) is the first and foremost qualification—or pre-qualification—and necessity for the spiritual aspirant, it is incorrect to assume that spiritual life is somehow haphazard or unscientific. By authentic spiritual practice under expert guidance and with the help of divine grace, the goal is realised by stages; awakenment of the soul is such. The Lord Himself (<span class=\"e3\">Bg</span>: 10.32) says, “Of all kinds of wisdom, of all sciences, I am the spiritual science of the self—the knowledge of the soul.”"
+        },
+        {
+          "class": "b44",
+          "text": " However, with this science, the results are not, cannot be, verifiable in the empirical sense because here the work—the experiment if you will—is performed not on, or with, any external apparatus, but on and with the experimenter himself. The results, therefore, are necessarily subjectively (in the subject, self) realised. That is why, to the uninitiated, religious experience always seems an impenetrable mystery. Indeed, Śrī Kṛṣṇa tells Arjuna (<span class=\"e3\">Bg</span>: 2.69):"
+        },
+        {
+          "class": "b67",
+          "text": " “While spiritual awareness is like night for the living beings enchanted by the material phenomena, the self-realised soul remains awake, directly relishing the divine ecstasy of his uninterrupted spiritual intelligence. On the contrary, the wakefulness of materialistic persons addicted to sense enjoyment—infatuated by fleeting mundane fancies devoid of spiritual joy—is night for the self-realised person who is completely indifferent to such pursuits.”"
+        },
+        {
+          "class": "b51",
+          "text": " The serious inquirer, if it is his fortune to appreciate this truth, would naturally wish to seek out the living representative of such as advised by the Lord in the <span class=\"e3\">Bhagavad-gītā</span> to His dear disciple Arjuna:"
+        },
+        {
+          "class": "b59",
+          "text": " tad viddhi praṇipātena paripraśnena sevayā<br />upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhagavad-gītā: 4.34)"
+        },
+        {
+          "class": "b43",
+          "text": " “You will be able to attain all this knowledge by satisfying the enlightened spiritual master with prostrate obeisances, relevant enquiry, and sincere service. Great souls who are most expert in scriptural knowledge and endowed with direct realisation of the Supreme Absolute Truth will teach you that divine knowledge.”"
+        },
+        {
+          "class": "b44",
+          "text": " Characteristically, in this talk His Divine Grace takes as his basis a verse from scripture and then explains it line by line and word by word, revealing the inner meaning in its beautiful, living form. Here, we have a scientific, clear, and impartial exposition of the development of consciousness from self-realisation—<span class=\"e3\">brahma-bhūtaḥ prasannātmā</span> (<span class=\"e3\">Bg</span>: 18.54)—up to the soul’s location in eternal divine service—<span class=\"e3\">muktir hitvānyathā rūpaṁ svarūpeṇa-vyavastitiḥ</span>—the gradual awakening of the soul, in stages, to its acme: a “life of love with Kṛṣṇa”—hence the book’s title."
+        },
+        {
+          "class": "b44",
+          "text": " In transcribing the text, we have tried to be faithful to the spirit, the mood, and flow of Śrīla Śrīdhar Mahārāj’s delivery as it was originally given. We have made adjustments only where unavoidably necessary to show the meanings in the text as clearly and accurately as possible, (especially) for the reader unfamiliar with Śrīla Śrīdhar Mahārāj’s particular spiritually-charged, charming, and poetic manner of speech."
+        },
+        {
+          "class": "b44",
+          "text": " At the end of the book, we have also included some verses on chanting the Holy Name, the yuga-dharma or recommended means for spiritual realisation in the present age. The subject matter of Śrīla Śrīdhar Mahārāj’s talk is so essential, in fact, that we were surprised that the talk had not been brought out earlier in the original excellent publications explaining the Kṛṣṇa conception, as produced by Śrīla Śrīdhar Mahārāj’s disciples in the early 1980’s. But then, there is such a wealth of material available (it has been estimated that the recorded informal discourses over nearly nine years [1979-1988] would fill 80 books!), and of course, it is a great fortune that by that arrangement, our humble self might be given the chance to do this service."
+        },
+        {
+          "class": "b44",
+          "text": " Without further ado then, we happily present His Divine Grace’s talk. May the kind reader forgive us for any mistakes appearing in the present offering despite our every effort to eradicate them."
+        },
+        {
+          "class": "b56",
+          "text": " B.S. Tridaṇḍi Swāmī"
+        },
+        {
+          "class": "b56",
+          "text": " Festival in remembrance <br />of Śrīman Mahāprabhu’s sannyās-līlā"
+        },
+        {
+          "class": "b68",
+          "text": " 15 January 1999"
+        },
+        {
+          "class": "b53",
+          "text": " pramāṇais tat sad-āchārais tad abhyāsair nirantaram<br />bodhayan ātmanātmānaṁ bhaktim apy uttamāṁ labhet"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrī Brahma-saṁhitā: 5.59)"
+        },
+        {
+          "class": "b55",
+          "text": " “Supreme devotion is attained by gradually increasing perception of one’s intrinsic self through constant self-cultivation following authority, virtuous practices, and practising spiritual life.”"
+        }
+      ]
+    },
+    {
+      "title": " Waking from the Dream",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b58",
+          "text": " Part One"
+        },
+        {
+          "class": "b47",
+          "text": " Waking from the Dream"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> We find this verse in <span class=\"e3\">Śrīmad Bhāgavatam</span>:"
+        },
+        {
+          "class": "b59",
+          "text": " avismṛtiḥ kṛṣṇa-padāravindayoḥ<br />kṣiṇoty abhadrāṇi cha śaṁ tanoti<br />sattvasya śuddhiṁ paramātma-bhaktiṁ<br />jñānañ cha vijñāna-virāga-yuktam"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 12.12.55)"
+        },
+        {
+          "class": "b43",
+          "text": " “For one who remembers the lotus feet of Kṛṣṇa, all inauspiciousness soon disappears, and one’s good fortune expands. In other words, one becomes free from all material contamination, one attains liberation from repeated birth and death, and one’s real spiritual life begins. As one’s heart becomes gradually purified, one’s devotion for the Lord within the heart awakens, and one realises the Paramātmā. Thus, one gradually develops knowledge (jñān), realisation (vijñān), and renunciation (vairāgya).”"
+        },
+        {
+          "class": "b44",
+          "text": " Kṛṣṇa consciousness, remembrance of the divine feet of Kṛṣṇa (<span class=\"e3\">Kṛṣṇa-padāravindayoḥ</span>), will dissipate, destroy, the <span class=\"e3\">abhadra</span>, what is undesirable, what is not good, in us. That which is nasty, which is impure within us, will be destroyed by the continuance of Kṛṣṇa consciousness. In any stage of its development, even in its lower stage, its slightest, ‘negligent’ connection can destroy our undesirable connection with the things of lower nature. And, it will promote goodness within us. <span class=\"e3\">Sattvasya śuddhim</span>: the substantial character of our existence will be improved; our soul-existence, that will be purified. Our standpoint, our understanding, our aspiration, everything will be purified. And, <span class=\"e3\">Paramātma-bhaktim</span>: we shall attain devotion, attachment to the super-subjective realm, and our knowledge, our conception about that (<span class=\"e3\">jñānañ cha</span>)will improve. And that knowledge—the conception about Him—will develop to <span class=\"e3\">vijñān</span>, a proper conception, and will effect in us <span class=\"e3\">virāga-yuktam</span>: apathy to this mundane world."
+        },
+        {
+          "class": "b69",
+          "text": " At any cost, we are to maintain our Kṛṣṇa consciousness. The advice is: try to maintain Kṛṣṇa consciousness; it is the medicine. And there is no other medicine which can produce Kṛṣṇa consciousness, which can cure our disease and discover Kṛṣṇa consciousness within us."
+        },
+        {
+          "class": "b70",
+          "text": " Light from light"
+        },
+        {
+          "class": "b43",
+          "text": " Kṛṣṇa consciousness is the cause of Kṛṣṇa consciousness! And we have to get help from the sādhus who have got Kṛṣṇa consciousness within them just as from one candle another candle may be lit. A candle cannot produce light from within, but it is to be lit from another candle. It is something like that. We are to awaken our buried Kṛṣṇa consciousness, which is covered by anyābhilāṣ, karma, and jñān (fruit-seeking, selfish work, the result of the attempt to satisfy material desires, both fleeting and ‘organised’, and the search for philosophical/spiritual knowledge, devoid or independent of devotional service). So, that light, that association, will come to help the sleeping Kṛṣṇa consciousness within us, and our consciousness will arise from its sleep and show itself as it is. So, the method is that: to take sādhu-saṅga. <span class=\"e3\">Kṛṣṇa-bhakti-janma-mūla haya ‘sādhu-saṅga’</span>: association with the sādhu, devotee of Kṛṣṇa, is the root cause of Kṛṣṇa consciousness."
+        },
+        {
+          "class": "b44",
+          "text": " At the same time, it is told that Kṛṣṇa consciousness is ahaitukī, causeless. How are we to harmonise these truths? Kṛṣṇa-bhakti, faith in Kṛṣṇa, or devotion to Kṛṣṇa, we can get from the sādhu; at the same time, it is told that it is causeless."
+        },
+        {
+          "class": "b51",
+          "text": " In this connection, Viśvanāth Chakravartī Ṭhākur has explained the meaning of <span class=\"e3\">ahaitukī</span> in this verse from <span class=\"e3\">Śrīmad Bhāgavatam</span> (1.2.6):"
+        },
+        {
+          "class": "b60",
+          "text": " sai vai puṁsāṁ paro dharmo yato bhaktir adhokṣaje<br />ahaituky apratihatā yayātmā suprasīdati"
+        },
+        {
+          "class": "b43",
+          "text": " “The supreme occupation (dharma) for all humanity is that by which man can attain to loving devotional service unto the transcendent Lord. Such devotional service must be causeless and uninterrupted to completely satisfy the self.”"
+        },
+        {
+          "class": "b69",
+          "text": " He explains that here Kṛṣṇa-bhakti is described as <span class=\"e3\">ahaitukī</span>, causeless, and also <span class=\"e3\">apratihatā</span>, continuous, so when it is awakened in our heart, we can feel that our heart is getting wonderfully satisfied: <span class=\"e3\">yayātmā suprasīdati</span>. The satisfaction is produced in our heart; we can feel it. <span class=\"e3\">Ahaituky apratihatā</span>: it has no cause, and it cannot be checked, cannot be opposed; opposition cannot have any effect there. It is such. Bhakti comes from bhakti. In this way, it is ahaitukī just as the light is there and another candle is lit from it. From light, light is coming. In this way, we are to trace it out, to understand it. The original light, that is eternal, self-existent, and is extending itself, so it has no cause; it is causeless. The cause is there eternally, and it is extending itself."
+        },
+        {
+          "class": "b70",
+          "text": " Connection with the causal plane"
+        },
+        {
+          "class": "b71",
+          "text": " And, bhakti is apratihatā. Temporarily, it may seem to be opposed, or apparently checked, but, <span class=\"e3\">nehābhikrama-nāśo ’sti pratyavāyo na vidyate</span> (“Even a small beginning in this devotional service can never go in vain nor can any loss be suffered”). It won’t leave you! For the time being, it may be suppressed a little, but it cannot be finished. It is of eternal character. It has got connection with the eternal aspect of the universe. So, it is apratihatā. We are to come near such sort of existence; we are to come in connection with that plane of life—a particular plane of plenary existence, acquaintance, or nature. It is there; only we are to have our connection with it."
+        },
+        {
+          "class": "b70",
+          "text": " Systematic knowledge"
+        },
+        {
+          "class": "b51",
+          "text": " So, in this verse from <span class=\"e3\">Śrīmad Bhāgavatam</span>:"
+        },
+        {
+          "class": "b59",
+          "text": " avismṛtiḥ kṛṣṇa-padāravindayoḥ<br />kṣiṇoty abhadrāṇi cha śaṁ tanoti<br />sattvasya śuddhiṁ paramātma-bhaktiṁ<br />jñānañ cha vijñāna-virāga-yuktam"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 12.12.55)"
+        },
+        {
+          "class": "b50",
+          "text": " We find here <span class=\"e3\">jñānañ cha vijñāna-virāga-yuktam</span>. <span class=\"e3\">Jñān</span> means direct knowledge of a thing, and <span class=\"e3\">vijñān</span>, systematic knowledge. In <span class=\"e3\">Bhagavad-gītā</span> also, we find this vijñān:"
+        },
+        {
+          "class": "b59",
+          "text": " jñānam te ’haṁ sa-vijñānam idam vakṣyāmy aśeṣataḥ<br />yaj jñātvā neha bhūyo ‘nyaj jñātavyam avaśiṣyate"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhagavad-gītā: 7.2)"
+        },
+        {
+          "class": "b43",
+          "text": " “Now I shall fully describe to you, with the taste of the flavour of divine sweetness, this knowledge of My grand majestic splendour and opulence. After knowing all this, absolutely nothing will remain for you to know, being situated on this beautiful, joyful, and victorious path.”"
+        },
+        {
+          "class": "b44",
+          "text": " Here, we find that jñān means a general knowledge of the whole, and vijñān means the knowledge of its constituent parts as a system, systematic knowledge. So, <span class=\"e3\">jñānañ cha vijñāna-virāga-yuktam</span>: you will attain the knowledge of the Absolute as a system—of parts in gradation, a hierarchy."
+        },
+        {
+          "class": "b70",
+          "text": " Adjusted attraction"
+        },
+        {
+          "class": "b71",
+          "text": " <span class=\"e3\">Virāga</span> has a twofold meaning: one negative, and the other positive. The negative meaning is: you will have no attraction for ‘non-God’, that is, you will have no mundane attachment, no attraction for mundane necessity. And positive: <span class=\"e3\">viśiṣyate-rāga,</span> you will have excellent (viśiṣyate) attachment (rāga)—that kind of attachment which is accepted through the process of selection and elimination, attachment located in its proper place. Your attraction (to Him, to God) will not be through a raw or approximate estimation: “This is good; that is bad; this is a mixture”, but you will have progressively eliminative attraction, adjusted attraction. This is the meaning of <span class=\"e3\">virāga-yuktam</span>. So, this knowledge is such, <span class=\"e3\">jñānañ cha vijñāna-virāga-yuktam</span>: knowledge that is supported by (based on) attraction and also, by experience of the system, that knows how much attachment—more attachment or less—is necessary in any part of it. Discriminative attachment—attachment for the eye, attachment for the hand; they should not be equal, an adjusted attachment, in a particular system. The attachment should be well adjusted. Wherever and how much attention is necessary—the criterion is according to that. So, the head is more important, and the leg a little less. In this way, you will gradually acquire properly adjusted attachment for the systematic whole. First it is hazy, a mass of attraction, and then the attraction will be systematised. As much as you will come in connection with the other side—the object of your attachment—in a systematic way, so much you will be able to realise (Him)."
+        },
+        {
+          "class": "b70",
+          "text": " Clearer conception"
+        },
+        {
+          "class": "b51",
+          "text": " So:"
+        },
+        {
+          "class": "b60",
+          "text": " avismṛtiḥ kṛṣṇa-padāravindayoḥ<br />kṣiṇoty abhadrāṇi cha śaṁ tanoti"
+        },
+        {
+          "class": "b43",
+          "text": " In a general way, the path of good advancement is given here. And, then, <span class=\"e3\">sattvasya śuddhim</span>: your understanding, in its progress, will have its undesirable portion eliminated. Your conception will become more clear—clearer and clearer. With that clarity, undesirable things from your conception will gradually vanish, and your progress will lead you to the perfect conception: <span class=\"e3\">sattvasya śuddhim</span>. In the beginning, that sattva (truth) is what you come to understand in an approximate way to be eternal or sat-chit-ānanda (eternal truth, consciousness, and bliss), but there will be gradual development in your understanding; it will become more clear and more pure."
+        },
+        {
+          "class": "b52",
+          "text": " So, the development towards Kṛṣṇa consciousness is such. First, a mass of light, then the figure, then the potency, then the līlā (Pastimes) with the potency. In this way, your approach will be closer and closer, and many things, the closest and minutest things, will come to your view. The minutest part also, the most detailed things—the whole chit-vilās (the spiritual variegatedness of the conscious plane) will be very close to you. You will be led higher and higher, closer to the specified, differentiated view of that plane. In this way, there is progressive development—progress in bhakti, devotion."
+        }
+      ]
+    },
+    {
+      "title": " The Path of the Heart",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b58",
+          "text": " Part Two"
+        },
+        {
+          "class": "b47",
+          "text": " The Path of the Heart"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> Any question?"
+        },
+        {
+          "class": "b50",
+          "text": " <span class=\"e2\">Disciple:</span> In the <span class=\"e3\">Bhagavad-gītā</span>, Kṛṣṇa says:"
+        },
+        {
+          "class": "b59",
+          "text": " bahūnāṁ janmanām ante jñānavān māṁ prapadyate<br />vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhagavad-gītā: 7.19)"
+        },
+        {
+          "class": "b43",
+          "text": " “After many, many births, the jñānī, person in knowledge (who happens to achieve the association of My pure devotee), finally comes to understand that the whole universe of moving and stationary beings is of the nature of Vāsudev alone in as much all are subordinate to Vāsudev (I, as Vāsudev, am the source and substance of all that be). Having grasped this conception, he surrenders unto Me. Know such a great soul to be extremely rare.”"
+        },
+        {
+          "class": "b51",
+          "text": " What exactly is the meaning here?"
+        },
+        {
+          "class": "b71",
+          "text": " <span class=\"e2\">Śrīla Śrīdhar Mahārāj:</span> From Brahma conception, the different instalments follow. In Brahma realisation, there is a mass of consciousness: ‘all-consciousness’. Then, the next step will come: the consciousness is of individual character. With deeper vision, individuality is added to consciousness. There is consciousness plus individuality."
+        },
+        {
+          "class": "b70",
+          "text": " Consciousness and personality"
+        },
+        {
+          "class": "b43",
+          "text": " In fact, no consciousness can exist without individuality, without personality. So, the consciousness is personal: personality and consciousness, they cannot be separated one from the other. What is differentiated from personality, that is only the halo of the personality—it is something like that. And that halo, that Brahma, is also the combination of minutest personality, of souls."
+        },
+        {
+          "class": "b51",
+          "text": " Substance is of two kinds: kṣara or changing, perishable, and akṣara, unchanging, eternal. In the <span class=\"e3\">Bhagavad-gītā</span> (15.16), Lord Kṛṣṇa says, “<span class=\"e3\">Kṣaraḥ sarvāṇi bhūtāni</span>: whatever we see in the changing aspect of the world, that is called kṣara. And what is unchangeable is called akṣara.” Then, He says:"
+        },
+        {
+          "class": "b59",
+          "text": " yasmāt kṣaram atīto ‘ham akṣarād api chottamaḥ<br />ato ‘smi loke vede cha prathitaḥ puruṣottamaḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhagavad-gītā: 15.18)"
+        },
+        {
+          "class": "b43",
+          "text": " “My existence transcends both of these two substances, kṣara and akṣara. So, I am Puruṣottama—My name is Puruṣottam. My glories are sung in the world and in the scriptures as Puruṣottam, the Supreme Person.”"
+        },
+        {
+          "class": "b69",
+          "text": " Puruṣottam means Vāsudev. So, <span class=\"e3\">bahūnāṁ janmanām ante</span>: after many births, when the jñānīs, those of the impersonal school, come to understand that the Prime Cause of the consciousness of their quest is a personal one, then they come to conceive of Vāsudev."
+        },
+        {
+          "class": "b70",
+          "text": " Real devotion—most rare"
+        },
+        {
+          "class": "b51",
+          "text": " But such jñānīs are very rarely to be found. Mostly, jñānīs cannot cross this line. They are lost there:"
+        },
+        {
+          "class": "b59",
+          "text": " ye ’nye ’ravindākṣa vimukta-māninas<br />tvayy asta-bhāvād aviśuddha-buddhayaḥ<br />āruhya kṛchchhreṇa paraṁ padaṁ tataḥ<br />patanty adho ’nādṛta-yuṣmad aṅghrayaḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 10.2.32)"
+        },
+        {
+          "class": "b43",
+          "text": " “O lotus-eyed Lord, although non-devotees who accept severe penances and austerities to achieve the highest position may think themselves liberated, their intelligence remains impure. They simply speculate in various ways and do not seek the means to take shelter of You. Because they have no regard for Your lotus feet, they simply fall down from their position of imagined superiority into material existence again.”"
+        },
+        {
+          "class": "b69",
+          "text": " Generally, it is the fate of the jñānīs to climb up to the highest position with great effort, and then, when they cannot grasp that consciousness means person—they cannot cross that understanding—they have to revert back. They have to come back, fall back. And those who can cross this line can understand that, “Yes, consciousness means person, a big personality. I am small.” Bhakti begins there. The relation of subordination of the lower to the higher, that comes into effect. And, <span class=\"e3\">sa mahātmā sudurlabhaḥ</span>: such a person among the jñānīs is very rarely to be found who can take the positive connection of the higher aspect of life. Mostly, they come back; they have to come back from there. After much penance, they climb up to that high mark, but they cannot accommodate that the higher entity must be dealt with with devotion, so they have to come back."
+        },
+        {
+          "class": "b70",
+          "text": " Personality with potency"
+        },
+        {
+          "class": "b43",
+          "text": " But those who realise, <span class=\"e3\">Vāsudevaḥ sarvam iti</span>, that Vāsudev, Puruṣottam, is personal, they can cross the line and enter Vaikuṇṭha, the service area proper."
+        },
+        {
+          "class": "b69",
+          "text": " And there, we are told, gradually, as their vision grows more and more, they can find potency on the side of the personal God. Then, they become the devotee of Lakṣmī-Nārāyaṇ and enter completely into Vaikuṇṭha-sevā. And in that service, we find awe, reverence. There are śāstric (scriptural) rules, and also examples of the higher realised souls to guide them."
+        },
+        {
+          "class": "b70",
+          "text": " The search for full engagement"
+        },
+        {
+          "class": "b43",
+          "text": " And in that Vaikuṇṭha-sevā, if the soul does not find the whole of his innate nature having full engagement, there will be some sort of thirst, some inner tendency which cannot find any corresponding relation to satisfy itself. And when he feels this kind of urge from within, he has to search after another rasa (a soul’s specific service mood/relationship with the Lord and the ‘taste’ derived therefrom), for a purer, more friendly service than the filial service (dāsya-rasa)."
+        },
+        {
+          "class": "b69",
+          "text": " And ultimately the madhura-rasa service—the sweetheart’s service, in consorthood—urges him to go up. It urges him to go up and to go deeper. And gradually, by coming in contact with such (madhura-rasa) agents, he finds his own heart blossoming. And blossoming to its fullest extent, his heart takes him gradually towards Goloka Vṛndāvan (the supreme spiritual planet, abode of Lord Kṛṣṇa)."
+        },
+        {
+          "class": "b70",
+          "text": " The service of Reality the Beautiful"
+        },
+        {
+          "class": "b43",
+          "text": " Then, he can see that what was (initially realised as) Brahma, then Paramātmā or Vāsudev, then Lakṣmī-Nārāyaṇ—that has gradually come to him as Kṛṣṇa consciousness, not Nārāyaṇ consciousness. Superseding Nārāyaṇ consciousness, he comes in contact with Kṛṣṇa consciousness of the reality. He is awakened. He finds himself awakened in a plane where he sees the all-connecting, all-harmonising principle is no longer Nārāyaṇ, but Kṛṣṇa—He is showing Himself as Kṛṣṇa. Then, he is fully awakened. His heart is fully awakened, and at the same time he sees that the environment and the object of his search is also fully equipped. This is full-fledged theism."
+        },
+        {
+          "class": "b44",
+          "text": " Full-fledged theism is where the theistic conviction receives its satisfaction in the fullest way. Just as with the opening of the eye, we can see the world, and according to the degree of our sight, we come to see the subtlest thing of the environment, so also by our inner awakenment of the fullest type, we come to a particular world, environment, and that is Vṛndāvan—Goloka Vṛndāvan, the land of love. And movement there is spontaneous, and all around we find the environment only friendly. It is so simple, so friendly, and the dealing of all who are there are filled with so much intimacy."
+        },
+        {
+          "class": "b69",
+          "text": " And in Vṛndāvan we will find that our thirst for any higher change of environment, of association, no longer needs to be quenched, but there is thirst, eternal thirst, for coming in closer relation with them, closer connection with them. There is no possibility of any higher change of environment—where he has reached is almost final—and now the only remaining thing is how to come into a more and more close connection with the environment. And that becomes the initiative of our movement there: more and more intimate connection with the environment. The environment is eternal, but in the intimacy of connection, the ‘competition’ (in loving service), the movement, is there. And the guidance is given according to that."
+        },
+        {
+          "class": "b70",
+          "text": " Merging in Kṛṣṇa consciousness"
+        },
+        {
+          "class": "b43",
+          "text": " In this way, there is progress, there is some sort of necessity by which the service is moving. And, there is repetition, a kind of repetition, but it is ever-fresh, ever-new! It is ever-new, and it is only a question of the time. For example, every day when I am hungry in the morning, food is tasteful to me, and not always. By the movement of the time, it is like that. In this way, everything is palatable, not stale. In that plane, there is movement of time, but it is eternal. It is managed by yogamāyā (the internal potency of Lord Kṛṣṇa, who arranges and conducts His līlā) in such a way."
+        },
+        {
+          "class": "b44",
+          "text": " And finally, there we will attain the fullest satisfaction of all the inner parts of our system, the wholesale satisfaction of every atom of every constituent part of our spiritual body. <span class=\"e3\">Prati aṅga lāge kā̐de prati aṅga mora</span>: every part of my every limb cries for union with the corresponding part of every limb of the other side. Sambandha, relationship with the environment, may come to such a stage that every atom constituting my spiritual body and mind will aspire after union with every corresponding part of the environment. In this way, in such a friendly way, so many are moving there, and it is adjusted accordingly by yogamāyā. And this is the highest conception."
+        },
+        {
+          "class": "b44",
+          "text": " <span class=\"e3\">Prati aṅga lāge kā̐de prati aṅga mora</span>: every atom of my existence is in loving aspiration with the environment, and that is Kṛṣṇa. Kṛṣṇa consciousness has surrounded me. ‘Surrounded me’ means from all sides it has embraced me. I am lost in the thought of Kṛṣṇa consciousness, with its detailed, elaborate acquaintance. I am merged, merged in the deepest part of Kṛṣṇa consciousness, where I shall find that Kṛṣṇa has captured every atom of my existence. Every atom is feeling as if it is experiencing separate pleasure by His embracing."
+        },
+        {
+          "class": "b44",
+          "text": " This is possible only in the consorthood relationship, where every atom has been embraced, captured, by coming into the most intimate connection with Him. It is called ādi-rasa or mukhya-rasa. The name of madhura-rasa is ādi-rasa, that is, it is the most original. It is the source of all other rasas, and all other rasas are dependent on it. So, it is called ādi-rasa. And, mukhya-rasa: the sum total of all rasas, their gist, their essence, is represented there. We are told like that."
+        },
+        {
+          "class": "b69",
+          "text": " And Mahāprabhu came with this gift—madhura-rasa. It is <span class=\"e3\">anarpita charīm chirāt</span>: that which was never distributed before—that of which it is considered any distribution was not possible previously before Him."
+        },
+        {
+          "class": "b70",
+          "text": " Highest revelation"
+        },
+        {
+          "class": "b71",
+          "text": " In Bhakti Vinod Ṭhākur’s book <span class=\"e3\">Jaiva-dharma</span>, we find that one Vaiṣṇava is asking his Gurudev, “Devotion, it is eternal, but why do you say that it came from Mahāprabhu?” Then, his Guru, Paramahaṁsa Bābājī, is saying, “I visited Vṛndāvan and asked the eternal servitor of Śrī Chaitanyadev, Sanātan Goswāmī: ‘This <span class=\"e3\">anarpita charīṁ chirāt</span>—which has never been dealt with before—what is the meaning underlying it?’ Then, Sanātan Goswāmī replied, ‘Bhakti is eternal. In <span class=\"e3\">Nārada-bhakti-sūtra</span>, <span class=\"e3\">Śāṇḍilya-sūtra</span>, all such scriptures, this has been given, but the type of devotion which Mahāprabhu came with, which we meet after the advent of Mahāprabhu Śrī Chaitanyadev, that was not previously at any time open to the ordinary person. So, it is called <span class=\"e3\">anarpita charīṁ</span>. And what is that standard of devotion? It is this: complete surrender to Kṛṣṇa in consorthood, where every atom of the jīva-soul gets welcomed and embraced by the corresponding atom of Kṛṣṇa consciousness—madhura-rasa. That was not open to the public before. This is my finding, my faith. You may accept or not accept.’ Sanātan Goswāmī told like this to that Vaiṣṇava: ‘This is my private conception—you may take it, or not.’” This was his reply."
+        },
+        {
+          "class": "b70",
+          "text": " The world of dedication"
+        },
+        {
+          "class": "b43",
+          "text": " So, devotion has its beginning. The beginning of devotional life is here, where Kṛṣṇa says, <span class=\"e3\">Vāsudevaḥ sarvam iti</span> (<span class=\"e3\">Bg</span>: 7.19): “I, Vāsudev, am the source and substance of all that be.” Then, the beginning of bhakti, the primary admission into the devotional school above jñān, knowledge, and vairāgya, renunciation, that is śānta-rasa (passive relationship with the Lord). And from there the gradation: dāsya-rasa (servitude), then sakhya-rasa (fraternity), then vātsalya-rasa (parenthood), then madhura-rasa (conjugal). All this is given in details in Rāmānanda-saṁvād."
+        },
+        {
+          "class": "b52",
+          "text": " In this way, bhakti is going up. Systematically, we are to understand and digest, digest what is bhakti. But, in the beginning, we are to have a broad conception of the positive world, the world of dedication."
+        }
+      ]
+    },
+    {
+      "title": " Epilogue",
+      "paragraphs": [
+        {
+          "class": "b46",
+          "text": "\r"
+        },
+        {
+          "class": "b47",
+          "text": " Epilogue"
+        },
+        {
+          "class": "b71",
+          "text": " This famous discussion (Rāmānanda-saṁvād) is recorded by Śrīla Kṛṣṇadās Kavirāj Goswāmī in his sublime account of the life of Śrī Chaitanya Mahāprabhu, <span class=\"e3\">Śrī Chaitanya-charitāmṛta</span> (Madhya-līlā, Chapter 8: “Talks between Śrī Chaitanya Mahāprabhu and Rāmānanda Rāy”). It is mentioned in this talk only briefly by Śrīla Śrīdhar Mahārāj, but we give its reference for the reader, because this Rāmānanda-saṁvād was most beloved to, and often quoted by, Śrīla Śrīdhar Mahārāj. On the order of his Guru, Śrīla Bhakti Siddhānta Saraswatī Ṭhākur, Śrīla Śrīdhar Mahārāj discovered the location where this historic discussion took place on the bank of the Godāvarī River (Andhra Pradesh, India) and established a Temple there. He many times pointed out that the entire theological basis of Gauḍīya (Chaitanyite) Vaiṣṇavism is contained therein."
+        },
+        {
+          "class": "b70",
+          "text": " The golden gift"
+        },
+        {
+          "class": "b60",
+          "text": " śrī-kṛṣṇa-chaitanya prabhu nityānanda<br />śrī-advaita gadādhara śrīvāsādi gaura-bhakta-vṛnda"
+        },
+        {
+          "class": "b61",
+          "text": " golokera prema dhana\t<span class=\"e5\">hari-nāma-saṅkīrtana</span>"
+        },
+        {
+          "class": "b50",
+          "text": " The golden gift brought to this world from the topmost planet of the spiritual sky, Goloka Dhām, by the golden Lord Śrī Chaitanya Mahāprabhu is the Hare Kṛṣṇa mahāmantra (great chant for deliverance):"
+        },
+        {
+          "class": "b60",
+          "text": " hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare<br />hare rāma hare rāma rāma rāma hare hare"
+        },
+        {
+          "class": "b59",
+          "text": " harer nāma harer nāma harer nāmaiva kevalam<br />kaulau nāsty eva nāsty eva nāsty eva gatir anyathā"
+        },
+        {
+          "class": "b54",
+          "text": " (Bṛhad-Nāradīya-purāṇa: 38.126)"
+        },
+        {
+          "class": "b43",
+          "text": " “The Holy Name! The Holy Name! The Holy Name! Without chanting of the Holy Name in this Age of Kali, there is certainly no means of deliverance. There is no other way. There is no other way. There is no other way.”"
+        },
+        {
+          "class": "b59",
+          "text": " kaliṁ sabhājayanty āryā guṇajñā sāra-bhāginaḥ<br />yatra saṅkīrtanenaiva sarvaḥ svartho ’bhilabhyate"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīmad Bhāgavatam: 11.5.36)"
+        },
+        {
+          "class": "b43",
+          "text": " “Those who are actually advanced in knowledge are able to appreciate the essential value of this Age of Kali. Such enlightened persons worship Kali-yuga because in this fallen age, all perfection of life can easily be achieved by the performance of saṅkīrtan, the congregational chanting of the Lord’s Holy Names.”"
+        },
+        {
+          "class": "b59",
+          "text": " tṛṇād api sunīchena taror iva sahiṣṇunā<br />amāninā mānadena kīrtanīyaḥ sadā hariḥ"
+        },
+        {
+          "class": "b54",
+          "text": " (Śikṣāṣṭakam: 3)"
+        },
+        {
+          "class": "b43",
+          "text": " “One who is humbler than a blade of grass, more forbearing than a tree, who gives due honour to others without desiring it for himself is qualified to always chant the Holy Name of Kṛṣṇa.”"
+        },
+        {
+          "class": "b62",
+          "text": " mahāprabhu śrī-chaitanya<span class=\"e5\">\trādhā-kṛṣṇa nahe anya</span><br />\t<span class=\"e6\">rūpānuga janera jīvana</span>"
+        },
+        {
+          "class": "b63",
+          "text": " (Śrīla Bhakti Siddhānta Saraswatī Ṭhākur)"
+        },
+        {
+          "class": "b43",
+          "text": " “Lord Śrī Chaitanya Mahāprabhu is none other than Śrī Śrī Rādhā-Kṛṣṇa, the life and soul of the true followers of Śrīla Rūpa Goswāmī.”"
+        },
+        {
+          "class": "b72",
+          "text": " “As much as you surrender to the lotus feet of Śrī Gaurāṅga, you’ll find yourself safely situated in the service of Śrī Śrī Rādhā-Govinda. Don’t try to approach Them directly. If you do, there may be some difficulty. But the lotus feet of Śrī Gaurāṅga will take you there safely.”"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī)"
+        },
+        {
+          "class": "b53",
+          "text": " prabuddhe jñāna-bhaktibhyām ātmany ānanda-chinmayī<br />udety anuttamā bhaktir bhagavat-prema-lakṣaṇā"
+        },
+        {
+          "class": "b54",
+          "text": " (Śrī Brahma-saṁhitā: 5.58)"
+        },
+        {
+          "class": "b55",
+          "text": " “When transcendental experience awakens by means of knowledge and devotion, the highest devotion symptomised by love for the Supreme Lord, Śrī Kṛṣṇa, the beloved of the soul, awakens in the devotee’s heart.”"
+        }
+      ]
+    }
+  ]
+}

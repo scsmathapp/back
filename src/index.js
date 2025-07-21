@@ -3,42 +3,56 @@ import { Server } from 'http';
 import fs from 'fs';
 import config from './app.config.js';
 import { cors } from './middleware/index.js';
-import cityCtrl from './controller/city.controller.js';
+// import cityCtrl from './controller/city.controller.js';
+import sqlite from 'sqlite3';
+import { resolve, dirname } from 'path';
+import { existsSync, mkdirSync } from 'fs';
+import { fileURLToPath } from 'url';
+import {getBooks, getBook, booksJSON} from './controller/book.js';
+import brahmaSamhita from './controller/brahmaSamhita.js';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+const sqlite3 = sqlite.verbose();
+
+// Define path to your SQLite file
+const dbPath = resolve(__dirname, '/Dev/Webstorm/SCSMath/back/src/db/krsna_search-books-noncrypted.sqlite');
+console.log(dbPath);
+
+// Connect to the SQLite database file
+const db = new sqlite3.Database(dbPath, sqlite3.OPEN_READWRITE | sqlite3.OPEN_CREATE, (err) => {
+	if (err) {
+		console.error('Error opening SQLite database:', err.message);
+	} else {
+		console.log('Connected to the SQLite database.');
+	}
+});
+
 
 const app = express(),
 			http = Server(app);
 
-// app.use(mrq.db);
 app.use(cors);
-// mrq.config.modelSchemas = require('./model');
 
-// app.use(bodyparser.json({
-// 	limit: '100mb'
-// }));
-//
-// app.use(bodyparser.raw({
-// 	type: 'binary/octet-stream',
-// 	limit: '10mb'
-// }));
-//
-// app.use(express.static('public'));
-
-// const restify = mrq.restify;
-
-//router require
-
-//API list
-// app.use('/schema/users', restify('UserSchema'));
-// app.post('/ctrl/register', require('./controller/login.controller').register);
-// app.post('/ctrl/login', require('./controller/login.controller').login);
-
-// app.post('/ctrl/addcity', require('./controller/city.controller'));
-app.get('/ctrl/city', cityCtrl);
 app.get('/cities', (req, res) => {
 	import('./assets/cities.js').then((cities) => {
 		res.send(cities);
 	})
 });
+
+app.get('/books', (req, res) => {
+	getBooks(db, req, res);
+});
+
+app.get('/books/:id', (req, res) => {
+	getBook(db, req, res);
+});
+
+app.get('/booksJSON', (req, res) => {
+	booksJSON(db, req, res);
+});
+
+app.get('/brahmasamhita', brahmaSamhita);
 
 app.get('/', function(req, res) {
 	console.log('Here we go!');

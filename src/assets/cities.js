@@ -276,7 +276,7 @@ export default [
     "timezone": "Asia/Kolkata",
     "longitude": "88°22'E",
     "latitude": " 23°24'N",
-    "slug": "navadvip",
+    "slug": "nabadvip",
     "DST_starts": "",
     "DST_ends": "",
     "au": 0,
