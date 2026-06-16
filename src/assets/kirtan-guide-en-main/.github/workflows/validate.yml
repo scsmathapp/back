@@ -1,0 +1,15 @@
+name: Validate Songbook
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    uses: scsm-ua/songbook-md-json-parser/.github/workflows/songbook-validate.yml@v1.3.0
+
+    permissions:
+      contents: read
+      pull-requests: write

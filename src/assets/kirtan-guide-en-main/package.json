@@ -1,0 +1,21 @@
+{
+  "name": "kirtan-guide-en",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsm-ua/kirtan-guide-en.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsm-ua/kirtan-guide-en/issues"
+  },
+  "homepage": "https://github.com/scsm-ua/kirtan-guide-en#readme",
+  "scripts": {
+    "build": "songbook-build",
+    "test": "songbook-validate"
+  },
+  "dependencies": {
+    "songbook-md-json-parser": "github:scsm-ua/songbook-md-json-parser"
+  }
+}

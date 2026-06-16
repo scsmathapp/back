@@ -7,19 +7,20 @@ const book = {
 }
 
 export default async function(req, res) {
-    const book = await readFilesFromDirectory('./src/assets/brahma-samhita-en-draft-main/verses');
+    const book = await readFilesFromDirectory('./src/assets/brahma-samhita-en-draft-main/pages');
     res.send(book);
 }
 
 async function readFilesFromDirectory(directoryPath) {
     try {
         const files = await fs.readdir(directoryPath);
+        const needed = ['02-for-the-readers-appreciation.md', '03-feelings-of-appreciation.md', '04-prologue.md', '05-translators-note.md']
 
         for (const file of files) {
             const filePath = path.join(directoryPath, file);
             const stats = await fs.stat(filePath);
 
-            if (stats.isFile()) {
+            if (stats.isFile() && needed.includes(file)) {
                 const content = await fs.readFile(filePath, 'utf8');
                 const chapter = {};
                 const lines = content.split('\n\n');
@@ -33,7 +34,7 @@ async function readFilesFromDirectory(directoryPath) {
                         if (typeof line === "string") {
                             line = line.replace(/\n/g, '<br />');
                             line = line.replace(/\\/g, '');
-    
+
                             if (line.startsWith('###')) {
                                 chapter.paragraphs.push({
                                     text: line.replace('###', '').trim(),
@@ -41,7 +42,7 @@ async function readFilesFromDirectory(directoryPath) {
                                 });
                             } else if (line.startsWith('##')) {
                                 chapter.title = line.replace('##', '').trim();
-    
+
                                 chapter.paragraphs.push({
                                     text: line.replace('##', '').trim(),
                                     class: 'b47'
@@ -65,6 +66,7 @@ async function readFilesFromDirectory(directoryPath) {
         }
 
         return book;
+        // console.log(book.chapters);
     } catch (error) {
         console.error('Error reading directory:', error);
         throw error;

@@ -7,7 +7,7 @@ import cities from '../assets/cities.js';
 
 _.each(cities, city => {
     console.log('Reading city ' + city.name);
-    fs.readFile('D:/Dev/Webstorm/SCSMath/back/src/assets/json/' + city.slug + '_540.json', 'utf8', (err, location) => {
+    fs.readFile('D:/Dev/Webstorm/SCSMath/back/src/assets/json/' + city.slug + '_541.json', 'utf8', (err, location) => {
         if (err) {
             console.log(err);
         } else {
@@ -38,7 +38,8 @@ const standardizeData = (calDates) => {
 
 const writeClient = (city, data) => {
     console.log('Writing client ' + city.name);
-    fs.writeFile('D:/Dev/Webstorm/SCSMath/front/src/assets/cal-data/location-' + city.city_id + '.js', data, (err) => {
+    fs.writeFile('D:/Dev/Webstorm/SCSMath/krishna-search/src/assets/calendar/location-' + city.city_id + '.js', data, (err) => {
+        console.log('Wrote client ' + city.name);
         if (err) {
             console.log(err);
         }
@@ -48,7 +49,6 @@ const writeClient = (city, data) => {
 const castEvents = (day, date) => {
     let eventStr = date['en-line'];
     let eventImages = {
-        AcharyaMhj: 'Nirmal Acharya',
         GovindaMhj: 'Sundar Govinda',
         SwamiMhj: 'Bhaktivedanta',
         SridharMhj: 'Raksak Sridhar',
@@ -66,6 +66,7 @@ const castEvents = (day, date) => {
     if (eventStr) {
         eventStr = eventStr.replace(/(\. )/g, '---');
         eventStr = eventStr.replace(/(\<b\>)|(\<\/b\>)/g, '');
+        eventStr = eventStr.replace(/(\<strong\>)|(\<\/strong\>)/g, '');
 
         let splitEvents = eventStr.split('---');
 
