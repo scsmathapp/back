@@ -106,11 +106,12 @@ export function booksJSON(db, req, res) {
                 let text = '';
                 const paragraphObj = _.attempt(JSON.parse, row.paragraph_text);
                 if (_.isError(paragraphObj)) {
-                    text += row.paragraph_text;
+                    text = row.paragraph_text;
                 } else {
-                    Object.keys(paragraphObj).forEach(k => {
-                        text += paragraphObj[k].replace(/<\/?a[^>]*>/g, '');
-                    });
+                    text = Object.values(paragraphObj).map(value => value.replace(/<\/?a[^>]*>/g, '')).join(' ');
+                    // Object.keys(paragraphObj).forEach(k => {
+                    //     text += paragraphObj[k].replace(/<\/?a[^>]*>/g, '');
+                    // });
                 }
 
                 if (row.paragraph_type_id === 47) {
