@@ -7,51 +7,35 @@ That real self is a part and parcel of the whole. A piece of the play of Sri Kri
 `;
 
 const creoleScript = `
-Nu l'origin ek la fin PA DITOU SEKI ZOT PE PENSÉ!
+SC, HSC, Bachelor, Master, Doctorat...
 
-Li tro compliké. Laisse mo explik li lor paint. Nu, nu la.
+Nu pe pass nu entier la vie derier sa ban degré la... Dan science, technology, business, finance etc...
 
-Islam ek Christianism et certain conception Hinduism reconet Bondie san form kuma l'origin
+Mais eski zot inn realizer? Ki si nu mort... tousa conaissance la vinn inutile 1 sel kou?
 
-Et nu la fin pu dan paradis ki entre le monde materiel ek bondie san form.
+Mais ena 1 conaissance, ki nu kapav amenn ek nu mem apré la mort...
 
-Dan Christianism, Bondie manifesté lor la terre kuma le fils, et le pere dan paradis.
+Dan sanskrit nu apel sa Veda... Ki veut dire "Koner"...
 
-Dan Islam Bondie pena okenn autre manifestation et li ress san form.
+Li align ek nu instinct naturel ki touletan curieux... A la recherche de conaissance...
 
-Dan Hinduism, Bondie manifester kuma plusieur form lor la terre ek dan paradis
+Mais kuma li survive la mort? C'est parski li pa 1 conaissance pu nu lekor... Mais plito pu nu l'ame...
 
-Dan paradis, nu ban dezir pu etre satisfait.
+Linn faire pu ki, naissance apré naissance, li kapav tire nu depi sa le monde, de chaos ek confusion la...
 
-Ena certain conception de l'Hinduism mem dire ki nu kapav mem detacher ek sa ban dezir la, alle pli lao et vinn 1 seul ek Param Brahma.
+Et amenn nu vers 1 le monde de conaissance...
 
-Certain conception definir 1 le monde enkor pli lao. c'est a dire le monde Spirituel.
+1 le monde kot pena okenn traka, okenn doute ni kit motif kashiet...
 
-Zot donn l'analogy ki le monde materiel c'est kot faire noir.
+Et le fait ki pena okenn doute laba, pena la necessité pu rode konn kitsoz...
 
-Bondie san form c'est la lumier ki illumine le monde materiel.
+NU pena pu faire zeffor pu kompren kitsoz, parski laba, tout zafer pure, transparent et naturel, pu zot tou!
 
-Et le monde Spirituel c'est la source de sa la limier la.
+Ki le Monde sa? La literature Vedic apel li Sri Goloka Vrindavan!
 
-Plusieur conception ki reconnaitre le monde Spritiuel, dire ki nu l'origin li laba mem, et nu sipozer alle laba mem.
+Et la raison ki pena okenn doute ou motif kashiet laba?
 
-Ki contradire l'idee ki nu l'origin c'est bondie san form ki etre mentioné dan ban livre sacré.
+C'est parski zot tou ena 1 seul but: Faire plaire a Sri Krishna!
 
-Aster Krishna dire dan Bhagavad Gita ki 1 fois nu vinn dan le monde Spirituel, nu pa retourne lor la terre.
-
-Donc li impe complex pu kompren kot nu sorti et kot nu bizin aller.
-
-Mais Srila Sridhar Maharaj donn 1 explication extra ordinair a sa.
-
-Li expliker ki nu l'origin c'est Param Brahman
-
-Et nu nu ban tipti particule de sa la limier la.
-
-Et nu kapav alle dan paradis soi nu retourne vers Param Brahm par liberation total depi ar le monde materiel.
-
-Mais li dire ki nu aussi ena capacité develop kitsoz ki pli haute ki la liberation. C'est Devotion pure.
-
-Otan intense ki kapav faire nu depass nu l'origin et amenn nu dan so le monde kot pa nu dezir ki le centre, mais zis dezir Bondie.
-
-Et nu nu pu participe dan so ban Pass Temps et etre engagé dan so service eternellement.
+Faire nu koner dan comments, si sa le monde la interess zot.
 `

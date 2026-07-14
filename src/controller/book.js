@@ -66,64 +66,75 @@ export function getBook(db, req, res) {
 }
 
 export function booksJSON(db, req, res) {
-    db.all(`SELECT b.book_id, b.book_name, p.chapter_id, c.chapter_title, p.id AS paragraph_id, p.paragraph_text,
+    db.all(`SELECT b.book_id, b.book_name, c.book_chapter_id, c.chapter_title, p.book_paragraph_id, p.paragraph_text,
             p.paragraph_type_id, b.book_name_url
             FROM paragraph AS p
             JOIN chapter AS c ON c.id = p.chapter_id
-            JOIN book AS b ON b.book_id = c.book_id;`, [req.params.id], (err, rows) => {
+            JOIN book AS b ON b.book_id = c.book_id
+            ORDER BY b.book_id, c.book_chapter_id, p.book_paragraph_id;`, [req.params.id], (err, rows) => {
         if (err) {
             console.error('Error fetching all data:', err.message);
             res.status(500).send(err);
         } else {
             const books = {};
 
-            let text = '', paragraphObj = {};
-
             rows.forEach(row => {
-                text = '';
-                paragraphObj = {};
+                // Use the ACTUAL column names. If these come out undefined,
+                // everything collapses into one chapter — that was the bug.
+                const bookId      = row.book_id;
+                const chapterId   = row.book_chapter_id;    // was row.chapter_id
+                const paragraphId = row.book_paragraph_id;  // was row.paragraph_id
 
-                if (!books[row.book_id]) {
-                    books[row.book_id] = {
+                if (!books[bookId]) {
+                    books[bookId] = {
                         title: row.book_name,
                         code: row.book_name_url,
-                        chapters: {}
+                        chapters: new Map()   // insertion order = your row order
                     };
                 }
+                const book = books[bookId];
 
-                if (!books[row.book_id].chapters[row.chapter_id]) {
-                    books[row.book_id].chapters[row.chapter_id] = {
+                if (!book.chapters.has(chapterId)) {
+                    book.chapters.set(chapterId, {
+                        id: chapterId,
                         title: row.chapter_title,
-                        paragraphs: {}
-                    }
+                        paragraphs: new Map()
+                    });
                 }
+                const chapter = book.chapters.get(chapterId);
 
-                paragraphObj = _.attempt(JSON.parse, row.paragraph_text);
-
+                let text = '';
+                const paragraphObj = _.attempt(JSON.parse, row.paragraph_text);
                 if (_.isError(paragraphObj)) {
                     text += row.paragraph_text;
                 } else {
-                    Object.keys(paragraphObj).forEach(function(k){
-                        text += ' ' + paragraphObj[k].replace(/<\/?a[^>]*>/g, '');
+                    Object.keys(paragraphObj).forEach(k => {
+                        text += paragraphObj[k].replace(/<\/?a[^>]*>/g, '');
                     });
                 }
-                
+
                 if (row.paragraph_type_id === 47) {
-                    books[row.book_id].chapters[row.chapter_id].title = text.replace(/<br\s*\/?>/gi, ' ');
+                    chapter.title = text.replace(/<br\s*\/?>/gi, ' ');
                 }
 
-                books[row.book_id].chapters[row.chapter_id].paragraphs[row.paragraph_id] = {
+                chapter.paragraphs.set(paragraphId, {
+                    id: paragraphId,
                     class: 'b' + row.paragraph_type_id,
                     text
-                };
+                });
             });
 
+// Convert Maps -> arrays, preserving insertion (= row) order
             _.each(books, book => {
-                _.each(book.chapters, ch => {
-                    ch.paragraphs = getOrderedValues(ch.paragraphs);
+                delete book.id;
+                book.chapters = [...book.chapters.values()].map(ch => {
+                    delete ch.id;
+                    ch.paragraphs = [...ch.paragraphs.values()];
+                    _.each(ch.paragraphs, p => {
+                        delete p.id;
+                    });
+                    return ch;
                 });
-
-                book.chapters = getOrderedValues(book.chapters);
 
                 writeObjectToJsonFile(book, book.code + '.json');
             });
@@ -131,6 +142,67 @@ export function booksJSON(db, req, res) {
             res.status(200).send({success: true});
         }
     });
+
+    function nestArray(flatArray) {
+        let paragraphObj, text;
+
+        return flatArray.reduce((acc, current) => {
+            text = '';
+            paragraphObj = {};
+            // 1. Handle Level 1
+            let l1 = acc[acc.length - 1];
+            if (!l1 || l1.id !== current.book_id) {
+                l1 = {
+                    id: current.book_id,
+                    title: current.book_name,
+                    code: current.book_name_url,
+                    chapters: []
+                };
+                acc.push(l1);
+            }
+
+            // 2. Handle Level 2
+            let l2 = l1.chapters[l1.chapters.length - 1];
+            if (!l2 || l2.id !== current.level2Id) {
+                l2 = {
+                    id: current.book_chapter_id,
+                    title: current.chapter_title,
+                    paragraphs: []
+                };
+                l1.chapters.push(l2);
+            }
+
+            paragraphObj = _.attempt(JSON.parse, current.paragraph_text);
+
+            if (_.isError(paragraphObj)) {
+                text += current.paragraph_text;
+            } else {
+                Object.keys(paragraphObj).forEach(function(k){
+                    text += ' ' + paragraphObj[k].replace(/<\/?a[^>]*>/g, '');
+                });
+            }
+
+            if (current.paragraph_type_id === 47) {
+                l2.title = text.replace(/<br\s*\/?>/gi, ' ');
+            }
+
+            // 3. Handle Level 3
+            let l3 = l2.paragraphs[l2.paragraphs.length - 1];
+            if (!l3 || l3.id !== current.level3Id) {
+                l3 = {
+                    id: current.book_paragraph_id,
+                    class: 'b' + current.paragraph_type_id,
+                    text
+                };
+                // Optional: clean up flat keys from the final level 3 object if you want it pristine
+                // delete l3.level1Id; delete l3.level2Id; delete l3.level3Id;
+
+                l2.paragraphs.push(l3);
+            }
+
+            return acc;
+        }, []);
+    }
 
     function getOrderedValues(jsonObject) {
         // Get the keys, sort them, and map to their corresponding values
