@@ -1,98 +1,68 @@
 const englishScript = `
-Our origin & end NOT WHAT YOU THINK
-CHALLENGE: Stay till the end to understand
-We are here
-ISLAM
-CHRISTIANITY
-Certain HINDU Concepts
-recognize Formless God
-as the origin
-And our end
-in paradise
-between material world
-and Formless God
-In CHRISTIANITY
-God manifested on earth
-as THE SON
-and THE FATHER
-in paradise
-In ISLAM
-God has NO other manifestation
-and remains formless
-In HINDUISM
-God manifests
-as multiple forms
-on earth & in paradise
-In paradise
-our desires will be satisfied
-There are certain HINDU Concepts
-that even say
-we can detach ourselves
-from those desires
-go higher
-and become ONE
-with PARAM BRAHMA
-Other concepts
-define a world
-even higher
-THE SPIRITUAL WORLD
-They give the analogy
-that the material world
-is where it is dark
-The formless God
-is the light
-that illuminates
-the material world
-And the Spiritual World
-is the source of that light
-Several concepts
-that recognize the Spiritual world
-say that our origin
-is there itself
-and we are supposed to go
-right there
-Which contradicts the idea
-that our origin
-is the formless God
-mentioned in holy books
-Now Krishna says
-in the Bhagavad Gita
-that once we come to the Spiritual world
-we do not return to earth
-So it is a bit complex
-to understand
-where we come from
-and where to go
-But Srila Sridhar Maharaj
-gives an extraordinary explanation
-for this
-He explains that
-our origin is Param Brahm
-And we are tiny particles
-of that light
-And we can
-either go to paradise
-or return to Param Brahm
-through total liberation
-from the material world
-But he says that
-we also have the capacity
-to develop something higher
-than liberation
-that is
-PURE DEVOTION
-So intense
-that it can make us
-surpass our origin
-and bring us into God's world
-where our desire
-is not the center
-but only God's desire
-And we will participate
-in His Pastimes
-and be engaged
-in His service
-ETERNALLY
+SC
+HSC
+BACHELOR’S
+MASTER’S
+PHD
+We spend our entire lives
+chasing these degrees in
+SCIENCE
+TECHNOLOGY
+BUSINESS
+FINANCE
+But have you ever realized
+If your heart STOPS tomorrow
+all this knowledge
+becomes completely useless
+INSTANTLY
+But there is ONE
+specific type of KNOWLEDGE
+that you carry with you
+EVEN AFTER DEATH
+The ancient texts call it
+VEDA
+Which means "TO KNOW"
+Aligning with our
+CURIOUS NATURE
+In Search for Knowledge
+But how does it SURVIVE DEATH?
+Because it ISN'T
+for our physical body
+But instead for our soul
+It is designed such that
+lifetime after lifetime
+it pulls us out of this world of
+CHAOS & CONFUSION
+and guides us
+to a place of
+KNOWLEDGE & CLARITY
+A world where there is
+NO STRESS
+NO DOUBT
+NO HIDDEN MOTIVES
+And the fact that
+there is no doubt there
+there is no necessity
+of knowing something
+We don't have to struggle
+to "figure things out"
+because there...
+everything is entirely
+NATURAL, TRANSPARENT & PURE
+for everyone!
+What is this world?
+The Vedic texts call it
+Sri Goloka Vrindavan
+And the reason there is
+NO anxiety or selfishness there?
+That's because everyone has
+ONE SINGLE PURPOSE:
+TO PLEASE SRI KRISHNA
+The All Attractive Lord
+Let us know
+in the COMMENTS
+if that world
+interests you
 `
 
 var x = `
