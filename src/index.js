@@ -11,6 +11,7 @@ import { fileURLToPath } from 'url';
 import {getBooks, getBook, booksJSON} from './controller/book.js';
 import brahmaSamhita from './controller/brahmaSamhita.js';
 import kirtan from './controller/kirtan.js';
+import chat from './controller/chat.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -56,6 +57,8 @@ app.get('/booksJSON', (req, res) => {
 app.get('/brahmasamhita', brahmaSamhita);
 
 app.get('/kirtan', kirtan);
+
+app.post('/chat', express.json(), chat);
 
 app.get('/', function(req, res) {
 	console.log('Here we go!');

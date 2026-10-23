@@ -7,35 +7,41 @@ That real self is a part and parcel of the whole. A piece of the play of Sri Kri
 `;
 
 const creoleScript = `
-SC, HSC, Bachelor, Master, Doctorat...
+6 Grand Rechercheur kont 1 Personn Ordinair
 
-Nu pe pass nu entier la vie derier sa ban degré la... Dan science, technology, business, finance etc...
+Kisana donn nu meyer solution?
 
-Mais eski zot inn realizer? Ki si nu mort... tousa conaissance la vinn inutile 1 sel kou?
+Koir moi, 6eme la impratikab!
 
-Mais ena 1 conaissance, ki nu kapav amenn ek nu mem apré la mort...
+Kan nu kamarad soi relation faire nu souffer
+Kapila Muni dire nu analyse nu l'environment pu kompren ki la cause de nu souffrance
 
-Dan sanskrit nu apel sa Veda... Ki veut dire "Koner"...
+Kan traka la fami, lekol soi travay fatigue nu latet
+Patanjali Rishi dire nu faire Yoga pu calmer lespri
 
-Li align ek nu instinct naturel ki touletan curieux... A la recherche de conaissance...
+Kan nu truv le monde kuma 1 mystere
+Kanada Rishi dire nu essaye kompren kuma linn former ar ban atom
 
-Mais kuma li survive la mort? C'est parski li pa 1 conaissance pu nu lekor... Mais plito pu nu l'ame...
+(Oui 1er dimun ki ti decouver atom ti 1 Rishi de l'Inde!)
 
-Linn faire pu ki, naissance apré naissance, li kapav tire nu depi sa le monde, de chaos ek confusion la...
+Kan whatsapp soi reels donn otan information ki nu pa koner ki pu koir ki pa pu koir
+Gautama Rishi dire nu servi la logic pu truv la verité
 
-Et amenn nu vers 1 le monde de conaissance...
+Kan nu envi nu gagne bon rezilta dan lavenir
+Jaimini Rishi dire nu faire ban bon action aster la
 
-1 le monde kot pena okenn traka, okenn doute ni kit motif kashiet...
+Et kan nu ban dezir pli fort donn nu plis mizer
+Buddha dire nu detaché ar sa le monde la
 
-Et le fait ki pena okenn doute laba, pena la necessité pu rode konn kitsoz...
+Mais seki meyer... Bhaktivinoda Thakur... 1 simple personn familial dire nu...
 
-NU pena pu faire zeffor pu kompren kitsoz, parski laba, tout zafer pure, transparent et naturel, pu zot tou!
+Kifer faire tousa zeffor la?
 
-Ki le Monde sa? La literature Vedic apel li Sri Goloka Vrindavan!
+Ki arriver si ena 1 reson derier tou seki pe arrivé?
 
-Et la raison ki pena okenn doute ou motif kashiet laba?
+Dan plass nu essaye faire sa le monde la vinn dan nu fason...
 
-C'est parski zot tou ena 1 seul but: Faire plaire a Sri Krishna!
+Pa plito nu gard confians lor so createur ki pe gere li?
 
-Faire nu koner dan comments, si sa le monde la interess zot.
+Et peut etre nu pu trouve lavi de 1 meyer point de vue ki zamai noun truver!
 `
