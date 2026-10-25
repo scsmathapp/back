@@ -1,0 +1,18 @@
+---
+page: 327
+author: Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+first_line: devādidevam-ahibhūṣaṇam-indukāśaṁ
+---
+
+# Gaṅgādhara Sadāśiva Praṇām-mantram
+
+### Sanskrit composition
+### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+
+    devādidevam-ahibhūṣaṇam-indukāśaṁ
+    panchānanaṁ paśupatiṁ varadaṁ prasannam
+    gaṅgādharaṁ praṇatapālakamāśutoṣaṁ
+    vande sadāśiva-haripriya-chandramaulim
+
+The chief of the Demigods, whose body is decorated by snakes, whose body shines like the moon, who has five heads, who carries his weapon known as Paśupat, who gives boons, who is of satisfied nature, who holds the Gaṅgā on his head, who maintains those who give obeisances to him, who is easily pleased – I offer my obeisances to Sadāśiva who is dear to Hari, and whose crown is the moon.
+

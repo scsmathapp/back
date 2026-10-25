@@ -1,0 +1,36 @@
+---
+page: 317
+author: Śrīla Bhakti Vinod Ṭhākur
+first_line: āmnāyaḥ prāha tattvaṁ harim
+alt_first_lines: Daśa-mūla-tattva
+---
+
+# Daśa-mūla-tattva
+
+## The Ten Fundamental Principles
+
+### Daśa-mūla-tattva-niryāsa by Śrīla Bhakti Vinod Ṭhākur
+
+    āmnāyaḥ prāha tattvaṁ harim iha paramaṁ sarva-śaktim rasābdhiṁ
+    tad-bhinnāṁsāṁś cha jīvān prakṛti-kavalitān tad-vimuktāṁś cha bhāvāt
+    bhedābheda-prakāśaṁ sakalam api hareḥ sādhanaṁ śuddha-bhaktiṁ
+    sādhyaṁ tat-prītim evety upadiśati janān gaurachandraḥ svayaṁ saḥ
+
+“Śrī Gaurachandra personally teaches the souls that\
+(1) revealed knowledge establishes the Truth:\
+(2) Hari is supreme,\
+(3) He is omnipotent,\
+(4) He is an ocean of rasa,\
+(5) the souls are His separated parts,\
+(6) they are either covered by material energy,\
+(7) or liberated from material energy by devotion,\
+(8) everything is a manifestation distinct and non-distinct from Hari,\
+(9) pure devotion is the way, and\
+(10) love for Hari is the goal.”
+
+*Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj:*
+
+“Within this one verse, which conveys the gist of the *Daśa-mūla-tattva*, Śrīla Bhakti Vinod Ṭhākur has given us everything. He has given us the whole conception of Mahāprabhu Śrī Chaitanyadev and Kṛṣṇa consciousness. If you can read and memorise this verse, then everything will be within you: the full conception of Śrī Chaitanya Mahāprabhu, Śrīla Bhakti Siddhānta Saraswatī Ṭhākur, Śrīla Guru Mahārāj Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj, and Śrī Chaitanya Sāraswat Maṭh. Everything, the gist of all revealed knowledge (āmnāya), is within this one verse.
+
+“But don’t try to understand this verse by yourself. Hear it from an expert. Everywhere throughout all the scriptures this advice is given: ‘You must hear from an expert.’ So hear this verse from an expert who knows its meaning. If you hear from him with full faith, you will understand properly what is what, and you will get everything.”
+

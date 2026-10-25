@@ -1,0 +1,15 @@
+---
+page: 140
+no-author: 1
+first_line: nagara bhramiyā āmāra gaura ela ghare
+---
+
+# After Parikramā
+
+    nagara bhramiyā āmāra gaura ela ghare
+    gaura ela ghare āmāra nitāi ela ghare
+    dhūlā jhāri’ śachīmātā gaura kole kare
+    ānandete bhakta-gaṇe hari hari bale
+
+After parikramā of the town, Gaurāṅga returns to His house, and Nitāi also comes to the house. Dusting off His body, Śachī Mātā takes Gaurāṅga upon her lap. Out of great spiritual joy all the devotees are chanting “Hari Hari!”
+

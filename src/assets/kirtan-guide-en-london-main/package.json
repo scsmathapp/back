@@ -1,0 +1,23 @@
+{
+  "name": "kirtan-guide-en-london",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsm-ua/kirtan-guide-en-london.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsm-ua/kirtan-guide-en-london/issues"
+  },
+  "homepage": "https://github.com/scsm-ua/kirtan-guide-en-london#readme",
+  "scripts": {
+    "build": "songbook-build",
+    "test": "songbook-validate",
+    "update-authors": "npm run build && songbook-list-authors > authors.log",
+    "test:authors": "songbook-test-authors"
+  },
+  "dependencies": {
+    "songbook-md-json-parser": "github:scsm-ua/songbook-md-json-parser#v1.8.0"
+  }
+}

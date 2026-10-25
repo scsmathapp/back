@@ -1,0 +1,94 @@
+---
+page: 324
+author: Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+first_line: naumi śrī-gurupādābjaṁ yatirājeśvareśvaraṁ
+---
+
+# Praṇati Daśakam
+
+## Ten prayers unto the holy lotus feet of Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+
+### Offered on his 94th holy day of advent, 1988.
+
+### Sanskrit composition
+### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+
+#### 1
+
+    naumi śrī-gurupādābjaṁ yatirājeśvareśvaraṁ
+    śrī-bhaktirakṣakaṁ śrīla-śrīdhara-svāminaṁ sadā
+
+#### 2
+
+    sudīrghonnata-dīptāṅgaṁ supībya-vapuṣaṁ paraṁ
+    tridaṇḍa-tulasīmālā-gopīchandana-bhūṣitam
+
+#### 3
+
+    achintya-pratibhā-snigdhaṁ divyajñāna-prabhākaraṁ
+    vedādi-sarvaśāstrānāṁ sāmañjasya-vidhāyakam
+
+#### 4
+
+    gauḍīyāchārya-ratnānām ujjvalaṁ ratna-kaustubhaṁ
+    śrī-chaitanya-mahāpremon-mattālīnāṁ śiromaṇim
+
+#### 5
+
+    gāyatry-artha-viniryyāsaṁ gītā-gūḍhārtha-gauravaṁ
+    stotraratnādi-samṛddhaṁ prapanna-jīvanāmṛtam
+
+#### 6
+
+    apūrvvagrantha-sambhāraṁ bhaktānāṁ hṛd-rasāyanaṁ
+    kṛpayā yena dattaṁ taṁ naumi kāruṇya-sundaram
+
+#### 7
+
+    saṅkīrtana-mahārāsarasābdheś chandramānibhaṁ
+    saṁbhāti vitaran viśve gaura-kṛṣṇaṁ gaṇaiḥ saha
+
+#### 8
+
+    dhāmani śrī-navadvīpe guptagovardhane śubhe
+    viśvaviśruta-chaitanya-sārasvata-maṭhottamam
+
+#### 9
+
+    sthāpayitvā gurūn gaura-rādhā-govindavigrahān
+    prakāśayati chātmānaṁ sevā-saṁsiddhi-vigrahaḥ
+
+#### 10
+
+    gaura-śrī-rūpa-siddhānta-divya-dhārādharaṁ guruṁ
+    śrī-bhakti-rakṣakaṁ devaṁ śrīdharaṁ praṇamāmy aham
+
+#### 11
+
+    śraddhayā yaḥ paṭhen nityaṁ praṇati-daśakaṁ mudā
+    viśate rāgamārgeṣu tasya bhakta-prasādataḥ
+
+#### 1
+
+I eternally offer my humble obeisances unto the lotus feet of my most worshipful Divine Master, the supreme emperor of the sannyāsī kings – Śrīla Bhakti Rakṣak Śrīdhar Swāmī.
+
+#### 2-4
+
+He possesses a lofty, dignified, divinely effulgent, incomparable holy form, so charming to behold. Adorned with gopī-chandan and a necklace of tulasī beads, he holds the triple staff of the Vaiṣṇava ascetics. Although he possesses the qualification of inconceivable potency, he is full of the utmost affection. All the ten directions are illuminated by the effulgence of his supramundane, unalloyed perception. He is the dispenser of the genuine proper harmonious adjustment of all the scriptures – the Vedas, the Vedānta, the Upaniṣads, the Purāṇas, etc., headed by the *Śrīmad Bhāgavata-purāṇa* (*Śrīmad Bhāgavatam*) which holds equal importance with the Vedas. In the necklace of the jewels of Āchāryas in the Śrī Gauḍīya sampradāya, he shines resplendently like the brilliant Kaustubha gem, and he is radiant in his glory as the crown-jewel of the bumblebee-devotees who are mad in the Supreme Lord Śrī Chaitanya Mahāprabhu’s love supreme. I eternally offer my obeisances unto him, my most worshipful Divine Master.
+
+#### 5-6
+
+By his grace, he brought to full bloom the deepest underlying purport of Gāyatrī, the mother of the Vedas; by his grace he opened the hidden treasure-house of the glorious internal purport of *Śrīmad Bhāgavad-gītā* – and he distributed these gifts to one and all, even the lowest of the low. He revealed the supreme holy book *Śrī Prapanna-jīvanāmṛtam*, which is a treasure of many types of precious gems of holy stanzas (the wealth of holy stanzas compiled from *Stotra-ratna* by Śrī Yāmunā Āchārya and many other valuable sources) sung by the Lord and His devotees; he revealed an unprecedented collection of holy books (*Search for Śrī Kṛṣṇa – Reality the Beautiful, Śrī Guru and His Grace, The Golden Volcano of Divine Love*, etc.) that are the very life-nectar for the devotees’ hearts and spiritual senses – he gave these gifts to the world. I eternally offer my obeisances unto him, my most worshipful Divine Master, the beautiful Deity of mercy incarnate.
+
+#### 7
+
+He revels in his full-blown splendour, and, along with and through his intimate servitors he distributes throughout the entire universe the Supreme Personality of Godhead Śrī Gaura-Kṛṣṇa, the moon risen from the nectar ocean of the grand dance of the congregational chanting of Śrī Kṛṣṇa’s Holy Name.
+
+#### 8-10
+
+In Śrī Nabadwīp Dhām, which is non-different from the holy abode of Śrī Vṛndāvan, His Divine Grace established the world-renowned Śrī Chaitanya Sāraswat Maṭh at Śrī Koladwīp, the selfsame ‘Hidden Govardhan Hill’ (Gupta-Govardhan), which is the sacred place where all offences are absolved (aparādha-bhañjan-pāṭ). There, he revealed the beautiful devotional service of the worshipful Deities Śrī Śrī Guru Gaurāṅga Gāndharvā Govindasundar, divinely manifesting his very self as the Deity of service in perfection. Eternally do I offer my obeisances unto the holy lotus feet of my Divine Master Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj who carries the divine current of Śrīla Bhakti Siddhānta Saraswatī coming in the line of Śrī Rūpa, the object of Śrī Gaurāṅga Mahāprabhu’s divine affection.
+
+#### 11
+
+One who with pure faith happily sings this *Praṇati Daśakam* every day, gains the qualification to serve the Supreme Lord on the path of spontaneous love (rāga-mārga), by the grace of the associate-servitors of that Śrīla Gurudev.
+

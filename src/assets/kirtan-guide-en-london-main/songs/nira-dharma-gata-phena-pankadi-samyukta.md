@@ -1,0 +1,48 @@
+---
+page: 215
+author: Śrīla Bhakti Vinod Ṭhākur
+first_line: nīra-dharma-gata phena-paṅkādi-saṁyukta
+alt_first_lines:
+  - Śrī Śrī Upadeśāmṛta – Verse 6
+  - dṛṣṭaiḥ svabhāva-janitair vapuṣaś cha doṣair
+---
+
+# Śrī Śrī Upadeśāmṛta
+
+## Verse Six
+
+### by Śrīla Rūpa Goswāmī Prabhu in Sanskrit
+
+    dṛṣṭaiḥ svabhāva-janitair vapuṣaś cha doṣair
+    na prākṛtatvam iha bhakta-janasya paśyet
+    gaṅgāmbhasāṁ na khalu budbuda-phena-paṅkair
+    brahma-dravatvam apagachchhati nīra-dharmaiḥ
+
+Being situated in one’s original Kṛṣṇa conscious position, a pure devo­tee does not identify with the body. Such a devotee should not be seen from a materialistic point of view. Indeed, one should overlook a devotee’s having a body born in a low family, a body with a bad complexion, a deformed body, or a diseased or infirm body. According to ordinary vision, such imperfections may seem prominent in the body of a pure devotee, but despite such seeming defects, the body of a pure devotee cannot be polluted. It is exactly like the waters of the Ganges, which sometimes during the rainy season are full of bubbles, foam, and mud. The Ganges waters do not become polluted. Those who are advanced in spiritual understanding will bathe in the Ganges without considering the condition of the water.
+
+*Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
+
+#### 1
+
+    nīra-dharma-gata phena-paṅkādi-saṁyukta
+    gaṅgā-jala brahmatā ha-ite nahe chyuta
+
+Ganges water does not lose its spiritual nature because it contains foam, mud, and so on, which are natural in water.
+
+#### 2
+
+    sei-rūpa śuddha-bhakta jaḍa-deha-gata
+    svabhāva-vapura doṣe na haya prākṛta
+
+Similarly, pure devotees are not mundane because of faults within their nature and form that are natural in the material body.
+
+#### 3-4
+
+    ataeva dekhiyā bhaktera kadākāra
+    svabhāvaja varṇa kārkaśyādi doṣa āra
+
+    prākṛta baliyā bhakte kabhu nā nindibe
+    śuddha-bhakti dekhi’ tā̐re sarvadā vandibe
+
+Therefore, upon seeing the faults produced by a devotee’s nature or occupation, such as ugliness or apparent roughness, never consider a devotee mundane and criticise them. Rather, see their pure bhakti and always revere them.
+

@@ -1,0 +1,80 @@
+---
+page: 181
+author: Śrīla Bhakti Vinod Ṭhākur
+first_line: ātma-samarpaṇe gelā abhimāna
+---
+
+# Ātma-samarpaṇe
+
+### by Śrīla Bhakti Vinod Ṭhākur
+
+#### 1
+
+    ātma-samarpaṇe gelā abhimāna
+    nāhi karabu̐ nija rakṣā-vidhāna
+
+Surrendering my soul unto You has lifted from me the burden of false pride. No longer will I try to provide for my own safety.
+
+#### 2
+
+    tuyā dhana jāni’ tuhu̐ rākhabi nātha!
+    pālya go-dhana jāni kari’ tuyā sātha
+
+I know that You will give protection to Your treasured possessions, O Lord. I now understand the mentality of Your treasured cows safely maintained by Your side.
+
+#### 3
+
+    charāobi mādhava! yāmuna-tīre
+    vaṁśī bājāota ḍakabi dhīre
+
+When You lead Your herds to pasture, O Mādhava, on the banks of the Yamunā river, You will call to them by softly playing on Your flute.
+
+#### 4
+
+    agha-baka mārata rakṣā vidhāna
+    karabi sadā tuhu̐ gokula-kāna!
+
+By slaying great demons such as Aghāsura and Bakāsura, You will always provide full protection, O Kān of Gokul!
+
+#### 5
+
+    rakṣā karabi tuhu̐ niśchaya jāni
+    pāna karabu̐ hāma yāmuna-pāni
+
+Fearless and confident of Your protection, I will drink the waters of the Yamunā.
+
+#### 6
+
+    kālīya-dokha karabi vināśā
+    śodhabi nadī-jala bāḍāobi āśā
+
+The Kālīya serpent’s venom poisoned the Yamunā’s waters, yet that poison will be vanquished. You will purify the Yamunā, and by such heroic deeds enhance our faith.
+
+#### 7
+
+    piyata dāvānala rakhabi moya
+    ‘gopāla’ ‘govinda’ nāma tava hoya
+
+You will surely protect me by swallowing the forest fire. Thus You are called Gopāl (protector of the cows) and Govinda (pleaser of the cows).
+
+#### 8
+
+    surapati durmati-nāśa vichāri’
+    rākhabi varṣaṇe giri-vara-dhāri!
+
+In order to curb the malice of Indra, king of the demigods, You will protect me from his torrents of rain, O lifter of the mighty Govardhan Hill!
+
+#### 9
+
+    chaturānana karaba yava chori
+    rakṣā karabi moye gokula-hari!
+
+When the four-headed Brahmā abducts me along with Your cowherd boyfriends and calves, then also You will surely protect me, O Gokul Hari!
+
+#### 10
+
+    bhakati-vinoda tuyā gokula-dhana
+    rākhabi keśava! karata yatana
+
+Bhakti Vinod is now the property of Gokul, Your holy abode. O Keśava! Kindly protect him with gentle loving care.
+

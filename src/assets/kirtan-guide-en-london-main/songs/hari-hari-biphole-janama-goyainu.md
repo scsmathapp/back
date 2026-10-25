@@ -1,0 +1,46 @@
+---
+page: 174
+author: Śrīla Narottam Dās Ṭhākur
+first_line: hari hari! viphale janama goṅāinu
+---
+
+# Iṣṭa-deve Vijñapti
+
+### by Śrīla Narottam Dās Ṭhākur
+
+#### 1
+
+    hari hari!
+        viphale janama goṅāinu
+    manuṣya-janama pāiyā    rādhā-kṛṣṇa nā bhajiyā
+        jāniyā śuniyā viṣa khāinu
+
+O Lord Hari, I have spent my life uselessly. Having obtained a human birth and having not worshipped Rādhā and Kṛṣṇa, I have knowingly drunk poison.
+
+#### 2
+
+    golokera prema-dhana    hari-nāma-saṅkīrtana
+        rati nā janmila kena tāya
+    saṁsāra-viṣānale    divā-niśi hiyā jvale
+        juḍāite nā kainu upāya
+
+The treasure of divine love in Goloka Vṛndāvan has descended as the congregational chanting of Lord Hari’s Holy Names. Why did my attraction for that chanting never come about? Day and night my heart burns from the fire of the poison of worldliness, and I have not taken the means to relieve it.
+
+#### 3
+
+    vrajendra-nandana yei    śachī-suta haila sei
+        balarāma ha-ila nitāi
+    dīna-hīna yata chhila    hari-nāme uddhārila
+        tāra śākṣī jagāi mādhāi
+
+Lord Kṛṣṇa, who is the son of the King of Vraja, became the son of Śachī (Lord Chaitanya), and Balarām became Nitāi. The Holy Name delivered all those souls who were lowly and wretched. The two sinners Jagāi and Mādhāi are evidence of this.
+
+#### 4
+
+    hā hā prabhu nanda-suta    vṛṣabhānu-sutā-yuta
+        karuṇā karaha ei-bāra
+    narottama-dāsa kaya    nā ṭheliha rāṅgā pāya
+        tomā vine ke āchhe āmāra
+
+O Lord Kṛṣṇa, son of Nanda, accompanied by the daughter of Vṛṣabhānu, please be merciful to me now. Narottam Dās says, “O Lord, please do not push me away from Your reddish lotus feet, for who is my beloved except for You?”
+

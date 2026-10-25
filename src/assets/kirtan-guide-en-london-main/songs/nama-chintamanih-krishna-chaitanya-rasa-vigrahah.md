@@ -1,0 +1,40 @@
+---
+page: 191
+no-author: 1
+first_line: nāma-chintāmaṇiḥ kṛṣṇa-chaitanya-rasa-vigrahaḥ
+---
+
+# Glories of the Holy Name
+
+## Quotations from the booklet given out by Śrīla Gurudev at the time of Harināma initiations
+
+    nāma-chintāmaṇiḥ kṛṣṇa-chaitanya-rasa-vigrahaḥ
+    pūrṇaḥ śuddho nitya-mukto ‘bhinnatvān nāma-nāminoḥ
+
+*(Padma-purāṇa)*
+
+The Holy Name ‘Kṛṣṇa’ is the wish-fulfilling gem, Kṛṣṇa Himself, the living form of ecstasy, the absolute whole, transcendental to māyā, the eternal independent; because, the Name and the Named are identical.
+
+    harer nāma harer nāma harer nāmaiva kevalam
+    kalau nāsty eva nāsty eva nāsty eva gatir anyathā
+
+*(Bṛhan-Nāradīya-Purāṇa)*
+
+The Holy Name, the Holy Name, the Holy Name alone – in this age of Kali there is no other shelter, no other shelter, no other shelter.
+
+    hare keśava govinda vāsudeva jaganmaya
+    itīrayanti ye nityaṁ na hi tān bādhate kaliḥ
+
+*(Bṛhan-Nāradīya-Purāṇa)*
+
+The influence of Kali no longer affects one who constantly chants the Holy Names of the Lord, such as Hare, Keśava, Govinda, and Vāsudeva.
+
+    go-koṭi-dānaṁ grahaṇe bhagasya
+    prayāga-gaṅgodaka-kalpa-vāsaḥ
+    yajñāyutaṁ meru-suvarṇa-dānaṁ
+    govinda-kīrtter na samaṁ śatāṁśaiḥ
+
+*(Skanda-Purāṇa)*
+
+Making a gift of ten million cows on a solar eclipse, residing for a millennium at holy places like Prayāg, where the sacred Ganges flows, performing ten thousand sacrifices and giving away a mountain of gold – hundreds of such pious activities can never equal the slightest attempt to sing the Holy Name of the Supreme Lord Govinda.
+

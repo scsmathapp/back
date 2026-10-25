@@ -1,0 +1,66 @@
+---
+page: 81
+author: Śrīla Bhakti Vinod Ṭhākur
+first_line: (ohe) vaiṣṇava ṭhākura dayāra sāgara
+alt_first_lines: vaiṣṇava ṭhākura dayāra sāgara
+verse parentheses: non bold
+---
+
+# Śrī Vaiṣṇava-mahimā Gīti
+
+### by Śrīla Bhakti Vinod Ṭhākur
+
+#### 1
+
+    (ohe) vaiṣṇava ṭhākura    dayāra sāgara
+                e dāse karuṇā kari’
+            diyā pada-chhāyā    śodhahe āmāre
+                tomāra charaṇa dhari
+
+(O) my Lord, O Vaiṣṇava, ocean of grace, kindly be gracious to this servitor, bestow the shade of your holy feet. Purify me. I clasp your holy lotus feet.
+
+#### 2
+
+    chhaya vega dami’    chhaya doṣa śodhi’
+        chhaya guṇa deha’ dāse
+    chhaya sat-saṅga    deha’ he āmāre
+        basechhi saṅgera āśe
+
+Subjugate the six urges, rectify the six defects, bestow the six good qualities upon this servitor. Please grant me the six kinds of saintly association. I sit at your feet aspiring for that association.\*
+
+#### 3
+
+    ekākī āmāra    nāhi pāya bala
+        hari-nāma-saṅkīrtane
+    tumi kṛpā kari’    śraddhā-bindu diyā
+        deha’ kṛṣṇa-nāma-dhane
+
+On my own I have no strength to chant the Holy Name in congregation. Kindly be pleased to bestow a drop of faith in my heart, giving me the treasure of Lord Kṛṣṇa’s Name.
+
+#### 4
+
+    kṛṣṇa se tomāra    kṛṣṇa dite pāra
+        tomāra śakati āchhe
+    āmi ta’ kāṅgāla    ‘kṛṣṇa’ ‘kṛṣṇa’ bali’
+        dhāi tava pāchhe pāchhe
+
+Kṛṣṇa is yours. You can give Kṛṣṇa. You have that power. I who am bereft am calling “Kṛṣṇa!” “Kṛṣṇa!” while running desperately behind you.
+
+    (āmi) (dhāi tava pāchhe pāchhe)
+    (kṛṣṇa dhana pābar āśe dhāi tava pāchhe pāchhe)
+    (tumi dileo kṛṣṇa dite pāra)
+    (kṛṣṇa tomār hṛdayer dhan tumi dileo dite pāra)
+    (kṛṣṇa debār śakti-dhara tumi dileo dite pāra)
+
+(I run after you. With the hope of attaining the wealth of Kṛṣṇa, I run after you. If you desire to give, you can give Kṛṣṇa. Kṛṣṇa is the wealth of your heart, and if you desire to give, you can give. You have the power to give Kṛṣṇa, and if you desire to give, you can give.)
+
+\****Footnote to verse 2:***
+
+The six urges are those of speech, the mind, anger, the tongue, the belly, and the genitals.
+
+The six faults are overeating or collecting more monetary funds than required, over-endeavouring for material objectives, unnecessary talking about mundane affairs, being too attached to or too neglectful of Scriptural rules and regulations, associating with worldly-minded persons, and lusting after mundane achievements.
+
+The six good qualities are enthusiasm, patience, confidence, the determination to perform activities favourable to devotional service, the resolution to abandon the association of non-devotees, and the discipline required to always follow in the footsteps of the predecessor āchāryas.
+
+The six kinds of saintly association are offering gifts in charity, accepting charitable gifts, revealing one’s mind in confidence, enquiring confidentially, accepting prasādam and offering prasādam.
+

@@ -1,0 +1,38 @@
+---
+page: 218
+author: Śrīla Bhakti Vinod Ṭhākur
+first_line: vaikuṇṭha apekṣā śreṣṭha māthura-maṇḍala
+alt_first_lines:
+  - Śrī Śrī Upadeśāmṛta – Verse 9
+  - vaikuṇṭhāj janito varā madhu-purī tatrāpi rāsotsavād
+---
+
+# Śrī Śrī Upadeśāmṛta
+
+## Verse Nine
+
+### by Śrīla Rūpa Goswāmī Prabhu in Sanskrit
+
+    vaikuṇṭhāj janito varā madhu-purī tatrāpi rāsotsavād-
+    vṛndāraṇyam udāra-pāṇi-ramaṇāt tatrāpi govardhanaḥ
+    rādhā-kuṇḍam ihāpi gokula-pateḥ premāmṛtāplāvanāt
+    kuryād asya virājato giri-taṭe sevāṁ vivekī na kaḥ
+
+The holy place known as Mathurā is spiritually superior to Vaikuṇṭha, the transcendental world, because the Lord appeared there. Superior to Mathurā-purī is the transcendental forest of Vṛndāvan because of Kṛṣṇa’s Rāsa-līlā Pastimes. And superior to the forest of Vṛndāvan is Govardhan Hill, for it was raised by the divine hand of Śrī Kṛṣṇa and was the site of His various loving Pastimes. And, above all, the superexcellent Śrī Rādhā Kuṇḍa stands supreme, for it is overflooded with the ambrosial nectarean prema of the Lord of Gokul, Śrī Kṛṣṇa. Where, then, is that intelligent person who is unwilling to serve this divine Rādhā Kuṇḍa, which is situated at the foot of Govardhan Hill?
+
+*Śrīla Bhakti Vinod Ṭhākur’s corresponding Bengali composition:*
+
+#### 1
+
+    vaikuṇṭha apekṣā śreṣṭha māthura-maṇḍala
+    tad apekṣā vṛndāvan yathā rāsa-sthala
+
+Higher than Vaikuṇṭha is Māthura Maṇḍal, and higher than that is Vṛndāvan, the place of the Rāsa Dance.
+
+#### 2
+
+    tad apekṣā govardhan nitya keli-sthāna
+    rādhā-kuṇḍe tad apekṣā premera vijñāna
+
+Higher than Vṛndāvan is Govardhan, the place of Kṛṣṇa’s daily play, and higher than that is Rādhā Kuṇḍa, where there is full realisation of prema.
+

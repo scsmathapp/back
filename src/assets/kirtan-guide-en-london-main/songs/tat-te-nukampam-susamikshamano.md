@@ -1,0 +1,19 @@
+---
+page: 311
+no-author: 1
+first_line: tat te ’nukampāṁ susamīkṣamāṇo
+---
+
+# The Highest Type of Regulation
+
+### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+
+Even obstacles may improve our position if we can take them in the right way. From a higher angle of vision, it may be seen that everything is coming to help us.
+
+    tat te ’nukampāṁ susamīkṣamāṇo
+    bhuñjāna evātma-kṛtaṁ vipākam
+    hṛd-vāg-vapurbhir vidadhan namas te
+    jīveta yo mukti-pade sa dāya-bhāk
+
+*Śrīmad Bhāgavatam* (10.14.8) gives us a most hopeful suggestion for all stages of life: blame yourself and no one else. Maintain your appreciation for the Lord, seeing everything as His grace. At present we think our circumstances undesirable because they do not suit our present taste. But medicine may not always suit the taste of the patient. Still, it is conducive to health. This verse is the highest type of regulation given by the śāstra. If you can follow this law, then in no time you will have a very good position. We must be careful not to blame the circumstances, but to appreciate that Kṛṣṇa is behind everything. Kṛṣṇa is my best friend; He is in the background of everything. Everything is passing through His attentive eyes. So, there cannot be any defect there.
+
