@@ -1,6 +1,7 @@
 // scripts/generateVectors.js
 // Run once: node scripts/generateVectors.js
 // Generates public/vectors.json
+import 'dotenv/config';
 import books from './getBooks.js';
 
 import fs from 'fs';
@@ -12,7 +13,7 @@ import { fileURLToPath } from 'url';
 const __filename  = fileURLToPath(import.meta.url);
 const __dirname   = path.dirname(__filename);
 
-const COHERE_KEY = 'e2RAlkI3jUxjWp2CiVFZhBHJCdoTKXjOoXnWxHxl';
+const COHERE_KEY = process.env.COHERE_API_KEY; // set in .env (not committed)
 const BATCH_SIZE = 96; // Cohere's max per request
 const TPM_LIMIT   = 90000; // stay under 100k with a safety buffer
 const OUTPUT_PATH = path.join(__dirname, '../public/vectors.json');

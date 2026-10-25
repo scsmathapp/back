@@ -1,5 +1,6 @@
 .git
 .env
 node_modules
-back/src/db/krsna_search-books-noncrypted.sqlite
+src/db/krsna_search-books-noncrypted.sqlite
 src/assets/chat-index/
+service-account.json
