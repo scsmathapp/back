@@ -1,47 +1,27 @@
-const initialIdea = `
-The German Philosopher Hegel had a concept: "Die to live"
-In the search for Krishna, it does not mean to work hard like death and live. Nor waiting for death to live in the after life.
-It rather means to kill the self centered personality (dissolving the false ego and identity as enjoyers of the world completely)
-And to live as the sweet real self that is buried deep under the mountains of enjoyment habits that we have collected over millions of births.
-That real self is a part and parcel of the whole. A piece of the play of Sri Krishna. Living as the real self means joining the play of Sri Krishna.
-`;
-
 const creoleScript = `
-6 Grand Rechercheur kont 1 Personn Ordinair
+Eski zot inn deza ressenti ki zot konn kiken... Maiiiiissss zot pa konn li?
 
-Kisana donn nu meyer solution?
+Laiss mo expliké...
 
-Koir moi, 6eme la impratikab!
+Parfoi zot konn 1 dimun so nom, zot koner ki ki li faire, kuma li paret...
 
-Kan nu kamarad soi relation faire nu souffer
-Kapila Muni dire nu analyse nu l'environment pu kompren ki la cause de nu souffrance
+Zot kapav inn bien zouenn li pendan plusieur letan tou!
 
-Kan traka la fami, lekol soi travay fatigue nu latet
-Patanjali Rishi dire nu faire Yoga pu calmer lespri
+Mais seki ena dan so leker... Zot pa konn ditou!
 
-Kan nu truv le monde kuma 1 mystere
-Kanada Rishi dire nu essaye kompren kuma linn former ar ban atom
+Eski seki nu kompren lor Bondié kapav etre parey?
 
-(Oui 1er dimun ki ti decouver atom ti 1 Rishi de l'Inde!)
+Dan la recherche de Sri Krishna, nu pa la pu konn lor Krishna lao lao
 
-Kan whatsapp soi reels donn otan information ki nu pa koner ki pu koir ki pa pu koir
-Gautama Rishi dire nu servi la logic pu truv la verité
+Mais Srila Sridhar Maharaj explore 1 l'idee pli profond...
 
-Kan nu envi nu gagne bon rezilta dan lavenir
-Jaimini Rishi dire nu faire ban bon action aster la
+Ki arriver si nu relation ek Bondie li pa zis pu prier li, pu demann kitsoz, soi suive ban reglement?
 
-Et kan nu ban dezir pli fort donn nu plis mizer
-Buddha dire nu detaché ar sa le monde la
+Respecter Bondier li 1 base oui... Mais ki arriver si nu kapav decouvert plis?
 
-Mais seki meyer... Bhaktivinoda Thakur... 1 simple personn familial dire nu...
+Ki arriver si nu kapav develop 1 relation bien proche ek Bondier?
 
-Kifer faire tousa zeffor la?
+Gaudiya Vaishnavism explore sa vision extra ordinaire la ek Sri Krishna.
 
-Ki arriver si ena 1 reson derier tou seki pe arrivé?
-
-Dan plass nu essaye faire sa le monde la vinn dan nu fason...
-
-Pa plito nu gard confians lor so createur ki pe gere li?
-
-Et peut etre nu pu trouve lavi de 1 meyer point de vue ki zamai noun truver!
+Li kestion li pa zis "Eski mo koir dan Bondier?" Mais aussi... "Komier mo kapav rapproche moi ek li?"
 `
