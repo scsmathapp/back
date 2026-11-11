@@ -1,6 +1,9 @@
 import {promises as fs} from "fs";
 import path from "path";
+import { appendBook, logAppend } from './bookFiles.js';
 
+// Builds the Kirtan Guide from the kirtan-guide repo and appends any new kirtans (matched by
+// code) to the end of the client's en-KirtanGuide.json. Existing kirtans are left as they are.
 export default async function (req, res) {
     const kirtanGuide = {
         title: 'Kirtan Guide',
@@ -9,6 +12,8 @@ export default async function (req, res) {
     }
 
     await readFilesFromDirectory('./src/assets/kirtan-guide-en-london-main/json/songs', kirtanGuide);
+
+    logAppend(appendBook(kirtanGuide));
 
     res.send(kirtanGuide);
 }

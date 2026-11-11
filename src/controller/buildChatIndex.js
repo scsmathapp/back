@@ -4,12 +4,13 @@ import path from 'path';
 import crypto from 'crypto';
 import { fileURLToPath } from 'url';
 import { cleanText, normalizeForMatch, searchTokens } from './bookText.js';
+import { BOOKS_DIR } from './bookFiles.js';
 
 // Builds the search index used by the AI chat (chat.js and krishna-search-php/api/ks-ai.php),
 // so requests never have to parse the book JSON.
 //
 // Usage (from back/):  node src/controller/buildChatIndex.js [--no-embed]
-// Re-run whenever books in src/assets/books change.
+// Re-run whenever the books (client/src/assets/books/json, see bookFiles.js) change.
 //
 // The keyword index is built locally in seconds. Passage embeddings need the Gemini API; the
 // free tier allows about 100 a minute, so they are fetched slowly, cached in
@@ -33,7 +34,6 @@ import { cleanText, normalizeForMatch, searchTokens } from './bookText.js';
 //   kw.len      uint16 number of tokens per passage
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
-const BOOKS_DIR = path.resolve(HERE, '../assets/books');
 export const CHAT_INDEX_DIR = path.resolve(HERE, '../assets/chat-index');
 const PHP_INDEX_DIR = path.resolve(HERE, '../../../krishna-search-php/api/ks-ai-data');
 const CACHE_FILE = path.join(CHAT_INDEX_DIR, 'embed-cache.json');

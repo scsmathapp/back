@@ -1,7 +1,8 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { BOOKS_DIR, DICTIONARY_FILE } from './bookFiles.js';
 
-async function extractUniqueWordsToJson(folderPath, outputFilename = 'ksDictionary.json') {
+async function extractUniqueWordsToJson(folderPath, outputPath) {
     const files = await readdir(folderPath);
     const targetFiles = files.filter(
         (file) => file.startsWith('en-') && file.endsWith('.json')
@@ -42,14 +43,11 @@ async function extractUniqueWordsToJson(folderPath, outputFilename = 'ksDictiona
     }
 
     const resultArray = Array.from(uniqueWords).sort((a, b) => a.localeCompare(b, 'en'));
-    const outputPath = join(folderPath, outputFilename);
-
     // Write array as pretty-printed JSON
     await writeFile(outputPath, JSON.stringify(resultArray), 'utf8');
 
     console.log(`Saved ${resultArray.length} unique words to ${outputPath}`);
 }
 
-// Usage:
-const folderPath = './src/assets/books';
-await extractUniqueWordsToJson(folderPath);
+// Usage (from back/): node src/controller/bookWordsArray.js
+await extractUniqueWordsToJson(BOOKS_DIR, DICTIONARY_FILE);

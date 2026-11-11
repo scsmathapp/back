@@ -48,6 +48,7 @@
 
 import { promises as fs } from "fs";
 import path from "path";
+import { BOOKS_DIR } from "./bookFiles.js";
 
 async function processJsonFiles(folderPath) {
     try {
@@ -103,4 +104,4 @@ async function processJsonFiles(folderPath) {
 }
 
 // Usage: Provide the path to your folder
-processJsonFiles("./src/assets/books");
+processJsonFiles(BOOKS_DIR);

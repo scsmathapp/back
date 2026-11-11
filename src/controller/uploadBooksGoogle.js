@@ -4,6 +4,7 @@ import fs from 'fs';
 import os from 'os';
 import path from 'path';
 import { bookToMarkdown } from './bookText.js';
+import { BOOKS_DIR } from './bookFiles.js';
 
 // Usage:
 //   node src/controller/uploadBooksGoogle.js            -> upload books missing from the store
@@ -11,7 +12,6 @@ import { bookToMarkdown } from './bookText.js';
 //   node src/controller/uploadBooksGoogle.js --dry-run  -> only convert books to markdown, no API calls
 
 const STORE_DISPLAY_NAME = "KrishnaSearchBookStore";
-const BOOKS_DIR = './src/assets/books';
 const OUT_DIR = path.join(os.tmpdir(), 'scsmath-books-md');
 
 const args = process.argv.slice(2);

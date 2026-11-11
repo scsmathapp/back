@@ -1,12 +1,5 @@
 import _ from 'lodash';
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
-import fs from 'fs';
-import path from 'path';
-
-// Define __dirname equivalent for ES modules
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import { appendBook, logAppend } from './bookFiles.js';
 
 export function getBooks(db, req, res) {
     db.all('SELECT * FROM book;', [], (err, rows) => {
@@ -137,10 +130,16 @@ export function booksJSON(db, req, res) {
                     return ch;
                 });
 
-                writeObjectToJsonFile(book, book.code + '.json');
             });
 
-            res.status(200).send({success: true});
+            // Add to the client's books: new books are written, existing ones only get new chapters
+            const results = _.map(books, book => {
+                const result = appendBook(book);
+                logAppend(result);
+                return { code: book.code, created: result.created, appended: result.appended };
+            });
+
+            res.status(200).send({success: true, books: results});
         }
     });
 
@@ -212,23 +211,5 @@ export function booksJSON(db, req, res) {
             .sortBy(0) // Sort pairs by the key (0th index)
             .map(1)    // Extract the value (1st index)
             .value();  // Unwrap the final array
-    }
-
-    // Function to write a JavaScript object to a JSON file
-    function writeObjectToJsonFile(object, filename) {
-        // Resolve the file path
-        const filePath = path.resolve(__dirname, '../assets/books', filename);
-
-        // Ensure the directory exists
-        fs.mkdirSync(path.dirname(filePath), { recursive: true });
-
-        // Write the object to a JSON file
-        fs.writeFile(filePath, JSON.stringify(object, null, 2), 'utf8', (err) => {
-            if (err) {
-                console.error('Error writing JSON file:', err);
-            } else {
-                console.log(`JSON file has been written successfully to ${filePath}`);
-            }
-        });
     }
 }

@@ -1,17 +1,25 @@
 import { promises as fs } from 'fs';
 import path from 'path';
+import { appendBook, logAppend } from './bookFiles.js';
 
-const book = {
-    title: 'Brahma Samhita',
-    chapters: []
-}
-
+// Builds Brahma Samhita from the draft repo pages and appends any new chapters (matched by
+// title) to the end of the client's en-BrahmaSamhita.json. Existing chapters are left as they are.
 export default async function(req, res) {
     const book = await readFilesFromDirectory('./src/assets/brahma-samhita-en-draft-main/pages');
+
+    logAppend(appendBook(book));
+
     res.send(book);
 }
 
 async function readFilesFromDirectory(directoryPath) {
+    // Built fresh on every request (a shared object would collect the chapters again each time)
+    const book = {
+        title: 'Brahma Samhita',
+        code: 'en-BrahmaSamhita',
+        chapters: []
+    };
+
     try {
         const files = await fs.readdir(directoryPath);
         const needed = ['02-for-the-readers-appreciation.md', '03-feelings-of-appreciation.md', '04-prologue.md', '05-translators-note.md']
