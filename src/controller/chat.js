@@ -8,7 +8,8 @@ import {
 } from './buildChatIndex.js';
 
 // POST /chat  body: { message: string, history?: string[] (previous questions) }
-// -> { intro: string, sources: [{ code, title, chapterIndex, chapterTitle,
+// -> { intro: string, related: boolean (no direct answer, related passages instead),
+//      sources: [{ code, title, chapterIndex, chapterTitle,
 //        paragraphs: [{ chapterIndex, paragraphIndex, class, text, context }] }] }
 //
 // 1. Every passage of every book is searched at once (local index, see buildChatIndex.js),
@@ -19,13 +20,16 @@ import {
 //
 // Ported to PHP in krishna-search-php/api/ks-ai.php: keep both in step.
 
-// Models in each group are asked in parallel and the first reply wins. The next group
-// is only used when every model of a group fails (the flash models often return 503).
+// Models in each group are asked in parallel and the first reply wins, so the chat uses
+// whichever is fastest at the moment (their speed on Google's side changes a lot).
+// The next group is only used when every model of a group fails (flash often returns 503).
 const MODEL_GROUPS = [
-    ['gemini-3.5-flash-lite', 'gemini-flash-lite-latest'],
+    ['gemini-3.1-flash-lite-preview', 'gemini-3.5-flash-lite', 'gemini-flash-lite-latest'],
     ['gemini-3.5-flash', 'gemini-flash-latest'],
 ];
-const REQUEST_TIMEOUT = 20000;
+const REQUEST_TIMEOUT = 30000;       // the lite models currently need up to ~25s under load
+const TOTAL_TIMEOUT = 35000;         // whole question, all model groups together
+const MIN_GROUP_TIME = 3000;         // not worth starting another group with less than this
 const EMBED_TIMEOUT = 5000;          // past this, keyword results are used alone
 const BM25_K1 = 1.2;
 const BM25_B = 0.75;
@@ -33,6 +37,7 @@ const MAX_HISTORY = 3;
 const MAX_MESSAGE_LENGTH = 2000;
 const TOP_PASSAGES = 25;             // passages the model reads
 const MAX_ANSWER_PARAGRAPHS = 15;
+const MAX_RELATED_PARAGRAPHS = 8;    // shown when no paragraph answers the question directly
 const MAX_EXTRA_PARAGRAPHS = 10;     // the same paragraphs found elsewhere
 const MAX_EXTRA_PER_PARAGRAPH = 3;
 const MIN_EXTRA_LENGTH = 40;         // short paragraphs (headings, verse numbers) are too generic
@@ -40,22 +45,26 @@ const MAX_MATCHES = 50;
 const MAX_CARDS = 15;
 
 const FOUND_INTRO = "Here's what I found in the books:";
+const RELATED_INTRO = "The books don't answer this directly, but these passages are related:";
 const NOT_FOUND_INTRO = "I couldn't find anything about this in the books.";
 
 const SYSTEM_INSTRUCTION = `You find paragraphs in books that answer a question. You never write your own words.
 You are given numbered paragraphs (#number) grouped by book and chapter.
-Return the numbers of the paragraphs that directly answer the question, most relevant first.
+Return in "answers" the numbers of the paragraphs that directly answer the question, most relevant first.
 The same teaching is often given in several books: include the answering paragraphs from EVERY book, not just one.
 Return in "context" the numbers of paragraphs only needed to understand an answer (for example the start of a list).
-Use only numbers that appear in the passages. At most ${MAX_ANSWER_PARAGRAPHS} answers. If nothing answers the question, return empty lists.`;
+Always return in "related" the numbers of the paragraphs (at most ${MAX_RELATED_PARAGRAPHS}) most closely related to the question,
+most relevant first, even when nothing answers it directly: they are shown when there is no direct answer.
+Use only numbers that appear in the passages. At most ${MAX_ANSWER_PARAGRAPHS} answers. Leave "answers" empty if nothing answers the question directly.`;
 
 const RESPONSE_SCHEMA = {
     type: Type.OBJECT,
     properties: {
         answers: { type: Type.ARRAY, items: { type: Type.INTEGER } },
         context: { type: Type.ARRAY, items: { type: Type.INTEGER } },
+        related: { type: Type.ARRAY, items: { type: Type.INTEGER } },
     },
-    required: ['answers'],
+    required: ['answers', 'related'],
 };
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
@@ -280,7 +289,7 @@ function nearestPassages(query, k) {
 
 // ---------- Gemini ----------
 
-function askModel(model, contents, signal) {
+function askModel(model, contents, signal, timeout) {
     return ai.models.generateContent({
         model,
         contents,
@@ -290,19 +299,19 @@ function askModel(model, contents, signal) {
             responseSchema: RESPONSE_SCHEMA,
             maxOutputTokens: 512,
             temperature: 0,
-            abortSignal: AbortSignal.any([signal, AbortSignal.timeout(REQUEST_TIMEOUT)]),
+            abortSignal: AbortSignal.any([signal, AbortSignal.timeout(timeout)]),
         },
     });
 }
 
 // Asks the models of a group in parallel; resolves with the first reply, or the last error
-function raceGroup(models, contents) {
+function raceGroup(models, contents, timeout) {
     const controller = new AbortController();
     return new Promise(resolve => {
         let pending = models.length;
         let lastError = null;
         for (const model of models) {
-            askModel(model, contents, controller.signal)
+            askModel(model, contents, controller.signal, timeout)
                 .then(response => {
                     controller.abort();
                     resolve({ response });
@@ -316,10 +325,14 @@ function raceGroup(models, contents) {
     });
 }
 
+// One time budget for the whole question: the fallback group only gets what is left
 async function selectParagraphs(contents) {
+    const deadline = Date.now() + TOTAL_TIMEOUT;
     let lastError;
     for (const models of MODEL_GROUPS) {
-        const { response, error } = await raceGroup(models, contents);
+        const left = deadline - Date.now();
+        if (left < MIN_GROUP_TIME) break;
+        const { response, error } = await raceGroup(models, contents, Math.min(REQUEST_TIMEOUT, left));
         if (response) return response;
         lastError = error;
         // Only unavailable / rate limited / timed out models are worth retrying elsewhere
@@ -361,11 +374,14 @@ function parseSelection(text, allowed) {
     try {
         data = JSON.parse(text || '{}');
     } catch {
-        return { answers: [], context: [] };
+        return { answers: [], context: [], related: false };
     }
     // Only paragraphs the model was shown: anything else is ignored
     const clean = list => [...new Set((Array.isArray(list) ? list : []).map(Number))].filter(n => allowed.has(n));
-    return { answers: clean(data.answers).slice(0, MAX_ANSWER_PARAGRAPHS), context: clean(data.context) };
+    const answers = clean(data.answers).slice(0, MAX_ANSWER_PARAGRAPHS);
+    if (answers.length) return { answers, context: clean(data.context), related: false };
+    // No direct answer: the related paragraphs are shown instead, under a different intro
+    return { answers: clean(data.related).slice(0, MAX_RELATED_PARAGRAPHS), context: [], related: true };
 }
 
 // ---------- Paragraphs -> source cards ----------
@@ -492,7 +508,8 @@ export default async function (req, res) {
         const response = await selectParagraphs(prompt);
         timings.push(Date.now());
 
-        const sources = buildSources(parseSelection(response.text, lines));
+        const selection = parseSelection(response.text, lines);
+        const sources = buildSources(selection);
         timings.push(Date.now());
 
         if (process.env.CHAT_DEBUG) {
@@ -500,7 +517,8 @@ export default async function (req, res) {
             console.log(`chat: embed ${embedded - start}ms, search ${searched - embedded}ms, ` +
                 `${response.modelVersion} ${selected - searched}ms, build ${built - selected}ms; reply ${response.text}`);
         }
-        res.send({ intro: sources.length ? FOUND_INTRO : NOT_FOUND_INTRO, sources });
+        const intro = !sources.length ? NOT_FOUND_INTRO : selection.related ? RELATED_INTRO : FOUND_INTRO;
+        res.send({ intro, related: selection.related && sources.length > 0, sources });
     } catch (err) {
         console.error('chat error:', err.message);
         const busy = [429, 503].includes(err.status) || err.name === 'TimeoutError';
